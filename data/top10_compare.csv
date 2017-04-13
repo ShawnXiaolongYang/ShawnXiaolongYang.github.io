@@ -1,0 +1,21 @@
+count,from_station_name,to_station_name,usertype,from_lat,from_long,to_lat,to_long,top,path
+5249,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,Customer,41.881,-87.6167,41.8923,-87.612,1,Lake Shore Dr & Monroe St-Streeter Dr & Grand Ave
+4113,Streeter Dr & Grand Ave,Streeter Dr & Grand Ave,Customer,41.8923,-87.612,41.8923,-87.612,2,Streeter Dr & Grand Ave-Streeter Dr & Grand Ave
+3432,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,Customer,41.8923,-87.612,41.9117,-87.6268,3,Streeter Dr & Grand Ave-Lake Shore Dr & North Blvd
+3128,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,Customer,41.9117,-87.6268,41.8923,-87.612,4,Lake Shore Dr & North Blvd-Streeter Dr & Grand Ave
+2996,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,Customer,41.8923,-87.612,41.881,-87.6167,5,Streeter Dr & Grand Ave-Lake Shore Dr & Monroe St
+2946,Theater on the Lake,Streeter Dr & Grand Ave,Customer,41.9263,-87.6308,41.8923,-87.612,6,Theater on the Lake-Streeter Dr & Grand Ave
+2889,Streeter Dr & Grand Ave,Theater on the Lake,Customer,41.8923,-87.612,41.9263,-87.6308,7,Streeter Dr & Grand Ave-Theater on the Lake
+2381,Lake Shore Dr & Monroe St,Lake Shore Dr & Monroe St,Customer,41.881,-87.6167,41.881,-87.6167,8,Lake Shore Dr & Monroe St-Lake Shore Dr & Monroe St
+2060,Streeter Dr & Grand Ave,Millennium Park,Customer,41.8923,-87.612,41.881,-87.6241,9,Streeter Dr & Grand Ave-Millennium Park
+2046,Streeter Dr & Grand Ave,Michigan Ave & Oak St,Customer,41.8923,-87.612,41.901,-87.6238,10,Streeter Dr & Grand Ave-Michigan Ave & Oak St
+1049,Streeter Dr & Grand Ave,Theater on the Lake,Subscriber,41.8923,-87.612,41.9263,-87.6308,1,Streeter Dr & Grand Ave-Theater on the Lake
+900,Theater on the Lake,Streeter Dr & Grand Ave,Subscriber,41.9263,-87.6308,41.8923,-87.612,2,Theater on the Lake-Streeter Dr & Grand Ave
+735,Southport Ave & Wellington Ave,Sheffield Ave & Wellington Ave,Subscriber,41.9357,-87.6636,41.9363,-87.6527,3,Southport Ave & Wellington Ave-Sheffield Ave & Wellington Ave
+730,Sheffield Ave & Wellington Ave,Southport Ave & Wellington Ave,Subscriber,41.9363,-87.6527,41.9357,-87.6636,4,Sheffield Ave & Wellington Ave-Southport Ave & Wellington Ave
+700,Michigan Ave & Washington St,Canal St & Madison St,Subscriber,41.8839,-87.6246,41.8821,-87.6398,5,Michigan Ave & Washington St-Canal St & Madison St
+695,Columbus Dr & Randolph St,Canal St & Madison St,Subscriber,41.8847,-87.6195,41.8821,-87.6398,6,Columbus Dr & Randolph St-Canal St & Madison St
+627,LaSalle St & Jackson Blvd,Canal St & Madison St,Subscriber,41.8782,-87.632,41.8821,-87.6398,7,LaSalle St & Jackson Blvd-Canal St & Madison St
+626,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,Subscriber,41.9117,-87.6268,41.8923,-87.612,8,Lake Shore Dr & North Blvd-Streeter Dr & Grand Ave
+610,Wilton Ave & Diversey Pkwy,Hampden Ct & Diversey Pkwy,Subscriber,41.9324,-87.6527,41.9326,-87.6424,9,Wilton Ave & Diversey Pkwy-Hampden Ct & Diversey Pkwy
+604,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,Subscriber,41.8923,-87.612,41.9117,-87.6268,10,Streeter Dr & Grand Ave-Lake Shore Dr & North Blvd

@@ -1,0 +1,2161 @@
+starttimes,from_station_name,to_station_name,counts,from_lat,from_long,to_lat,to_long
+0,Clark St & Wrightwood Ave,Wells St & Concord Ln,6,41.9295,-87.6431,41.9121,-87.6347
+0,Mies van der Rohe Way & Chicago Ave,Lake Shore Dr & Ohio St,4,41.8969,-87.6217,41.8926,-87.6145
+0,Stetson Ave & South Water St,Michigan Ave & 14th St,2,41.8868,-87.6223,41.8641,-87.6237
+0,Lincoln Ave & Fullerton Ave,Wood St & Division St,2,41.9259,-87.6493,41.9033,-87.6727
+0,Millennium Park,LaSalle St & Illinois St,2,41.881,-87.6241,41.8908,-87.6321
+0,Michigan Ave & Congress Pkwy,Indiana Ave & Roosevelt Rd,2,41.8762,-87.6244,41.8679,-87.623
+0,State St & Van Buren St,Franklin St & Jackson Blvd,2,41.8772,-87.6278,41.8777,-87.6353
+0,Dayton St & North Ave,Wells St & Huron St,2,41.9106,-87.6494,41.8947,-87.6338
+0,Milwaukee Ave & Wabansia Ave,Damen Ave & Augusta Blvd,2,41.9126,-87.6814,41.8997,-87.6772
+0,Jefferson St & Monroe St,Morgan St & 18th St,2,41.8804,-87.6427,41.8581,-87.6511
+0,Theater on the Lake,Clark St & Wrightwood Ave,2,41.9263,-87.6308,41.9295,-87.6431
+0,Wabash Ave & Adams St,Wabash Ave & 8th St,2,41.8795,-87.6257,41.872,-87.6261
+0,Wabash Ave & 8th St,Kingsbury St & Kinzie St,2,41.872,-87.6261,41.8892,-87.6385
+0,Columbus Dr & Randolph St,Dearborn St & Erie St,2,41.8847,-87.6195,41.894,-87.6293
+1,Lake Shore Dr & Ohio St,Columbus Dr & Randolph St,4,41.8926,-87.6145,41.8847,-87.6195
+1,Columbus Dr & Randolph St,Wabash Ave & Adams St,4,41.8847,-87.6195,41.8795,-87.6257
+1,Wells St & Concord Ln,Clark St & North Ave,3,41.9121,-87.6347,41.912,-87.6319
+1,Wabash Ave & Roosevelt Rd,State St & Harrison St,2,41.8672,-87.626,41.8741,-87.6277
+1,Lakeview Ave & Fullerton Pkwy,Cannon Dr & Fullerton Ave,2,41.9259,-87.639,41.9268,-87.6344
+1,Lakefront Trail & Bryn Mawr Ave,Ridge Blvd & Touhy Ave,2,41.984,-87.6523,42.0121,-87.6829
+1,Michigan Ave & Oak St,Lakefront Trail & Bryn Mawr Ave,2,41.901,-87.6238,41.984,-87.6523
+1,California Ave & Milwaukee Ave,Milwaukee Ave & Rockwell St,2,41.9227,-87.6972,41.9202,-87.693
+1,Clarendon Ave & Gordon Ter,Broadway & Waveland Ave,2,41.9579,-87.6495,41.9491,-87.6486
+1,Southport Ave & Waveland Ave,Leavitt St & Addison St,2,41.9482,-87.6639,41.947,-87.6834
+2,Wabash Ave & Roosevelt Rd,State St & Kinzie St,4,41.8672,-87.626,41.8892,-87.6277
+2,Wabash Ave & Adams St,Wabash Ave & Roosevelt Rd,4,41.8795,-87.6257,41.8672,-87.626
+2,Larrabee St & Armitage Ave,Clifton Ave & Armitage Ave,2,41.9181,-87.6437,41.9182,-87.6569
+2,Broadway & Waveland Ave,Clarendon Ave & Gordon Ter,2,41.9491,-87.6486,41.9579,-87.6495
+3,Wabash Ave & Wacker Pl,Lake Shore Dr & Ohio St,4,41.8869,-87.626,41.8926,-87.6145
+3,State St & Kinzie St,Wabash Ave & Wacker Pl,4,41.8892,-87.6277,41.8869,-87.626
+3,Franklin St & Jackson Blvd,Columbus Dr & Randolph St,4,41.8777,-87.6353,41.8847,-87.6195
+3,Columbus Dr & Randolph St,Fairbanks Ct & Grand Ave,4,41.8847,-87.6195,41.8919,-87.6206
+4,Fairbanks Ct & Grand Ave,Franklin St & Jackson Blvd,4,41.8919,-87.6206,41.8777,-87.6353
+4,Broadway & Waveland Ave,Broadway & Berwyn Ave,2,41.9491,-87.6486,41.9784,-87.6598
+5,Canal St & Adams St,McClurg Ct & Erie St,2,41.8793,-87.6399,41.8945,-87.6179
+5,Aberdeen St & Jackson Blvd,LaSalle St & Jackson Blvd,2,41.8777,-87.6548,41.8782,-87.632
+6,Racine Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,3,41.9289,-87.659,41.9256,-87.6537
+6,Clinton St & Washington Blvd,Wolcott Ave & Polk St,3,41.8834,-87.6412,41.8713,-87.6737
+6,State St & Harrison St,Dearborn St & Monroe St,2,41.8741,-87.6277,41.8813,-87.6295
+6,Ogden Ave & Race Ave,Green St & Madison St,2,41.8918,-87.6588,41.8819,-87.6488
+6,Broadway & Barry Ave,Clifton Ave & Armitage Ave,2,41.9377,-87.6441,41.9182,-87.6569
+6,Canal St & Madison St,LaSalle St & Jackson Blvd,2,41.8821,-87.6398,41.8782,-87.632
+6,Canal St & Madison St,LaSalle St & Adams St,2,41.8821,-87.6398,41.8793,-87.632
+6,Rush St & Superior St,Orleans St & Ohio St,2,41.8958,-87.6259,41.8922,-87.6369
+6,Fairbanks Ct & Grand Ave,Clinton St & Washington Blvd,2,41.8919,-87.6206,41.8834,-87.6412
+6,Kingsbury St & Erie St,Franklin St & Lake St,2,41.8939,-87.6417,41.8858,-87.6355
+6,Lake Shore Dr & Belmont Ave,Lake Shore Dr & North Blvd,2,41.9408,-87.6392,41.9117,-87.6268
+6,McClurg Ct & Illinois St,Orleans St & Ohio St,2,41.891,-87.6173,41.8922,-87.6369
+6,Canal St & Jackson Blvd,Ashland Ave & Harrison St,2,41.8784,-87.6411,41.8743,-87.6672
+6,Dearborn Pkwy & Delaware Pl,LaSalle St & Jackson Blvd,2,41.899,-87.6299,41.8782,-87.632
+6,Claremont Ave & Hirsch St,Leavitt St & North Ave,2,41.9078,-87.6859,41.9102,-87.6823
+6,Clinton St & Washington Blvd,Michigan Ave & Washington St,2,41.8834,-87.6412,41.8839,-87.6246
+6,Clinton St & Washington Blvd,LaSalle St & Jackson Blvd,2,41.8834,-87.6412,41.8782,-87.632
+6,Clinton St & Washington Blvd,St. Clair St & Erie St,2,41.8834,-87.6412,41.8944,-87.6227
+6,Indiana Ave & Roosevelt Rd,Millennium Park,2,41.8679,-87.623,41.881,-87.6241
+6,Clark St & Schiller St,LaSalle St & Washington St,2,41.908,-87.6315,41.8827,-87.6325
+6,Burnham Harbor,Dusable Harbor,2,41.8563,-87.6133,41.885,-87.6128
+6,Peoria St & Jackson Blvd,Franklin St & Jackson Blvd,2,41.8778,-87.6496,41.8777,-87.6353
+6,Hampden Ct & Diversey Pkwy,Wilton Ave & Diversey Pkwy,2,41.9326,-87.6424,41.9324,-87.6527
+7,Clinton St & Washington Blvd,Franklin St & Chicago Ave,6,41.8834,-87.6412,41.8968,-87.6356
+7,Racine Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,5,41.9289,-87.659,41.9256,-87.6537
+7,Canal St & Madison St,Dearborn St & Monroe St,5,41.8821,-87.6398,41.8813,-87.6295
+7,Clinton St & Washington Blvd,LaSalle St & Jackson Blvd,5,41.8834,-87.6412,41.8782,-87.632
+7,Millennium Park,Museum of Science and Industry,4,41.881,-87.6241,41.7917,-87.5839
+7,Clinton St & Washington Blvd,St. Clair St & Erie St,4,41.8834,-87.6412,41.8944,-87.6227
+7,Canal St & Madison St,LaSalle St & Jackson Blvd,3,41.8821,-87.6398,41.8782,-87.632
+7,Clark St & Armitage Ave,May St & Randolph St,3,41.9183,-87.6363,41.884,-87.6557
+7,Ellis Ave & 55th St,Ellis Ave & 58th St,3,41.7943,-87.6014,41.7887,-87.6013
+7,Canal St & Adams St,State St & Kinzie St,3,41.8793,-87.6399,41.8892,-87.6277
+7,Orleans St & Ohio St,Franklin St & Quincy St,3,41.8922,-87.6369,41.8787,-87.6348
+7,Franklin St & Jackson Blvd,State St & Van Buren St,3,41.8777,-87.6353,41.8772,-87.6278
+7,Financial Pl & Congress Pkwy,Wacker Dr & Washington St,2,41.875,-87.6331,41.8833,-87.6373
+7,Financial Pl & Congress Pkwy,Aberdeen St & Jackson Blvd,2,41.875,-87.6331,41.8777,-87.6548
+7,Lake Shore Dr & Ohio St,LaSalle St & Jackson Blvd,2,41.8926,-87.6145,41.8782,-87.632
+7,Desplaines St & Kinzie St,Kingsbury St & Kinzie St,2,41.8887,-87.6444,41.8892,-87.6385
+7,Desplaines St & Kinzie St,Clinton St & Washington Blvd,2,41.8887,-87.6444,41.8834,-87.6412
+7,Wabash Ave & 16th St,Indiana Ave & Roosevelt Rd,2,41.8604,-87.6258,41.8679,-87.623
+7,Southport Ave & Wellington Ave,Sheffield Ave & Wellington Ave,2,41.9357,-87.6636,41.9363,-87.6527
+7,Southport Ave & Wellington Ave,Wilton Ave & Diversey Pkwy,2,41.9357,-87.6636,41.9324,-87.6527
+7,Southport Ave & Wellington Ave,Sheffield Ave & Fullerton Ave,2,41.9357,-87.6636,41.9256,-87.6537
+7,State St & Van Buren St,Franklin St & Jackson Blvd,2,41.8772,-87.6278,41.8777,-87.6353
+7,Canal St & Madison St,Stetson Ave & South Water St,2,41.8821,-87.6398,41.8868,-87.6223
+7,Canal St & Madison St,Michigan Ave & Washington St,2,41.8821,-87.6398,41.8839,-87.6246
+7,Canal St & Madison St,Wells St & Huron St,2,41.8821,-87.6398,41.8947,-87.6338
+7,Canal St & Madison St,Michigan Ave & Lake St,2,41.8821,-87.6398,41.886,-87.6241
+7,Canal St & Madison St,Franklin St & Chicago Ave,2,41.8821,-87.6398,41.8968,-87.6356
+7,Canal St & Madison St,Orleans St & Merchandise Mart Plaza,2,41.8821,-87.6398,41.8882,-87.6364
+7,Canal St & Madison St,Columbus Dr & Randolph St,2,41.8821,-87.6398,41.8847,-87.6195
+7,Damen Ave & Augusta Blvd,Larrabee St & Kingsbury St,2,41.8997,-87.6772,41.8978,-87.6429
+7,Wells St & Polk St,Franklin St & Monroe St,2,41.8724,-87.6335,41.8803,-87.6352
+7,Clark St & Armitage Ave,Michigan Ave & Lake St,2,41.9183,-87.6363,41.886,-87.6241
+7,Halsted St & Roscoe St,Wilton Ave & Belmont Ave,2,41.9437,-87.6489,41.9402,-87.653
+7,Kingsbury St & Erie St,Kingsbury St & Kinzie St,2,41.8939,-87.6417,41.8892,-87.6385
+7,Kingsbury St & Erie St,Orleans St & Ohio St,2,41.8939,-87.6417,41.8922,-87.6369
+7,Union Ave & Grand Ave,Sedgwick St & Huron St,2,41.891,-87.6459,41.8947,-87.6384
+7,Michigan Ave & 18th St,Dearborn St & Adams St,2,41.8578,-87.6245,41.8794,-87.6298
+7,Canal St & Adams St,Wabash Ave & Grand Ave,2,41.8793,-87.6399,41.8917,-87.6269
+7,Canal St & Adams St,Sangamon St & Washington Blvd (*),2,41.8793,-87.6399,41.883,-87.6511
+7,Canal St & Adams St,Michigan Ave & Lake St,2,41.8793,-87.6399,41.886,-87.6241
+7,Canal St & Adams St,Larrabee St & Kingsbury St,2,41.8793,-87.6399,41.8978,-87.6429
+7,Canal St & Adams St,Michigan Ave & Oak St,2,41.8793,-87.6399,41.901,-87.6238
+7,Canal St & Adams St,Columbus Dr & Randolph St,2,41.8793,-87.6399,41.8847,-87.6195
+7,Canal St & Jackson Blvd,Dearborn St & Erie St,2,41.8784,-87.6411,41.894,-87.6293
+7,Canal St & Jackson Blvd,State St & Kinzie St,2,41.8784,-87.6411,41.8892,-87.6277
+7,Canal St & Jackson Blvd,Morgan St & Lake St,2,41.8784,-87.6411,41.8855,-87.6523
+7,Ashland Ave & Grand Ave,Michigan Ave & Madison St,2,41.8911,-87.6666,41.8821,-87.6251
+7,Wells St & Walton St,Franklin St & Quincy St,2,41.8999,-87.6344,41.8787,-87.6348
+7,Wacker Dr & Washington St,Dearborn St & Monroe St,2,41.8833,-87.6373,41.8813,-87.6295
+7,Ashland Ave & Grace St,Sheffield Ave & Addison St,2,41.9507,-87.6687,41.947,-87.6542
+7,Theater on the Lake,Millennium Park,2,41.9263,-87.6308,41.881,-87.6241
+7,Theater on the Lake,Streeter Dr & Grand Ave,2,41.9263,-87.6308,41.8923,-87.612
+7,Ritchie Ct & Banks St,Orleans St & Ohio St,2,41.9068,-87.6264,41.8922,-87.6369
+7,Field Blvd & South Water St,Clark St & Lake St,2,41.8863,-87.6175,41.886,-87.6309
+7,Dearborn Pkwy & Delaware Pl,Clinton St & Washington Blvd,2,41.899,-87.6299,41.8834,-87.6412
+7,Clinton St & Washington Blvd,Wells St & Huron St,2,41.8834,-87.6412,41.8947,-87.6338
+7,Clinton St & Washington Blvd,Wabash Ave & Wacker Pl,2,41.8834,-87.6412,41.8869,-87.626
+7,Clinton St & Washington Blvd,Dearborn St & Erie St,2,41.8834,-87.6412,41.894,-87.6293
+7,Orleans St & Ohio St,Rush St & Superior St,2,41.8922,-87.6369,41.8958,-87.6259
+7,Kedzie Ave & Palmer Ct,California Ave & Milwaukee Ave,2,41.9215,-87.7073,41.9227,-87.6972
+7,Troy St & North Ave,Western Ave & Winnebago Ave,2,41.9098,-87.7053,41.9154,-87.6872
+7,Clark St & Lincoln Ave,Clark St & Randolph St,2,41.9157,-87.6346,41.8846,-87.6319
+7,Indiana Ave & Roosevelt Rd,Shedd Aquarium,2,41.8679,-87.623,41.8672,-87.6154
+7,Michigan Ave & 14th St,Millennium Park,2,41.8641,-87.6237,41.881,-87.6241
+7,Michigan Ave & 14th St,Clark St & Congress Pkwy,2,41.8641,-87.6237,41.8759,-87.6306
+7,Troy St & Elston Ave,Kimball Ave & Belmont Ave,2,41.9452,-87.7066,41.9394,-87.7116
+7,Clarendon Ave & Gordon Ter,Sheridan Rd & Irving Park Rd,2,41.9579,-87.6495,41.9542,-87.6544
+7,Ogden Ave & Chicago Ave,Wolcott Ave & Polk St,2,41.8964,-87.6541,41.8713,-87.6737
+7,Clinton St & Tilden St,Wood St & Taylor St,2,41.8759,-87.6408,41.8692,-87.671
+7,Columbus Dr & Randolph St,Clark St & Randolph St,2,41.8847,-87.6195,41.8846,-87.6319
+7,Clark St & Wellington Ave,Michigan Ave & Oak St,2,41.9365,-87.6475,41.901,-87.6238
+7,Wells St & Concord Ln,Wells St & Elm St,2,41.9121,-87.6347,41.9032,-87.6343
+8,Cottage Grove Ave & 63rd St,Ellis Ave & 58th St,4,41.7806,-87.6061,41.7887,-87.6013
+8,Canal St & Adams St,Michigan Ave & Washington St,4,41.8793,-87.6399,41.8839,-87.6246
+8,Museum of Science and Industry,Ellis Ave & 58th St,4,41.7917,-87.5839,41.7887,-87.6013
+8,State St & 29th St,Dusable Harbor,4,41.8417,-87.6269,41.885,-87.6128
+8,Canal St & Jackson Blvd,Clinton St & Lake St,3,41.8784,-87.6411,41.8856,-87.6418
+8,Sheridan Rd & Buena Ave,Sheridan Rd & Irving Park Rd,3,41.9585,-87.655,41.9542,-87.6544
+8,Greenview Ave & Fullerton Ave,Sheffield Ave & Fullerton Ave,3,41.9253,-87.6658,41.9256,-87.6537
+8,Clinton St & Washington Blvd,Wabash Ave & Adams St,3,41.8834,-87.6412,41.8795,-87.6257
+8,Kedzie Ave & Palmer Ct,California Ave & Milwaukee Ave,3,41.9215,-87.7073,41.9227,-87.6972
+8,Larrabee St & Menomonee St,Sedgwick St & North Ave,3,41.9147,-87.6433,41.9114,-87.6387
+8,Indiana Ave & Roosevelt Rd,Michigan Ave & Jackson Blvd,3,41.8679,-87.623,41.8778,-87.6241
+8,Indiana Ave & Roosevelt Rd,Columbus Dr & Randolph St,3,41.8679,-87.623,41.8847,-87.6195
+8,Sheffield Ave & Wellington Ave,Theater on the Lake,3,41.9363,-87.6527,41.9263,-87.6308
+8,Wells St & Elm St,Orleans St & Ohio St,3,41.9032,-87.6343,41.8922,-87.6369
+8,Wabash Ave & Roosevelt Rd,Dusable Harbor,2,41.8672,-87.626,41.885,-87.6128
+8,Clark St & Chicago Ave,LaSalle St & Adams St,2,41.8965,-87.6309,41.8793,-87.632
+8,Desplaines St & Kinzie St,May St & Fulton St,2,41.8887,-87.6444,41.8868,-87.656
+8,Desplaines St & Kinzie St,Kingsbury St & Kinzie St,2,41.8887,-87.6444,41.8892,-87.6385
+8,Franklin St & Lake St,Rush St & Hubbard St,2,41.8858,-87.6355,41.89,-87.6263
+8,Carpenter St & Huron St,Rush St & Hubbard St,2,41.8946,-87.6535,41.89,-87.6263
+8,Stetson Ave & South Water St,Franklin St & Monroe St,2,41.8868,-87.6223,41.8803,-87.6352
+8,Morgan Ave & 14th Pl,Columbus Dr & Randolph St,2,41.8624,-87.6511,41.8847,-87.6195
+8,Millennium Park,Lake Shore Dr & Monroe St,2,41.881,-87.6241,41.881,-87.6167
+8,Leavitt St & Lawrence Ave,Damen Ave & Leland Ave,2,41.9689,-87.684,41.9671,-87.679
+8,Southport Ave & Wellington Ave,Sheffield Ave & Wellington Ave,2,41.9357,-87.6636,41.9363,-87.6527
+8,Sedgwick St & Huron St,LaSalle St & Illinois St,2,41.8947,-87.6384,41.8908,-87.6321
+8,Michigan Ave & Lake St,Theater on the Lake,2,41.886,-87.6241,41.9263,-87.6308
+8,Michigan Ave & Madison St,Streeter Dr & Grand Ave,2,41.8821,-87.6251,41.8923,-87.612
+8,Canal St & Madison St,LaSalle St & Jackson Blvd,2,41.8821,-87.6398,41.8782,-87.632
+8,Canal St & Madison St,Daley Center Plaza,2,41.8821,-87.6398,41.8842,-87.6296
+8,Canal St & Madison St,Wabash Ave & Adams St,2,41.8821,-87.6398,41.8795,-87.6257
+8,Canal St & Madison St,Columbus Dr & Randolph St,2,41.8821,-87.6398,41.8847,-87.6195
+8,Pine Grove Ave & Irving Park Rd,Sheridan Rd & Irving Park Rd,2,41.9544,-87.648,41.9542,-87.6544
+8,Noble St & Milwaukee Ave,Clinton St & Madison St,2,41.9007,-87.6626,41.8822,-87.6411
+8,Franklin St & Chicago Ave,Wacker Dr & Washington St,2,41.8968,-87.6356,41.8833,-87.6373
+8,Franklin St & Chicago Ave,Desplaines St & Randolph St,2,41.8968,-87.6356,41.8846,-87.6446
+8,MLK Jr Dr & Oakwood Blvd,Cottage Grove Ave & Oakwood Blvd,2,41.8226,-87.6161,41.823,-87.6071
+8,Rush St & Hubbard St,Orleans St & Ohio St,2,41.89,-87.6263,41.8922,-87.6369
+8,Clinton St & Madison St,LaSalle St & Jackson Blvd,2,41.8822,-87.6411,41.8782,-87.632
+8,Clinton St & Madison St,Ashland Ave & Harrison St,2,41.8822,-87.6411,41.8743,-87.6672
+8,Clinton St & Madison St,Clinton St & Polk St (*),2,41.8822,-87.6411,41.8715,-87.6409
+8,Clinton St & Madison St,Peoria St & Jackson Blvd,2,41.8822,-87.6411,41.8778,-87.6496
+8,Clinton St & Madison St,Ada St & Washington Blvd,2,41.8822,-87.6411,41.8828,-87.6612
+8,Western Ave & Winnebago Ave,Marshfield Ave & Cortland St,2,41.9154,-87.6872,41.916,-87.6689
+8,Desplaines St & Jackson Blvd,Orleans St & Merchandise Mart Plaza,2,41.8783,-87.6439,41.8882,-87.6364
+8,Lake Shore Dr & Belmont Ave,Streeter Dr & Grand Ave,2,41.9408,-87.6392,41.8923,-87.612
+8,Michigan Ave & 18th St,State St & Van Buren St,2,41.8578,-87.6245,41.8772,-87.6278
+8,Canal St & Adams St,Michigan Ave & Lake St,2,41.8793,-87.6399,41.886,-87.6241
+8,Canal St & Adams St,Kingsbury St & Kinzie St,2,41.8793,-87.6399,41.8892,-87.6385
+8,Canal St & Adams St,Morgan St & Lake St,2,41.8793,-87.6399,41.8855,-87.6523
+8,Franklin St & Monroe St,McClurg Ct & Illinois St,2,41.8803,-87.6352,41.891,-87.6173
+8,Dearborn St & Erie St,Dearborn St & Monroe St,2,41.894,-87.6293,41.8813,-87.6295
+8,Ashland Ave & Grace St,Southport Ave & Roscoe St,2,41.9507,-87.6687,41.9437,-87.664
+8,Central Park Ave & North Ave,Leavitt St & Armitage Ave,2,41.9097,-87.7166,41.9178,-87.6824
+8,Theater on the Lake,Dusable Harbor,2,41.9263,-87.6308,41.885,-87.6128
+8,Kingsbury St & Kinzie St,Daley Center Plaza,2,41.8892,-87.6385,41.8842,-87.6296
+8,Field Blvd & South Water St,Ashland Ave & Grand Ave,2,41.8863,-87.6175,41.8911,-87.6666
+8,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,2,41.9117,-87.6268,41.8923,-87.612
+8,Clinton St & Washington Blvd,Michigan Ave & Washington St,2,41.8834,-87.6412,41.8839,-87.6246
+8,Clinton St & Washington Blvd,Sedgwick St & Huron St,2,41.8834,-87.6412,41.8947,-87.6384
+8,Clinton St & Washington Blvd,Michigan Ave & Lake St,2,41.8834,-87.6412,41.886,-87.6241
+8,Clinton St & Washington Blvd,Rush St & Hubbard St,2,41.8834,-87.6412,41.89,-87.6263
+8,Clinton St & Washington Blvd,Dearborn St & Adams St,2,41.8834,-87.6412,41.8794,-87.6298
+8,Clinton St & Washington Blvd,Aberdeen St & Jackson Blvd,2,41.8834,-87.6412,41.8777,-87.6548
+8,Clinton St & Washington Blvd,Franklin St & Jackson Blvd,2,41.8834,-87.6412,41.8777,-87.6353
+8,Clinton St & Washington Blvd,Columbus Dr & Randolph St,2,41.8834,-87.6412,41.8847,-87.6195
+8,Clark St & Columbia Ave,Clark St & Lunt Ave,2,42.0045,-87.6724,42.0091,-87.6737
+8,Lakefront Trail & Bryn Mawr Ave,Streeter Dr & Grand Ave,2,41.984,-87.6523,41.8923,-87.612
+8,Clark St & Grace St,Sheffield Ave & Addison St,2,41.9508,-87.6592,41.947,-87.6542
+8,Michigan Ave & Oak St,Streeter Dr & Grand Ave,2,41.901,-87.6238,41.8923,-87.612
+8,Cornell Ave & Hyde Park Blvd,University Ave & 57th St,2,41.8024,-87.5869,41.7915,-87.5999
+8,Broadway & Wilson Ave,Lake Shore Dr & Belmont Ave,2,41.9655,-87.6572,41.9408,-87.6392
+8,Broadway & Granville Ave,Lakefront Trail & Bryn Mawr Ave,2,41.9948,-87.6603,41.984,-87.6523
+8,Clark St & Elmdale Ave,Broadway & Thorndale Ave,2,41.9909,-87.6696,41.9897,-87.6601
+8,Western Ave & Congress Pkwy,Hermitage Ave & Polk St,2,41.8747,-87.6864,41.8715,-87.6699
+8,Streeter Dr & Grand Ave,Millennium Park,2,41.8923,-87.612,41.881,-87.6241
+8,Indiana Ave & Roosevelt Rd,Millennium Park,2,41.8679,-87.623,41.881,-87.6241
+8,Indiana Ave & Roosevelt Rd,Franklin St & Quincy St,2,41.8679,-87.623,41.8787,-87.6348
+8,Kimbark Ave & 53rd St,University Ave & 57th St,2,41.7996,-87.5947,41.7915,-87.5999
+8,Clark St & Schiller St,Streeter Dr & Grand Ave,2,41.908,-87.6315,41.8923,-87.612
+8,Sheffield Ave & Fullerton Ave,Lincoln Ave & Diversey Pkwy,2,41.9256,-87.6537,41.9322,-87.6586
+8,McCormick Place,Millennium Park,2,41.8514,-87.6188,41.881,-87.6241
+8,Desplaines St & Randolph St,LaSalle St & Jackson Blvd,2,41.8846,-87.6446,41.8782,-87.632
+8,Clinton St & Lake St,Daley Center Plaza,2,41.8856,-87.6418,41.8842,-87.6296
+8,Clinton St & Lake St,St. Clair St & Erie St,2,41.8856,-87.6418,41.8944,-87.6227
+8,Michigan Ave & Jackson Blvd,Desplaines St & Jackson Blvd,2,41.8778,-87.6241,41.8783,-87.6439
+8,Wells St & Elm St,Wells St & Concord Ln,2,41.9032,-87.6343,41.9121,-87.6347
+8,Clark St & Congress Pkwy,Dearborn St & Erie St,2,41.8759,-87.6306,41.894,-87.6293
+8,Larrabee St & Webster Ave,Larrabee St & Division St,2,41.9218,-87.6441,41.9035,-87.6434
+8,Wabash Ave & 8th St,Dearborn St & Adams St,2,41.872,-87.6261,41.8794,-87.6298
+8,Columbus Dr & Randolph St,Clark St & Randolph St,2,41.8847,-87.6195,41.8846,-87.6319
+8,Damen Ave & Division St,Halsted St & Blackhawk St (*),2,41.9033,-87.6769,41.9085,-87.6486
+8,Hampden Ct & Diversey Pkwy,Wilton Ave & Diversey Pkwy,2,41.9326,-87.6424,41.9324,-87.6527
+8,Marshfield Ave & Cortland St,Halsted St & Blackhawk St (*),2,41.916,-87.6689,41.9085,-87.6486
+8,Ada St & Washington Blvd,Sangamon St & Washington Blvd (*),2,41.8828,-87.6612,41.883,-87.6511
+8,Sheffield Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,2,41.9287,-87.6538,41.9256,-87.6537
+8,Wells St & Concord Ln,Clark St & Armitage Ave,2,41.9121,-87.6347,41.9183,-87.6363
+9,Michigan Ave & Congress Pkwy,Michigan Ave & Washington St,7,41.8762,-87.6244,41.8839,-87.6246
+9,Stockton Dr & Wrightwood Ave,Streeter Dr & Grand Ave,6,41.9313,-87.6387,41.8923,-87.612
+9,Wells St & Walton St,Columbus Dr & Randolph St,4,41.8999,-87.6344,41.8847,-87.6195
+9,Green St & Madison St,Daley Center Plaza,3,41.8819,-87.6488,41.8842,-87.6296
+9,Halsted St & Diversey Pkwy,Sheffield Ave & Webster Ave,3,41.9337,-87.649,41.9215,-87.6538
+9,Streeter Dr & Grand Ave,Shedd Aquarium,3,41.8923,-87.612,41.8672,-87.6154
+9,Columbus Dr & Randolph St,Franklin St & Monroe St,3,41.8847,-87.6195,41.8803,-87.6352
+9,Desplaines St & Kinzie St,Ogden Ave & Race Ave,2,41.8887,-87.6444,41.8918,-87.6588
+9,Cannon Dr & Fullerton Ave,Michigan Ave & Oak St,2,41.9268,-87.6344,41.901,-87.6238
+9,Pine Grove Ave & Waveland Ave,Western Ave & Leland Ave,2,41.9493,-87.6463,41.9666,-87.6885
+9,Lakeview Ave & Fullerton Pkwy,Lake Shore Dr & North Blvd,2,41.9259,-87.639,41.9117,-87.6268
+9,Lake Shore Dr & Monroe St,Field Museum,2,41.881,-87.6167,41.8653,-87.6179
+9,Wells St & Huron St,Franklin St & Jackson Blvd,2,41.8947,-87.6338,41.8777,-87.6353
+9,LaSalle St & Illinois St,Theater on the Lake,2,41.8908,-87.6321,41.9263,-87.6308
+9,LaSalle St & Illinois St,Streeter Dr & Grand Ave,2,41.8908,-87.6321,41.8923,-87.612
+9,Lake Park Ave & 56th St,Ellis Ave & 55th St,2,41.7932,-87.5878,41.7943,-87.6014
+9,Canal St & Madison St,Michigan Ave & Madison St,2,41.8821,-87.6398,41.8821,-87.6251
+9,Clark St & Armitage Ave,Lake Shore Dr & Belmont Ave,2,41.9183,-87.6363,41.9408,-87.6392
+9,Campbell Ave & North Ave,Central Park Ave & Elbridge Ave,2,41.9105,-87.6896,41.9353,-87.7169
+9,Clinton St & Madison St,Orleans St & Merchandise Mart Plaza,2,41.8822,-87.6411,41.8882,-87.6364
+9,Desplaines St & Jackson Blvd,Clark St & Randolph St,2,41.8783,-87.6439,41.8846,-87.6319
+9,McClurg Ct & Illinois St,Shedd Aquarium,2,41.891,-87.6173,41.8672,-87.6154
+9,McClurg Ct & Illinois St,Streeter Dr & Grand Ave,2,41.891,-87.6173,41.8923,-87.612
+9,McClurg Ct & Illinois St,Clark St & Randolph St,2,41.891,-87.6173,41.8846,-87.6319
+9,Wells St & Evergreen Ave,Stockton Dr & Wrightwood Ave,2,41.9067,-87.6348,41.9313,-87.6387
+9,Ashland Ave & Grand Ave,Conservatory Dr & Lake St,2,41.8911,-87.6666,41.8855,-87.7169
+9,Wells St & Walton St,Franklin St & Quincy St,2,41.8999,-87.6344,41.8787,-87.6348
+9,Aberdeen St & Monroe St,Kingsbury St & Kinzie St,2,41.8804,-87.6556,41.8892,-87.6385
+9,Theater on the Lake,Broadway & Cornelia Ave,2,41.9263,-87.6308,41.9455,-87.646
+9,State St & Kinzie St,Michigan Ave & Madison St,2,41.8892,-87.6277,41.8821,-87.6251
+9,Clinton St & Washington Blvd,Rush St & Hubbard St,2,41.8834,-87.6412,41.89,-87.6263
+9,Clinton St & Washington Blvd,St. Clair St & Erie St,2,41.8834,-87.6412,41.8944,-87.6227
+9,Michigan Ave & Oak St,Lake Shore Dr & Monroe St,2,41.901,-87.6238,41.881,-87.6167
+9,Cornell Ave & Hyde Park Blvd,University Ave & 57th St,2,41.8024,-87.5869,41.7915,-87.5999
+9,Cornell Ave & Hyde Park Blvd,Harper Ave & 59th St,2,41.8024,-87.5869,41.7879,-87.5883
+9,Streeter Dr & Grand Ave,Dusable Harbor,2,41.8923,-87.612,41.885,-87.6128
+9,Streeter Dr & Grand Ave,Michigan Ave & Madison St,2,41.8923,-87.612,41.8821,-87.6251
+9,Conservatory Dr & Lake St,Forest Ave & Lake St,2,41.8855,-87.7169,41.8889,-87.8003
+9,Sheridan Rd & Montrose Ave,Broadway & Waveland Ave,2,41.9617,-87.6546,41.9491,-87.6486
+9,Kimbark Ave & 53rd St,University Ave & 57th St,2,41.7996,-87.5947,41.7915,-87.5999
+9,Sheffield Ave & Fullerton Ave,Larrabee St & Webster Ave,2,41.9256,-87.6537,41.9218,-87.6441
+9,Clinton St & Lake St,Franklin St & Chicago Ave,2,41.8856,-87.6418,41.8968,-87.6356
+9,Michigan Ave & Jackson Blvd,State St & Van Buren St,2,41.8778,-87.6241,41.8772,-87.6278
+9,St. Clair St & Erie St,Shedd Aquarium,2,41.8944,-87.6227,41.8672,-87.6154
+9,Larrabee St & Webster Ave,Clinton St & Lake St,2,41.9218,-87.6441,41.8856,-87.6418
+9,Larrabee St & Webster Ave,Wells St & Concord Ln,2,41.9218,-87.6441,41.9121,-87.6347
+9,Wabash Ave & 8th St,Michigan Ave & 14th St,2,41.872,-87.6261,41.8641,-87.6237
+9,Columbus Dr & Randolph St,Dearborn St & Erie St,2,41.8847,-87.6195,41.894,-87.6293
+10,Albany Ave & Bloomingdale Ave,Damen Ave & Cortland St,6,41.914,-87.7051,41.916,-87.6774
+10,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,5,41.881,-87.6167,41.8923,-87.612
+10,Theater on the Lake,Streeter Dr & Grand Ave,5,41.9263,-87.6308,41.8923,-87.612
+10,Stetson Ave & South Water St,Streeter Dr & Grand Ave,4,41.8868,-87.6223,41.8923,-87.612
+10,Dearborn St & Erie St,Theater on the Lake,4,41.894,-87.6293,41.9263,-87.6308
+10,Clark St & Armitage Ave,Streeter Dr & Grand Ave,3,41.9183,-87.6363,41.8923,-87.612
+10,Streeter Dr & Grand Ave,Shedd Aquarium,3,41.8923,-87.612,41.8672,-87.6154
+10,Streeter Dr & Grand Ave,Wabash Ave & Wacker Pl,3,41.8923,-87.612,41.8869,-87.626
+10,Streeter Dr & Grand Ave,Theater on the Lake,3,41.8923,-87.612,41.9263,-87.6308
+10,Clark St & Wrightwood Ave,Streeter Dr & Grand Ave,3,41.9295,-87.6431,41.8923,-87.612
+10,Sheffield Ave & Fullerton Ave,Clark St & Armitage Ave,3,41.9256,-87.6537,41.9183,-87.6363
+10,Columbus Dr & Randolph St,Streeter Dr & Grand Ave,3,41.8847,-87.6195,41.8923,-87.612
+10,Lincoln Ave & Belmont Ave,Sheffield Ave & Kingsbury St,3,41.9394,-87.6684,41.9105,-87.6531
+10,Wabash Ave & Roosevelt Rd,Wabash Ave & 8th St,2,41.8672,-87.626,41.872,-87.6261
+10,Clark St & Chicago Ave,Dearborn Pkwy & Delaware Pl,2,41.8965,-87.6309,41.899,-87.6299
+10,Lake Shore Dr & Ohio St,Streeter Dr & Grand Ave,2,41.8926,-87.6145,41.8923,-87.612
+10,Field Museum,Adler Planetarium,2,41.8653,-87.6179,41.8661,-87.6073
+10,State St & Harrison St,Green St & Randolph St,2,41.8741,-87.6277,41.8837,-87.6487
+10,Wabash Ave & Grand Ave,Orleans St & Merchandise Mart Plaza,2,41.8917,-87.6269,41.8882,-87.6364
+10,Sheridan Rd & Irving Park Rd,Theater on the Lake,2,41.9542,-87.6544,41.9263,-87.6308
+10,Southport Ave & Irving Park Rd,Sheridan Rd & Irving Park Rd,2,41.9542,-87.6644,41.9542,-87.6544
+10,Lake Shore Dr & Monroe St,Shedd Aquarium,2,41.881,-87.6167,41.8672,-87.6154
+10,Mies van der Rohe Way & Chestnut St,Clark St & Lincoln Ave,2,41.8986,-87.6219,41.9157,-87.6346
+10,Wells St & Huron St,Fairbanks Ct & Grand Ave,2,41.8947,-87.6338,41.8919,-87.6206
+10,Wabash Ave & Wacker Pl,Clark St & Elm St,2,41.8869,-87.626,41.903,-87.6313
+10,Forest Ave & Lake St,Kedzie Ave & Milwaukee Ave,2,41.8889,-87.8003,41.9296,-87.7079
+10,Michigan Ave & Lake St,Mies van der Rohe Way & Chestnut St,2,41.886,-87.6241,41.8986,-87.6219
+10,Damen Ave & Clybourn Ave,Damen Ave & Cortland St,2,41.9319,-87.6779,41.916,-87.6774
+10,Rush St & Hubbard St,Wilton Ave & Belmont Ave,2,41.89,-87.6263,41.9402,-87.653
+10,Clinton St & Madison St,Clinton St & Polk St (*),2,41.8822,-87.6411,41.8715,-87.6409
+10,Desplaines St & Jackson Blvd,Daley Center Plaza,2,41.8783,-87.6439,41.8842,-87.6296
+10,McClurg Ct & Illinois St,Lake Shore Dr & Monroe St,2,41.891,-87.6173,41.881,-87.6167
+10,McClurg Ct & Illinois St,Burnham Harbor,2,41.891,-87.6173,41.8563,-87.6133
+10,Canal St & Adams St,Streeter Dr & Grand Ave,2,41.8793,-87.6399,41.8923,-87.612
+10,Daley Center Plaza,Green St & Madison St,2,41.8842,-87.6296,41.8819,-87.6488
+10,Dearborn St & Monroe St,Ogden Ave & Chicago Ave,2,41.8813,-87.6295,41.8964,-87.6541
+10,Dearborn St & Erie St,Wabash Ave & Adams St,2,41.894,-87.6293,41.8795,-87.6257
+10,Jefferson St & Monroe St,Morgan St & Polk St,2,41.8804,-87.6427,41.8717,-87.651
+10,Kingsbury St & Kinzie St,Wells St & Concord Ln,2,41.8892,-87.6385,41.9121,-87.6347
+10,Dearborn Pkwy & Delaware Pl,Green St & Randolph St,2,41.899,-87.6299,41.8837,-87.6487
+10,Lake Shore Dr & North Blvd,Lincoln Ave & Fullerton Ave,2,41.9117,-87.6268,41.9259,-87.6493
+10,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,2,41.9117,-87.6268,41.8923,-87.612
+10,Wabash Ave & Adams St,Streeter Dr & Grand Ave,2,41.8795,-87.6257,41.8923,-87.612
+10,Michigan Ave & Oak St,Streeter Dr & Grand Ave,2,41.901,-87.6238,41.8923,-87.612
+10,Michigan Ave & Oak St,Sheffield Ave & Addison St,2,41.901,-87.6238,41.947,-87.6542
+10,Stockton Dr & Wrightwood Ave,Lake Shore Dr & North Blvd,2,41.9313,-87.6387,41.9117,-87.6268
+10,Cornell Ave & Hyde Park Blvd,Ellis Ave & 55th St,2,41.8024,-87.5869,41.7943,-87.6014
+10,Streeter Dr & Grand Ave,Millennium Park,2,41.8923,-87.612,41.881,-87.6241
+10,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,2,41.8923,-87.612,41.881,-87.6167
+10,Streeter Dr & Grand Ave,Michigan Ave & Oak St,2,41.8923,-87.612,41.901,-87.6238
+10,Indiana Ave & Roosevelt Rd,Lake Shore Dr & Monroe St,2,41.8679,-87.623,41.881,-87.6167
+10,Indiana Ave & Roosevelt Rd,Desplaines St & Jackson Blvd,2,41.8679,-87.623,41.8783,-87.6439
+10,Franklin St & Jackson Blvd,Michigan Ave & Washington St,2,41.8777,-87.6353,41.8839,-87.6246
+10,Franklin St & Jackson Blvd,Dearborn St & Monroe St,2,41.8777,-87.6353,41.8813,-87.6295
+10,Clark St & Wrightwood Ave,Theater on the Lake,2,41.9295,-87.6431,41.9263,-87.6308
+10,McCormick Place,Indiana Ave & Roosevelt Rd,2,41.8514,-87.6188,41.8679,-87.623
+10,Burnham Harbor,Lake Park Ave & 47th St,2,41.8563,-87.6133,41.8094,-87.5919
+10,Michigan Ave & Jackson Blvd,Shedd Aquarium,2,41.8778,-87.6241,41.8672,-87.6154
+10,Michigan Ave & Jackson Blvd,Canal St & Madison St,2,41.8778,-87.6241,41.8821,-87.6398
+10,St. Clair St & Erie St,State St & Pearson St,2,41.8944,-87.6227,41.8974,-87.6287
+10,Adler Planetarium,Fort Dearborn Dr & 31st St,2,41.8661,-87.6073,41.8386,-87.6082
+10,Larrabee St & Webster Ave,Halsted St & Wrightwood Ave,2,41.9218,-87.6441,41.9291,-87.6491
+10,Wabash Ave & 8th St,Millennium Park,2,41.872,-87.6261,41.881,-87.6241
+10,Columbus Dr & Randolph St,Lake Shore Dr & North Blvd,2,41.8847,-87.6195,41.9117,-87.6268
+10,Columbus Dr & Randolph St,Clark St & Randolph St,2,41.8847,-87.6195,41.8846,-87.6319
+10,Rush St & Cedar St,Lake Shore Dr & Ohio St,2,41.9023,-87.6277,41.8926,-87.6145
+10,McClurg Ct & Erie St,Mies van der Rohe Way & Chicago Ave,2,41.8945,-87.6179,41.8969,-87.6217
+10,Cityfront Plaza Dr & Pioneer Ct,Lake Shore Dr & Ohio St,2,41.8906,-87.6221,41.8926,-87.6145
+10,Wood St & Division St,California Ave & North Ave,2,41.9033,-87.6727,41.9104,-87.6972
+11,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,11,41.8923,-87.612,41.9117,-87.6268
+11,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,8,41.881,-87.6167,41.8923,-87.612
+11,Michigan Ave & Lake St,State St & Van Buren St,6,41.886,-87.6241,41.8772,-87.6278
+11,Fort Dearborn Dr & 31st St,Museum of Science and Industry,6,41.8386,-87.6082,41.7917,-87.5839
+11,Indiana Ave & Roosevelt Rd,Fort Dearborn Dr & 31st St,6,41.8679,-87.623,41.8386,-87.6082
+11,Damen Ave & Cortland St,Artesian Ave & Hubbard St,6,41.916,-87.6774,41.8895,-87.6882
+11,Millennium Park,Streeter Dr & Grand Ave,5,41.881,-87.6241,41.8923,-87.612
+11,Field Blvd & South Water St,Streeter Dr & Grand Ave,5,41.8863,-87.6175,41.8923,-87.612
+11,Cannon Dr & Fullerton Ave,Streeter Dr & Grand Ave,4,41.9268,-87.6344,41.8923,-87.612
+11,Lincoln Ave & Fullerton Ave,Cannon Dr & Fullerton Ave,4,41.9259,-87.6493,41.9268,-87.6344
+11,Millennium Park,McClurg Ct & Illinois St,4,41.881,-87.6241,41.891,-87.6173
+11,McClurg Ct & Illinois St,Lake Shore Dr & North Blvd,4,41.891,-87.6173,41.9117,-87.6268
+11,Theater on the Lake,Streeter Dr & Grand Ave,4,41.9263,-87.6308,41.8923,-87.612
+11,Indiana Ave & Roosevelt Rd,Streeter Dr & Grand Ave,4,41.8679,-87.623,41.8923,-87.612
+11,Clarendon Ave & Gordon Ter,Lakeview Ave & Fullerton Pkwy,4,41.9579,-87.6495,41.9259,-87.639
+11,Cannon Dr & Fullerton Ave,Michigan Ave & Oak St,3,41.9268,-87.6344,41.901,-87.6238
+11,Lake Shore Dr & Diversey Pkwy,Lake Shore Dr & North Blvd,3,41.9327,-87.6363,41.9117,-87.6268
+11,Lake Shore Dr & Monroe St,Theater on the Lake,3,41.881,-87.6167,41.9263,-87.6308
+11,Wabash Ave & Wacker Pl,LaSalle St & Adams St,3,41.8869,-87.626,41.8793,-87.632
+11,Dusable Harbor,Field Museum,3,41.885,-87.6128,41.8653,-87.6179
+11,Fairbanks Ct & Grand Ave,Lake Shore Dr & North Blvd,3,41.8919,-87.6206,41.9117,-87.6268
+11,Lake Shore Dr & Belmont Ave,Theater on the Lake,3,41.9408,-87.6392,41.9263,-87.6308
+11,State St & Kinzie St,Sedgwick St & Huron St,3,41.8892,-87.6277,41.8947,-87.6384
+11,Lake Shore Dr & North Blvd,McClurg Ct & Illinois St,3,41.9117,-87.6268,41.891,-87.6173
+11,Clark St & Elm St,Shedd Aquarium,3,41.903,-87.6313,41.8672,-87.6154
+11,Clark St & Lincoln Ave,Dusable Harbor,3,41.9157,-87.6346,41.885,-87.6128
+11,Streeter Dr & Grand Ave,Canal St & Monroe St (*),3,41.8923,-87.612,41.8809,-87.6395
+11,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,3,41.8923,-87.612,41.881,-87.6167
+11,Sheridan Rd & Lawrence Ave,Lake Shore Dr & Belmont Ave,3,41.9695,-87.6547,41.9408,-87.6392
+11,Broadway & Waveland Ave,Theater on the Lake,3,41.9491,-87.6486,41.9263,-87.6308
+11,Cityfront Plaza Dr & Pioneer Ct,Shedd Aquarium,3,41.8906,-87.6221,41.8672,-87.6154
+11,Field Museum,Lake Shore Dr & Monroe St,2,41.8653,-87.6179,41.881,-87.6167
+11,Stetson Ave & South Water St,Lake Shore Dr & Monroe St,2,41.8868,-87.6223,41.881,-87.6167
+11,Lake Shore Dr & Diversey Pkwy,Theater on the Lake,2,41.9327,-87.6363,41.9263,-87.6308
+11,Lakeview Ave & Fullerton Pkwy,Theater on the Lake,2,41.9259,-87.639,41.9263,-87.6308
+11,Millennium Park,Dusable Harbor,2,41.881,-87.6241,41.885,-87.6128
+11,Millennium Park,Adler Planetarium,2,41.881,-87.6241,41.8661,-87.6073
+11,Lake Shore Dr & Monroe St,Wabash Ave & Grand Ave,2,41.881,-87.6167,41.8917,-87.6269
+11,Lake Shore Dr & Monroe St,Millennium Park,2,41.881,-87.6167,41.881,-87.6241
+11,Lake Shore Dr & Monroe St,McClurg Ct & Illinois St,2,41.881,-87.6167,41.891,-87.6173
+11,Lake Shore Dr & Monroe St,Daley Center Plaza,2,41.881,-87.6167,41.8842,-87.6296
+11,Lake Shore Dr & Monroe St,McCormick Place,2,41.881,-87.6167,41.8514,-87.6188
+11,Mies van der Rohe Way & Chestnut St,LaSalle St & Illinois St,2,41.8986,-87.6219,41.8908,-87.6321
+11,LaSalle St & Illinois St,Wabash Ave & Grand Ave,2,41.8908,-87.6321,41.8917,-87.6269
+11,LaSalle St & Illinois St,Millennium Park,2,41.8908,-87.6321,41.881,-87.6241
+11,LaSalle St & Illinois St,Clark St & Schiller St,2,41.8908,-87.6321,41.908,-87.6315
+11,Damen Ave & Charleston St,Damen Ave & Cortland St,2,41.9201,-87.6779,41.916,-87.6774
+11,Broadway & Barry Ave,Wells St & Evergreen Ave,2,41.9377,-87.6441,41.9067,-87.6348
+11,Spaulding Ave & Armitage Ave,Kedzie Ave & Milwaukee Ave,2,41.9172,-87.7104,41.9296,-87.7079
+11,Michigan Ave & Congress Pkwy,Michigan Ave & Oak St,2,41.8762,-87.6244,41.901,-87.6238
+11,Michigan Ave & Pearson St,Cityfront Plaza Dr & Pioneer Ct,2,41.8977,-87.6235,41.8906,-87.6221
+11,Michigan Ave & Lake St,Lake Shore Dr & Monroe St,2,41.886,-87.6241,41.881,-87.6167
+11,Michigan Ave & Lake St,Canal St & Taylor St,2,41.886,-87.6241,41.8703,-87.6395
+11,Michigan Ave & Lake St,Dearborn St & Adams St,2,41.886,-87.6241,41.8794,-87.6298
+11,Rhodes Ave & 32nd St,Museum of Science and Industry,2,41.8362,-87.6135,41.7917,-87.5839
+11,Michigan Ave & Madison St,Damen Ave & Madison St,2,41.8821,-87.6251,41.8814,-87.6749
+11,Milwaukee Ave & Rockwell St,Damen Ave & Pierce Ave,2,41.9202,-87.693,41.9094,-87.6777
+11,Clark St & Armitage Ave,Lake Shore Dr & Ohio St,2,41.9183,-87.6363,41.8926,-87.6145
+11,Clark St & Armitage Ave,Lake Shore Dr & Monroe St,2,41.9183,-87.6363,41.881,-87.6167
+11,Benson Ave & Church St,Chicago Ave & Washington St,2,42.0482,-87.6835,42.0326,-87.6791
+11,Rush St & Hubbard St,Michigan Ave & Jackson Blvd,2,41.89,-87.6263,41.8778,-87.6241
+11,Damen Ave & Wellington Ave,Sheffield Ave & Wellington Ave,2,41.9359,-87.6784,41.9363,-87.6527
+11,Lake Shore Dr & Belmont Ave,Lake Shore Dr & Diversey Pkwy,2,41.9408,-87.6392,41.9327,-87.6363
+11,Lake Shore Dr & Belmont Ave,Broadway & Barry Ave,2,41.9408,-87.6392,41.9377,-87.6441
+11,Lake Shore Dr & Belmont Ave,Michigan Ave & Oak St,2,41.9408,-87.6392,41.901,-87.6238
+11,Lake Shore Dr & Belmont Ave,Streeter Dr & Grand Ave,2,41.9408,-87.6392,41.8923,-87.612
+11,McClurg Ct & Illinois St,Larrabee St & Kingsbury St,2,41.891,-87.6173,41.8978,-87.6429
+11,McClurg Ct & Illinois St,Streeter Dr & Grand Ave,2,41.891,-87.6173,41.8923,-87.612
+11,Ridge Blvd & Touhy Ave,Glenwood Ave & Morse Ave,2,42.0121,-87.6829,42.008,-87.6655
+11,Canal St & Adams St,Lake Shore Dr & Monroe St,2,41.8793,-87.6399,41.881,-87.6167
+11,Franklin St & Monroe St,Michigan Ave & Washington St,2,41.8803,-87.6352,41.8839,-87.6246
+11,Dearborn St & Monroe St,Shedd Aquarium,2,41.8813,-87.6295,41.8672,-87.6154
+11,Dayton St & North Ave,Clark St & Chicago Ave,2,41.9106,-87.6494,41.8965,-87.6309
+11,Wood St & Milwaukee Ave,Clark St & Armitage Ave,2,41.9077,-87.6726,41.9183,-87.6363
+11,Wood St & Milwaukee Ave,Green St & Randolph St,2,41.9077,-87.6726,41.8837,-87.6487
+11,Orleans St & Merchandise Mart Plaza,McClurg Ct & Illinois St,2,41.8882,-87.6364,41.891,-87.6173
+11,Theater on the Lake,Lake Shore Dr & Ohio St,2,41.9263,-87.6308,41.8926,-87.6145
+11,Theater on the Lake,Michigan Ave & Oak St,2,41.9263,-87.6308,41.901,-87.6238
+11,Damen Ave & Madison St,Franklin St & Jackson Blvd,2,41.8814,-87.6749,41.8777,-87.6353
+11,Lake Shore Dr & North Blvd,Lakeview Ave & Fullerton Pkwy,2,41.9117,-87.6268,41.9259,-87.639
+11,Lake Shore Dr & North Blvd,Dusable Harbor,2,41.9117,-87.6268,41.885,-87.6128
+11,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,2,41.9117,-87.6268,41.8923,-87.612
+11,Lake Shore Dr & North Blvd,Clark St & Wellington Ave,2,41.9117,-87.6268,41.9365,-87.6475
+11,Damen Ave & Grand Ave,Albany Ave & Bloomingdale Ave,2,41.8912,-87.6769,41.914,-87.7051
+11,Clinton St & Washington Blvd,Shedd Aquarium,2,41.8834,-87.6412,41.8672,-87.6154
+11,Clinton St & Washington Blvd,Green St & Madison St,2,41.8834,-87.6412,41.8819,-87.6488
+11,Clinton St & Washington Blvd,Peoria St & Jackson Blvd,2,41.8834,-87.6412,41.8778,-87.6496
+11,Clark St & Columbia Ave,Glenwood Ave & Morse Ave,2,42.0045,-87.6724,42.008,-87.6655
+11,Michigan Ave & Oak St,Lake Shore Dr & Ohio St,2,41.901,-87.6238,41.8926,-87.6145
+11,Michigan Ave & Oak St,Millennium Park,2,41.901,-87.6238,41.881,-87.6241
+11,Michigan Ave & Oak St,Michigan Ave & Lake St,2,41.901,-87.6238,41.886,-87.6241
+11,Michigan Ave & Oak St,Streeter Dr & Grand Ave,2,41.901,-87.6238,41.8923,-87.612
+11,Stockton Dr & Wrightwood Ave,Cannon Dr & Fullerton Ave,2,41.9313,-87.6387,41.9268,-87.6344
+11,Cornell Ave & Hyde Park Blvd,Kimbark Ave & 53rd St,2,41.8024,-87.5869,41.7996,-87.5947
+11,Clark St & Elm St,Lake Shore Dr & North Blvd,2,41.903,-87.6313,41.9117,-87.6268
+11,Clark St & Lincoln Ave,Wabash Ave & Grand Ave,2,41.9157,-87.6346,41.8917,-87.6269
+11,Clark St & Lincoln Ave,Stockton Dr & Wrightwood Ave,2,41.9157,-87.6346,41.9313,-87.6387
+11,Streeter Dr & Grand Ave,Millennium Park,2,41.8923,-87.612,41.881,-87.6241
+11,Streeter Dr & Grand Ave,Michigan Ave & Oak St,2,41.8923,-87.612,41.901,-87.6238
+11,Streeter Dr & Grand Ave,Wells St & Elm St,2,41.8923,-87.612,41.9032,-87.6343
+11,Stave St & Armitage Ave,Leavitt St & North Ave,2,41.9177,-87.6914,41.9102,-87.6823
+11,Sheffield Ave & Wellington Ave,Theater on the Lake,2,41.9363,-87.6527,41.9263,-87.6308
+11,Clark St & Schiller St,Dusable Harbor,2,41.908,-87.6315,41.885,-87.6128
+11,Lake Park Ave & 47th St,Shore Dr & 55th St,2,41.8094,-87.5919,41.7952,-87.5807
+11,Desplaines St & Randolph St,Dearborn St & Erie St,2,41.8846,-87.6446,41.894,-87.6293
+11,Michigan Ave & Jackson Blvd,Millennium Park,2,41.8778,-87.6241,41.881,-87.6241
+11,Ashland Ave & Blackhawk St,Southport Ave & Waveland Ave,2,41.9071,-87.6673,41.9482,-87.6639
+11,Adler Planetarium,Lake Shore Dr & Monroe St,2,41.8661,-87.6073,41.881,-87.6167
+11,LaSalle St & Washington St,Aberdeen St & Monroe St,2,41.8827,-87.6325,41.8804,-87.6556
+11,Kedzie Ave & Milwaukee Ave,Sheffield Ave & Webster Ave,2,41.9296,-87.7079,41.9215,-87.6538
+11,Ogden Ave & Chicago Ave,Damen Ave & Pierce Ave,2,41.8964,-87.6541,41.9094,-87.6777
+11,Wabash Ave & 8th St,Lake Shore Dr & Monroe St,2,41.872,-87.6261,41.881,-87.6167
+11,Wabash Ave & 8th St,Canal St & Taylor St,2,41.872,-87.6261,41.8703,-87.6395
+11,Wabash Ave & 8th St,Mies van der Rohe Way & Chicago Ave,2,41.872,-87.6261,41.8969,-87.6217
+11,Columbus Dr & Randolph St,Streeter Dr & Grand Ave,2,41.8847,-87.6195,41.8923,-87.612
+11,Logan Blvd & Elston Ave,Richmond St & Diversey Ave,2,41.9306,-87.6851,41.9319,-87.7012
+11,Clark St & Wellington Ave,Broadway & Barry Ave,2,41.9365,-87.6475,41.9377,-87.6441
+11,Damen Ave & Division St,Western Ave & Walton St,2,41.9033,-87.6769,41.8984,-87.6866
+11,Damen Ave & Cortland St,Damen Ave & Clybourn Ave,2,41.916,-87.6774,41.9319,-87.6779
+12,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,7,41.881,-87.6167,41.8923,-87.612
+12,Shedd Aquarium,State St & Randolph St,6,41.8672,-87.6154,41.8847,-87.6277
+12,Lake Shore Dr & Monroe St,Shedd Aquarium,6,41.881,-87.6167,41.8672,-87.6154
+12,Dusable Harbor,Streeter Dr & Grand Ave,6,41.885,-87.6128,41.8923,-87.612
+12,Theater on the Lake,Michigan Ave & Oak St,6,41.9263,-87.6308,41.901,-87.6238
+12,Streeter Dr & Grand Ave,Theater on the Lake,6,41.8923,-87.612,41.9263,-87.6308
+12,Lake Shore Dr & Monroe St,Adler Planetarium,5,41.881,-87.6167,41.8661,-87.6073
+12,Theater on the Lake,McClurg Ct & Illinois St,5,41.9263,-87.6308,41.891,-87.6173
+12,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,5,41.9117,-87.6268,41.8923,-87.612
+12,Streeter Dr & Grand Ave,Michigan Ave & Jackson Blvd,5,41.8923,-87.612,41.8778,-87.6241
+12,Streeter Dr & Grand Ave,Adler Planetarium,5,41.8923,-87.612,41.8661,-87.6073
+12,Adler Planetarium,Shedd Aquarium,5,41.8661,-87.6073,41.8672,-87.6154
+12,Lake Shore Dr & Monroe St,Michigan Ave & Oak St,4,41.881,-87.6167,41.901,-87.6238
+12,Dusable Harbor,Lake Shore Dr & Monroe St,4,41.885,-87.6128,41.881,-87.6167
+12,Dusable Harbor,Michigan Ave & Oak St,4,41.885,-87.6128,41.901,-87.6238
+12,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,4,41.8923,-87.612,41.9117,-87.6268
+12,Halsted St & Willow St,Theater on the Lake,4,41.9138,-87.6488,41.9263,-87.6308
+12,State St & Randolph St,Rush St & Superior St,4,41.8847,-87.6277,41.8958,-87.6259
+12,Clark St & Wellington Ave,Lake Shore Dr & North Blvd,4,41.9365,-87.6475,41.9117,-87.6268
+12,Shedd Aquarium,Millennium Park,3,41.8672,-87.6154,41.881,-87.6241
+12,Wabash Ave & Roosevelt Rd,Shedd Aquarium,3,41.8672,-87.626,41.8672,-87.6154
+12,Millennium Park,Michigan Ave & Oak St,3,41.881,-87.6241,41.901,-87.6238
+12,Millennium Park,Indiana Ave & Roosevelt Rd,3,41.881,-87.6241,41.8679,-87.623
+12,Mies van der Rohe Way & Chestnut St,Lake Shore Dr & North Blvd,3,41.8986,-87.6219,41.9117,-87.6268
+12,Canal St & Taylor St,Millennium Park,3,41.8703,-87.6395,41.881,-87.6241
+12,Wabash Ave & Wacker Pl,Theater on the Lake,3,41.8869,-87.626,41.9263,-87.6308
+12,Broadway & Barry Ave,Streeter Dr & Grand Ave,3,41.9377,-87.6441,41.8923,-87.612
+12,Lake Park Ave & 56th St,Shedd Aquarium,3,41.7932,-87.5878,41.8672,-87.6154
+12,Dusable Harbor,Indiana Ave & Roosevelt Rd,3,41.885,-87.6128,41.8679,-87.623
+12,LaSalle St & Jackson Blvd,Dearborn St & Monroe St,3,41.8782,-87.632,41.8813,-87.6295
+12,Halsted St & Roscoe St,Ravenswood Ave & Irving Park Rd,3,41.9437,-87.6489,41.9547,-87.6739
+12,Franklin St & Monroe St,Wabash Ave & Grand Ave,3,41.8803,-87.6352,41.8917,-87.6269
+12,Theater on the Lake,Lake Shore Dr & Ohio St,3,41.9263,-87.6308,41.8926,-87.6145
+12,Theater on the Lake,Streeter Dr & Grand Ave,3,41.9263,-87.6308,41.8923,-87.612
+12,Dearborn Pkwy & Delaware Pl,Lake Shore Dr & Diversey Pkwy,3,41.899,-87.6299,41.9327,-87.6363
+12,Lake Shore Dr & North Blvd,Pine Grove Ave & Waveland Ave,3,41.9117,-87.6268,41.9493,-87.6463
+12,Lake Shore Dr & North Blvd,Clark St & Armitage Ave,3,41.9117,-87.6268,41.9183,-87.6363
+12,Michigan Ave & Oak St,Dearborn St & Monroe St,3,41.901,-87.6238,41.8813,-87.6295
+12,Michigan Ave & Oak St,Theater on the Lake,3,41.901,-87.6238,41.9263,-87.6308
+12,Indiana Ave & Roosevelt Rd,Michigan Ave & Jackson Blvd,3,41.8679,-87.623,41.8778,-87.6241
+12,Franklin St & Jackson Blvd,Damen Ave & Madison St,3,41.8777,-87.6353,41.8814,-87.6749
+12,Southport Ave & Waveland Ave,Damen Ave & Wellington Ave,3,41.9482,-87.6639,41.9359,-87.6784
+12,Shedd Aquarium,Michigan Ave & Washington St,2,41.8672,-87.6154,41.8839,-87.6246
+12,Shedd Aquarium,Lake Shore Dr & North Blvd,2,41.8672,-87.6154,41.9117,-87.6268
+12,Shedd Aquarium,Indiana Ave & Roosevelt Rd,2,41.8672,-87.6154,41.8679,-87.623
+12,Shedd Aquarium,Adler Planetarium,2,41.8672,-87.6154,41.8661,-87.6073
+12,Shedd Aquarium,Wabash Ave & 8th St,2,41.8672,-87.6154,41.872,-87.6261
+12,Lake Shore Dr & Ohio St,Lake Shore Dr & Monroe St,2,41.8926,-87.6145,41.881,-87.6167
+12,Lake Shore Dr & Ohio St,Clark St & Lake St,2,41.8926,-87.6145,41.886,-87.6309
+12,Cannon Dr & Fullerton Ave,Theater on the Lake,2,41.9268,-87.6344,41.9263,-87.6308
+12,Cannon Dr & Fullerton Ave,Clark St & Lincoln Ave,2,41.9268,-87.6344,41.9157,-87.6346
+12,Clarendon Ave & Junior Ter,Sheridan Rd & Montrose Ave,2,41.961,-87.6496,41.9617,-87.6546
+12,Green St & Madison St,State St & Kinzie St,2,41.8819,-87.6488,41.8892,-87.6277
+12,State St & Harrison St,Shedd Aquarium,2,41.8741,-87.6277,41.8672,-87.6154
+12,Lake Shore Dr & Diversey Pkwy,Lake Shore Dr & North Blvd,2,41.9327,-87.6363,41.9117,-87.6268
+12,Sheridan Rd & Irving Park Rd,Broadway & Cornelia Ave,2,41.9542,-87.6544,41.9455,-87.646
+12,Larrabee St & Armitage Ave,Lake Shore Dr & Monroe St,2,41.9181,-87.6437,41.881,-87.6167
+12,Montrose Harbor,Lake Shore Dr & North Blvd,2,41.964,-87.6382,41.9117,-87.6268
+12,Millennium Park,Shedd Aquarium,2,41.881,-87.6241,41.8672,-87.6154
+12,Lake Shore Dr & Monroe St,State St & Kinzie St,2,41.881,-87.6167,41.8892,-87.6277
+12,Mies van der Rohe Way & Chestnut St,Stockton Dr & Wrightwood Ave,2,41.8986,-87.6219,41.9313,-87.6387
+12,Sedgwick St & Huron St,Ogden Ave & Chicago Ave,2,41.8947,-87.6384,41.8964,-87.6541
+12,LaSalle St & Illinois St,Racine Ave & Fullerton Ave,2,41.8908,-87.6321,41.9256,-87.6584
+12,LaSalle St & Illinois St,Cityfront Plaza Dr & Pioneer Ct,2,41.8908,-87.6321,41.8906,-87.6221
+12,Glenwood Ave & Morse Ave,Clark St & Columbia Ave,2,42.008,-87.6655,42.0045,-87.6724
+12,Broadway & Barry Ave,Lake Shore Dr & North Blvd,2,41.9377,-87.6441,41.9117,-87.6268
+12,Dusable Harbor,LaSalle St & Illinois St,2,41.885,-87.6128,41.8908,-87.6321
+12,Dusable Harbor,Michigan Ave & Congress Pkwy,2,41.885,-87.6128,41.8762,-87.6244
+12,Racine Ave & Belmont Ave,Damen Ave & Cortland St,2,41.9397,-87.6589,41.916,-87.6774
+12,LaSalle St & Jackson Blvd,LaSalle St & Washington St,2,41.8782,-87.632,41.8827,-87.6325
+12,Fairbanks Ct & Grand Ave,Millennium Park,2,41.8919,-87.6206,41.881,-87.6241
+12,MLK Jr Dr & 29th St,Millennium Park,2,41.8421,-87.617,41.881,-87.6241
+12,MLK Jr Dr & 29th St,Indiana Ave & 31st St,2,41.8421,-87.617,41.8388,-87.6219
+12,Clark St & Lunt Ave,Broadway & Granville Ave,2,42.0091,-87.6737,41.9948,-87.6603
+12,Sedgwick St & Webster Ave,Streeter Dr & Grand Ave,2,41.9222,-87.6389,41.8923,-87.612
+12,Clark St & Armitage Ave,Mies van der Rohe Way & Chicago Ave,2,41.9183,-87.6363,41.8969,-87.6217
+12,Larrabee St & Kingsbury St,Halsted St & Blackhawk St (*),2,41.8978,-87.6429,41.9085,-87.6486
+12,Larrabee St & Kingsbury St,Wells St & Evergreen Ave,2,41.8978,-87.6429,41.9067,-87.6348
+12,Chicago Ave & Washington St,Sheridan Rd & Loyola Ave,2,42.0326,-87.6791,42.001,-87.6612
+12,Chicago Ave & Washington St,Clark St & Lunt Ave,2,42.0326,-87.6791,42.0091,-87.6737
+12,McClurg Ct & Illinois St,Columbus Dr & Randolph St,2,41.891,-87.6173,41.8847,-87.6195
+12,Mies van der Rohe Way & Chicago Ave,State St & Kinzie St,2,41.8969,-87.6217,41.8892,-87.6277
+12,Bissell St & Armitage Ave,Kedzie Ave & Milwaukee Ave,2,41.9184,-87.6522,41.9296,-87.7079
+12,Dearborn St & Monroe St,Clark St & Congress Pkwy,2,41.8813,-87.6295,41.8759,-87.6306
+12,Dearborn St & Erie St,Wells St & Huron St,2,41.894,-87.6293,41.8947,-87.6338
+12,Dearborn St & Erie St,Rush St & Cedar St,2,41.894,-87.6293,41.9023,-87.6277
+12,Wells St & Evergreen Ave,Michigan Ave & Washington St,2,41.9067,-87.6348,41.8839,-87.6246
+12,Wacker Dr & Washington St,St. Clair St & Erie St,2,41.8833,-87.6373,41.8944,-87.6227
+12,Dearborn St & Adams St,Dearborn Pkwy & Delaware Pl,2,41.8794,-87.6298,41.899,-87.6299
+12,Orleans St & Merchandise Mart Plaza,Desplaines St & Jackson Blvd,2,41.8882,-87.6364,41.8783,-87.6439
+12,Jefferson St & Monroe St,Wolcott Ave & Polk St,2,41.8804,-87.6427,41.8713,-87.6737
+12,Theater on the Lake,Lakeview Ave & Fullerton Pkwy,2,41.9263,-87.6308,41.9259,-87.639
+12,Theater on the Lake,Clark St & Lincoln Ave,2,41.9263,-87.6308,41.9157,-87.6346
+12,State St & Kinzie St,Dusable Harbor,2,41.8892,-87.6277,41.885,-87.6128
+12,Dearborn Pkwy & Delaware Pl,Dusable Harbor,2,41.899,-87.6299,41.885,-87.6128
+12,Damen Ave & Coulter St,Michigan Ave & 18th St,2,41.8492,-87.6756,41.8578,-87.6245
+12,Lake Shore Dr & North Blvd,Lakeview Ave & Fullerton Pkwy,2,41.9117,-87.6268,41.9259,-87.639
+12,Clark St & Grace St,Broadway & Cornelia Ave,2,41.9508,-87.6592,41.9455,-87.646
+12,Michigan Ave & Oak St,Shedd Aquarium,2,41.901,-87.6238,41.8672,-87.6154
+12,Michigan Ave & Oak St,Cannon Dr & Fullerton Ave,2,41.901,-87.6238,41.9268,-87.6344
+12,Michigan Ave & Oak St,Lake Shore Dr & Diversey Pkwy,2,41.901,-87.6238,41.9327,-87.6363
+12,Michigan Ave & Oak St,Michigan Ave & Lake St,2,41.901,-87.6238,41.886,-87.6241
+12,Michigan Ave & Oak St,Lake Shore Dr & North Blvd,2,41.901,-87.6238,41.9117,-87.6268
+12,Stockton Dr & Wrightwood Ave,Streeter Dr & Grand Ave,2,41.9313,-87.6387,41.8923,-87.612
+12,Cornell Ave & Hyde Park Blvd,Ellis Ave & 58th St,2,41.8024,-87.5869,41.7887,-87.6013
+12,Cornell Ave & Hyde Park Blvd,Fort Dearborn Dr & 31st St,2,41.8024,-87.5869,41.8386,-87.6082
+12,Broadway & Sheridan Rd,Broadway & Belmont Ave,2,41.9528,-87.65,41.9401,-87.6455
+12,Broadway & Sheridan Rd,Streeter Dr & Grand Ave,2,41.9528,-87.65,41.8923,-87.612
+12,Clark St & Elm St,Sangamon St & Washington Blvd (*),2,41.903,-87.6313,41.883,-87.6511
+12,Clark St & Elm St,Dearborn St & Erie St,2,41.903,-87.6313,41.894,-87.6293
+12,Broadway & Granville Ave,Montrose Harbor,2,41.9948,-87.6603,41.964,-87.6382
+12,Streeter Dr & Grand Ave,Wabash Ave & Grand Ave,2,41.8923,-87.612,41.8917,-87.6269
+12,Streeter Dr & Grand Ave,Dusable Harbor,2,41.8923,-87.612,41.885,-87.6128
+12,Streeter Dr & Grand Ave,McClurg Ct & Illinois St,2,41.8923,-87.612,41.891,-87.6173
+12,Aberdeen St & Jackson Blvd,Wood St & Milwaukee Ave,2,41.8777,-87.6548,41.9077,-87.6726
+12,Franklin St & Jackson Blvd,Federal St & Polk St,2,41.8777,-87.6353,41.8721,-87.6295
+12,Franklin St & Jackson Blvd,Millennium Park,2,41.8777,-87.6353,41.881,-87.6241
+12,Franklin St & Jackson Blvd,Fairbanks Ct & Grand Ave,2,41.8777,-87.6353,41.8919,-87.6206
+12,Wilton Ave & Belmont Ave,Halsted St & Diversey Pkwy,2,41.9402,-87.653,41.9337,-87.649
+12,Sheffield Ave & Wellington Ave,Marshfield Ave & Cortland St,2,41.9363,-87.6527,41.916,-87.6689
+12,Kimbark Ave & 53rd St,Cornell Ave & Hyde Park Blvd,2,41.7996,-87.5947,41.8024,-87.5869
+12,Larrabee St & Oak St,Clark St & Schiller St,2,41.9002,-87.643,41.908,-87.6315
+12,Lake Park Ave & 47th St,Michigan Ave & Jackson Blvd,2,41.8094,-87.5919,41.8778,-87.6241
+12,Desplaines St & Randolph St,Sangamon St & Washington Blvd (*),2,41.8846,-87.6446,41.883,-87.6511
+12,Desplaines St & Randolph St,McClurg Ct & Illinois St,2,41.8846,-87.6446,41.891,-87.6173
+12,Burnham Harbor,Lake Shore Dr & Monroe St,2,41.8563,-87.6133,41.881,-87.6167
+12,LaSalle St & Washington St,Lake Shore Dr & Monroe St,2,41.8827,-87.6325,41.881,-87.6167
+12,Clark St & North Ave,Halsted St & Willow St,2,41.912,-87.6319,41.9138,-87.6488
+12,Clinton St & Roosevelt Rd,Shedd Aquarium,2,41.8671,-87.6411,41.8672,-87.6154
+12,Green St & Randolph St,Clinton St & Roosevelt Rd,2,41.8837,-87.6487,41.8671,-87.6411
+12,Kedzie Ave & Milwaukee Ave,Albany Ave & Bloomingdale Ave,2,41.9296,-87.7079,41.914,-87.7051
+12,Clark St & Congress Pkwy,Michigan Ave & Oak St,2,41.8759,-87.6306,41.901,-87.6238
+12,Indiana Ave & 31st St,Calumet Ave & 35th St,2,41.8388,-87.6219,41.8314,-87.618
+12,Wabash Ave & 8th St,Stetson Ave & South Water St,2,41.872,-87.6261,41.8868,-87.6223
+12,Columbus Dr & Randolph St,Lake Shore Dr & Monroe St,2,41.8847,-87.6195,41.881,-87.6167
+12,Columbus Dr & Randolph St,Dusable Harbor,2,41.8847,-87.6195,41.885,-87.6128
+12,State St & Randolph St,Streeter Dr & Grand Ave,2,41.8847,-87.6277,41.8923,-87.612
+12,State St & Randolph St,Green St & Randolph St,2,41.8847,-87.6277,41.8837,-87.6487
+12,Albany Ave & Bloomingdale Ave,Claremont Ave & Hirsch St,2,41.914,-87.7051,41.9078,-87.6859
+12,Albany Ave & Bloomingdale Ave,Marshfield Ave & Cortland St,2,41.914,-87.7051,41.916,-87.6689
+12,Cityfront Plaza Dr & Pioneer Ct,LaSalle St & Illinois St,2,41.8906,-87.6221,41.8908,-87.6321
+12,Cityfront Plaza Dr & Pioneer Ct,Michigan Ave & Pearson St,2,41.8906,-87.6221,41.8977,-87.6235
+12,Cityfront Plaza Dr & Pioneer Ct,Streeter Dr & Grand Ave,2,41.8906,-87.6221,41.8923,-87.612
+12,Halsted St & Dickens Ave,Sedgwick St & Webster Ave,2,41.9199,-87.6488,41.9222,-87.6389
+12,Clark St & Wellington Ave,Halsted St & Blackhawk St (*),2,41.9365,-87.6475,41.9085,-87.6486
+12,Marshfield Ave & Cortland St,Desplaines St & Kinzie St,2,41.916,-87.6689,41.8887,-87.6444
+12,Marshfield Ave & Cortland St,Milwaukee Ave & Wabansia Ave,2,41.916,-87.6689,41.9126,-87.6814
+12,Sheffield Ave & Wrightwood Ave,Racine Ave & Fullerton Ave,2,41.9287,-87.6538,41.9256,-87.6584
+13,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,12,41.881,-87.6167,41.8923,-87.612
+13,Shedd Aquarium,Lake Shore Dr & Monroe St,8,41.8672,-87.6154,41.881,-87.6167
+13,Broadway & Thorndale Ave,Lakefront Trail & Bryn Mawr Ave,8,41.9897,-87.6601,41.984,-87.6523
+13,Ellis Ave & 58th St,Museum of Science and Industry,8,41.7887,-87.6013,41.7917,-87.5839
+13,Streeter Dr & Grand Ave,Millennium Park,7,41.8923,-87.612,41.881,-87.6241
+13,Theater on the Lake,Streeter Dr & Grand Ave,6,41.9263,-87.6308,41.8923,-87.612
+13,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,6,41.8923,-87.612,41.881,-87.6167
+13,Wells St & Huron St,Millennium Park,5,41.8947,-87.6338,41.881,-87.6241
+13,Streeter Dr & Grand Ave,Michigan Ave & Oak St,5,41.8923,-87.612,41.901,-87.6238
+13,Millennium Park,Franklin St & Jackson Blvd,4,41.881,-87.6241,41.8777,-87.6353
+13,Millennium Park,Michigan Ave & 14th St,4,41.881,-87.6241,41.8641,-87.6237
+13,Lake Shore Dr & North Blvd,Theater on the Lake,4,41.9117,-87.6268,41.9263,-87.6308
+13,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,4,41.9117,-87.6268,41.8923,-87.612
+13,Michigan Ave & Oak St,Theater on the Lake,4,41.901,-87.6238,41.9263,-87.6308
+13,Stockton Dr & Wrightwood Ave,Streeter Dr & Grand Ave,4,41.9313,-87.6387,41.8923,-87.612
+13,Adler Planetarium,Lake Shore Dr & Monroe St,4,41.8661,-87.6073,41.881,-87.6167
+13,Shedd Aquarium,Streeter Dr & Grand Ave,3,41.8672,-87.6154,41.8923,-87.612
+13,Lake Shore Dr & Diversey Pkwy,Streeter Dr & Grand Ave,3,41.9327,-87.6363,41.8923,-87.612
+13,Lakeview Ave & Fullerton Pkwy,Lake Shore Dr & North Blvd,3,41.9259,-87.639,41.9117,-87.6268
+13,Millennium Park,Shedd Aquarium,3,41.881,-87.6241,41.8672,-87.6154
+13,Lake Shore Dr & Wellington Ave,Streeter Dr & Grand Ave,3,41.9367,-87.6368,41.8923,-87.612
+13,California Ave & North Ave,Marshfield Ave & Cortland St,3,41.9104,-87.6972,41.916,-87.6689
+13,Damen Ave & Clybourn Ave,California Ave & North Ave,3,41.9319,-87.6779,41.9104,-87.6972
+13,Larrabee St & Kingsbury St,Kingsbury St & Kinzie St,3,41.8978,-87.6429,41.8892,-87.6385
+13,Wells St & Walton St,Dearborn St & Erie St,3,41.8999,-87.6344,41.894,-87.6293
+13,State St & Kinzie St,State St & Randolph St,3,41.8892,-87.6277,41.8847,-87.6277
+13,Lake Shore Dr & North Blvd,Michigan Ave & Oak St,3,41.9117,-87.6268,41.901,-87.6238
+13,Ravenswood Ave & Irving Park Rd,Troy St & Elston Ave,3,41.9547,-87.6739,41.9452,-87.7066
+13,Sheffield Ave & Webster Ave,Wells St & Walton St,3,41.9215,-87.6538,41.8999,-87.6344
+13,Lakefront Trail & Bryn Mawr Ave,Pine Grove Ave & Irving Park Rd,3,41.984,-87.6523,41.9544,-87.648
+13,Michigan Ave & Oak St,Lake Shore Dr & Wellington Ave,3,41.901,-87.6238,41.9367,-87.6368
+13,Cornell Ave & Hyde Park Blvd,Kimbark Ave & 53rd St,3,41.8024,-87.5869,41.7996,-87.5947
+13,Streeter Dr & Grand Ave,Michigan Ave & Jackson Blvd,3,41.8923,-87.612,41.8778,-87.6241
+13,Streeter Dr & Grand Ave,Cityfront Plaza Dr & Pioneer Ct,3,41.8923,-87.612,41.8906,-87.6221
+13,Indiana Ave & Roosevelt Rd,Lake Shore Dr & Monroe St,3,41.8679,-87.623,41.881,-87.6167
+13,Wilton Ave & Belmont Ave,Ravenswood Ave & Irving Park Rd,3,41.9402,-87.653,41.9547,-87.6739
+13,Clark St & Randolph St,Wabash Ave & 8th St,3,41.8846,-87.6319,41.872,-87.6261
+13,Ashland Ave & Blackhawk St,Theater on the Lake,3,41.9071,-87.6673,41.9263,-87.6308
+13,Wabash Ave & 8th St,Field Museum,3,41.872,-87.6261,41.8653,-87.6179
+13,Lincoln Ave & Roscoe St,Theater on the Lake,3,41.9433,-87.671,41.9263,-87.6308
+13,Shedd Aquarium,Millennium Park,2,41.8672,-87.6154,41.881,-87.6241
+13,Shedd Aquarium,McClurg Ct & Illinois St,2,41.8672,-87.6154,41.891,-87.6173
+13,Sheridan Rd & Loyola Ave,Lakefront Trail & Bryn Mawr Ave,2,42.001,-87.6612,41.984,-87.6523
+13,Desplaines St & Kinzie St,Franklin St & Monroe St,2,41.8887,-87.6444,41.8803,-87.6352
+13,Franklin St & Lake St,Kingsbury St & Kinzie St,2,41.8858,-87.6355,41.8892,-87.6385
+13,Clarendon Ave & Junior Ter,Michigan Ave & Oak St,2,41.961,-87.6496,41.901,-87.6238
+13,Field Museum,Millennium Park,2,41.8653,-87.6179,41.881,-87.6241
+13,Field Museum,Shore Dr & 55th St,2,41.8653,-87.6179,41.7952,-87.5807
+13,Green St & Madison St,Morgan St & Lake St,2,41.8819,-87.6488,41.8855,-87.6523
+13,Pine Grove Ave & Waveland Ave,Sheridan Rd & Irving Park Rd,2,41.9493,-87.6463,41.9542,-87.6544
+13,Pine Grove Ave & Waveland Ave,Montrose Harbor,2,41.9493,-87.6463,41.964,-87.6382
+13,Wabash Ave & Grand Ave,Streeter Dr & Grand Ave,2,41.8917,-87.6269,41.8923,-87.612
+13,Sheridan Rd & Irving Park Rd,Clark St & Leland Ave,2,41.9542,-87.6544,41.9671,-87.6674
+13,Michigan Ave & Washington St,LaSalle St & Adams St,2,41.8839,-87.6246,41.8793,-87.632
+13,Lakeview Ave & Fullerton Pkwy,Rush St & Cedar St,2,41.9259,-87.639,41.9023,-87.6277
+13,Millennium Park,Michigan Ave & Congress Pkwy,2,41.881,-87.6241,41.8762,-87.6244
+13,Millennium Park,Canal St & Adams St,2,41.881,-87.6241,41.8793,-87.6399
+13,Millennium Park,Michigan Ave & Jackson Blvd,2,41.881,-87.6241,41.8778,-87.6241
+13,Lake Shore Dr & Monroe St,Millennium Park,2,41.881,-87.6167,41.881,-87.6241
+13,Lake Shore Dr & Monroe St,Calumet Ave & 18th St,2,41.881,-87.6167,41.8576,-87.6194
+13,Lake Shore Dr & Monroe St,Dearborn St & Erie St,2,41.881,-87.6167,41.894,-87.6293
+13,Lake Shore Dr & Monroe St,Lake Shore Dr & North Blvd,2,41.881,-87.6167,41.9117,-87.6268
+13,Lake Shore Dr & Monroe St,Michigan Ave & Jackson Blvd,2,41.881,-87.6167,41.8778,-87.6241
+13,LaSalle St & Illinois St,Michigan Ave & Oak St,2,41.8908,-87.6321,41.901,-87.6238
+13,Lake Shore Dr & Wellington Ave,Broadway & Cornelia Ave,2,41.9367,-87.6368,41.9455,-87.646
+13,Lake Shore Dr & Wellington Ave,Clark St & Armitage Ave,2,41.9367,-87.6368,41.9183,-87.6363
+13,Ashland Ave & Division St,Damen Ave & Pierce Ave,2,41.9035,-87.6677,41.9094,-87.6777
+13,Sangamon St & Washington Blvd (*),May St & Taylor St,2,41.883,-87.6511,41.8695,-87.6555
+13,Ashland Ave & Augusta Blvd,Halsted St & Wrightwood Ave,2,41.8996,-87.6677,41.9291,-87.6491
+13,Broadway & Cornelia Ave,Sheridan Rd & Irving Park Rd,2,41.9455,-87.646,41.9542,-87.6544
+13,Broadway & Cornelia Ave,Clark St & Grace St,2,41.9455,-87.646,41.9508,-87.6592
+13,Racine Ave & Wrightwood Ave,Bissell St & Armitage Ave,2,41.9289,-87.659,41.9184,-87.6522
+13,Broadway & Barry Ave,Wabash Ave & Wacker Pl,2,41.9377,-87.6441,41.8869,-87.626
+13,Broadway & Barry Ave,Lake Shore Dr & North Blvd,2,41.9377,-87.6441,41.9117,-87.6268
+13,Michigan Ave & Congress Pkwy,Franklin St & Jackson Blvd,2,41.8762,-87.6244,41.8777,-87.6353
+13,Dusable Harbor,Shedd Aquarium,2,41.885,-87.6128,41.8672,-87.6154
+13,Dusable Harbor,Wabash Ave & Grand Ave,2,41.885,-87.6128,41.8917,-87.6269
+13,Michigan Ave & Pearson St,Wabash Ave & Grand Ave,2,41.8977,-87.6235,41.8917,-87.6269
+13,Michigan Ave & Pearson St,Dusable Harbor,2,41.8977,-87.6235,41.885,-87.6128
+13,Clark St & Lake St,Millennium Park,2,41.886,-87.6309,41.881,-87.6241
+13,Clark St & Lake St,Kingsbury St & Kinzie St,2,41.886,-87.6309,41.8892,-87.6385
+13,Richmond St & Diversey Ave,Western Ave & Leland Ave,2,41.9319,-87.7012,41.9666,-87.6885
+13,Sedgwick St & North Ave,Sedgwick St & Webster Ave,2,41.9114,-87.6387,41.9222,-87.6389
+13,LaSalle St & Jackson Blvd,Aberdeen St & Jackson Blvd,2,41.8782,-87.632,41.8777,-87.6548
+13,Halsted St & Blackhawk St (*),Kingsbury St & Erie St,2,41.9085,-87.6486,41.8939,-87.6417
+13,Halsted St & Blackhawk St (*),Dayton St & North Ave,2,41.9085,-87.6486,41.9106,-87.6494
+13,Franklin St & Chicago Ave,Wells St & Evergreen Ave,2,41.8968,-87.6356,41.9067,-87.6348
+13,Clark St & Armitage Ave,Streeter Dr & Grand Ave,2,41.9183,-87.6363,41.8923,-87.612
+13,Kingsbury St & Erie St,Ashland Ave & Lake St,2,41.8939,-87.6417,41.8854,-87.6673
+13,Kingsbury St & Erie St,Larrabee St & Webster Ave,2,41.8939,-87.6417,41.9218,-87.6441
+13,Clinton St & Madison St,Union Ave & Grand Ave,2,41.8822,-87.6411,41.891,-87.6459
+13,Clinton St & Madison St,Dearborn St & Adams St,2,41.8822,-87.6411,41.8794,-87.6298
+13,Clinton St & Madison St,Damen Ave & Grand Ave,2,41.8822,-87.6411,41.8912,-87.6769
+13,Lake Shore Dr & Belmont Ave,Lake Shore Dr & Wellington Ave,2,41.9408,-87.6392,41.9367,-87.6368
+13,McClurg Ct & Illinois St,Wabash Ave & Grand Ave,2,41.891,-87.6173,41.8917,-87.6269
+13,McClurg Ct & Illinois St,St. Clair St & Erie St,2,41.891,-87.6173,41.8944,-87.6227
+13,Michigan Ave & 18th St,Adler Planetarium,2,41.8578,-87.6245,41.8661,-87.6073
+13,Halsted St & Wrightwood Ave,Clark St & Wellington Ave,2,41.9291,-87.6491,41.9365,-87.6475
+13,Franklin St & Monroe St,Fairbanks Ct & Grand Ave,2,41.8803,-87.6352,41.8919,-87.6206
+13,Mies van der Rohe Way & Chicago Ave,Shedd Aquarium,2,41.8969,-87.6217,41.8672,-87.6154
+13,Manor Ave & Leland Ave,Warren Park West,2,41.9663,-87.7011,42.002,-87.6897
+13,Dearborn St & Adams St,Mies van der Rohe Way & Chestnut St,2,41.8794,-87.6298,41.8986,-87.6219
+13,Dearborn St & Adams St,Canal St & Madison St,2,41.8794,-87.6298,41.8821,-87.6398
+13,Theater on the Lake,Pine Grove Ave & Irving Park Rd,2,41.9263,-87.6308,41.9544,-87.648
+13,State St & Kinzie St,Franklin St & Jackson Blvd,2,41.8892,-87.6277,41.8777,-87.6353
+13,Kingsbury St & Kinzie St,Kingsbury St & Erie St,2,41.8892,-87.6385,41.8939,-87.6417
+13,Kingsbury St & Kinzie St,Clinton St & Madison St,2,41.8892,-87.6385,41.8822,-87.6411
+13,Orleans St & Elm St (*),Orleans St & Ohio St,2,41.9029,-87.6377,41.8922,-87.6369
+13,Lincoln Ave & Diversey Pkwy,Clark St & Berwyn Ave,2,41.9322,-87.6586,41.978,-87.668
+13,Lincoln Ave & Diversey Pkwy,Theater on the Lake,2,41.9322,-87.6586,41.9263,-87.6308
+13,Lake Shore Dr & North Blvd,Wabash Ave & Wacker Pl,2,41.9117,-87.6268,41.8869,-87.626
+13,Damen Ave & Grand Ave,Orleans St & Elm St (*),2,41.8912,-87.6769,41.9029,-87.6377
+13,Lombard Ave & Garfield St,Oak Park Ave & Harrison St,2,41.8707,-87.7788,41.873,-87.7939
+13,Wabash Ave & Adams St,Shedd Aquarium,2,41.8795,-87.6257,41.8672,-87.6154
+13,Lakefront Trail & Bryn Mawr Ave,Theater on the Lake,2,41.984,-87.6523,41.9263,-87.6308
+13,Michigan Ave & Oak St,Sheffield Ave & Addison St,2,41.901,-87.6238,41.947,-87.6542
+13,Ellis Ave & 58th St,Harper Ave & 59th St,2,41.7887,-87.6013,41.7879,-87.5883
+13,Clark St & Elm St,Clark St & Armitage Ave,2,41.903,-87.6313,41.9183,-87.6363
+13,Broadway & Wilson Ave,Broadway & Argyle St,2,41.9655,-87.6572,41.973,-87.6596
+13,Clark St & Lincoln Ave,Fairbanks Ct & Grand Ave,2,41.9157,-87.6346,41.8919,-87.6206
+13,Clark St & Lincoln Ave,Lincoln Ave & Belmont Ave,2,41.9157,-87.6346,41.9394,-87.6684
+13,Streeter Dr & Grand Ave,Wabash Ave & Wacker Pl,2,41.8923,-87.612,41.8869,-87.626
+13,Streeter Dr & Grand Ave,Dusable Harbor,2,41.8923,-87.612,41.885,-87.6128
+13,Streeter Dr & Grand Ave,Clark St & Armitage Ave,2,41.8923,-87.612,41.9183,-87.6363
+13,Streeter Dr & Grand Ave,Clark St & Schiller St,2,41.8923,-87.612,41.908,-87.6315
+13,Streeter Dr & Grand Ave,Wabash Ave & 8th St,2,41.8923,-87.612,41.872,-87.6261
+13,Fort Dearborn Dr & 31st St,State St & Harrison St,2,41.8386,-87.6082,41.8741,-87.6277
+13,Fort Dearborn Dr & 31st St,Burnham Harbor,2,41.8386,-87.6082,41.8563,-87.6133
+13,Leavitt St & Addison St,Sheffield Ave & Wellington Ave,2,41.947,-87.6834,41.9363,-87.6527
+13,Sheffield Ave & Addison St,Halsted St & Diversey Pkwy,2,41.947,-87.6542,41.9337,-87.649
+13,Indiana Ave & Roosevelt Rd,Dearborn Pkwy & Delaware Pl,2,41.8679,-87.623,41.899,-87.6299
+13,Halsted St & Willow St,Rush St & Superior St,2,41.9138,-87.6488,41.8958,-87.6259
+13,State St & 33rd St,Halsted St & Maxwell St,2,41.8347,-87.6258,41.8649,-87.6471
+13,State St & 33rd St,Fort Dearborn Dr & 31st St,2,41.8347,-87.6258,41.8386,-87.6082
+13,Wilton Ave & Diversey Pkwy,Larrabee St & Webster Ave,2,41.9324,-87.6527,41.9218,-87.6441
+13,Sheridan Rd & Montrose Ave,Clarendon Ave & Junior Ter,2,41.9617,-87.6546,41.961,-87.6496
+13,Kimbark Ave & 53rd St,Lake Park Ave & 53rd St,2,41.7996,-87.5947,41.7995,-87.5864
+13,Larrabee St & Oak St,Lincoln Ave & Fullerton Ave,2,41.9002,-87.643,41.9259,-87.6493
+13,Racine Ave & Fullerton Ave,Clark St & Wrightwood Ave,2,41.9256,-87.6584,41.9295,-87.6431
+13,Racine Ave & Fullerton Ave,Sheffield Ave & Wrightwood Ave,2,41.9256,-87.6584,41.9287,-87.6538
+13,Sheffield Ave & Fullerton Ave,Greenview Ave & Fullerton Ave,2,41.9256,-87.6537,41.9253,-87.6658
+13,McCormick Place,Field Museum,2,41.8514,-87.6188,41.8653,-87.6179
+13,Broadway & Waveland Ave,Sheridan Rd & Buena Ave,2,41.9491,-87.6486,41.9585,-87.655
+13,Lincoln Ave & Waveland Ave,Broadway & Cornelia Ave,2,41.9491,-87.6751,41.9455,-87.646
+13,Broadway & Berwyn Ave,Montrose Harbor,2,41.9784,-87.6598,41.964,-87.6382
+13,Clinton St & Roosevelt Rd,Theater on the Lake,2,41.8671,-87.6411,41.9263,-87.6308
+13,Larrabee St & Webster Ave,Bissell St & Armitage Ave,2,41.9218,-87.6441,41.9184,-87.6522
+13,Lincoln Ave & Belmont Ave,Sheffield Ave & Webster Ave,2,41.9394,-87.6684,41.9215,-87.6538
+13,McClurg Ct & Erie St,Michigan Ave & Oak St,2,41.8945,-87.6179,41.901,-87.6238
+13,Hampden Ct & Diversey Pkwy,Michigan Ave & Oak St,2,41.9326,-87.6424,41.901,-87.6238
+13,Marshfield Ave & Cortland St,Lakeview Ave & Fullerton Pkwy,2,41.916,-87.6689,41.9259,-87.639
+13,Damen Ave & Cortland St,Humboldt Blvd & Armitage Ave,2,41.916,-87.6774,41.9175,-87.7018
+13,Wells St & Concord Ln,Dayton St & North Ave,2,41.9121,-87.6347,41.9106,-87.6494
+14,Lake Shore Dr & Monroe St,Lake Shore Dr & North Blvd,10,41.881,-87.6167,41.9117,-87.6268
+14,Theater on the Lake,Streeter Dr & Grand Ave,9,41.9263,-87.6308,41.8923,-87.612
+14,Lakefront Trail & Bryn Mawr Ave,Montrose Harbor,7,41.984,-87.6523,41.964,-87.6382
+14,Streeter Dr & Grand Ave,Theater on the Lake,7,41.8923,-87.612,41.9263,-87.6308
+14,Lake Shore Dr & Monroe St,Michigan Ave & Oak St,6,41.881,-87.6167,41.901,-87.6238
+14,Michigan Ave & Oak St,Theater on the Lake,6,41.901,-87.6238,41.9263,-87.6308
+14,Shedd Aquarium,Streeter Dr & Grand Ave,4,41.8672,-87.6154,41.8923,-87.612
+14,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,4,41.881,-87.6167,41.8923,-87.612
+14,Dusable Harbor,Michigan Ave & Oak St,4,41.885,-87.6128,41.901,-87.6238
+14,Clark St & Armitage Ave,Lake Shore Dr & North Blvd,4,41.9183,-87.6363,41.9117,-87.6268
+14,LaSalle St & Adams St,Millennium Park,4,41.8793,-87.632,41.881,-87.6241
+14,Wells St & Evergreen Ave,LaSalle St & Illinois St,4,41.9067,-87.6348,41.8908,-87.6321
+14,Wells St & Evergreen Ave,Halsted St & Dickens Ave,4,41.9067,-87.6348,41.9199,-87.6488
+14,Lake Shore Dr & North Blvd,Theater on the Lake,4,41.9117,-87.6268,41.9263,-87.6308
+14,Michigan Ave & Oak St,Millennium Park,4,41.901,-87.6238,41.881,-87.6241
+14,900 W Harrison St,Jefferson St & Monroe St,4,41.8747,-87.65,41.8804,-87.6427
+14,Streeter Dr & Grand Ave,Millennium Park,4,41.8923,-87.612,41.881,-87.6241
+14,Indiana Ave & Roosevelt Rd,Shedd Aquarium,4,41.8679,-87.623,41.8672,-87.6154
+14,Southport Ave & Waveland Ave,Streeter Dr & Grand Ave,4,41.9482,-87.6639,41.8923,-87.612
+14,Halsted St & Dickens Ave,Lake Shore Dr & North Blvd,4,41.9199,-87.6488,41.9117,-87.6268
+14,Clark St & Wellington Ave,Fairbanks Ct & Grand Ave,4,41.9365,-87.6475,41.8919,-87.6206
+14,Shedd Aquarium,Lake Shore Dr & Ohio St,3,41.8672,-87.6154,41.8926,-87.6145
+14,Canal St & Monroe St (*),St. Clair St & Erie St,3,41.8809,-87.6395,41.8944,-87.6227
+14,Field Museum,Lake Shore Dr & Monroe St,3,41.8653,-87.6179,41.881,-87.6167
+14,Millennium Park,Lake Shore Dr & Monroe St,3,41.881,-87.6241,41.881,-87.6167
+14,Millennium Park,Clark St & Congress Pkwy,3,41.881,-87.6241,41.8759,-87.6306
+14,Lake Shore Dr & Monroe St,Millennium Park,3,41.881,-87.6167,41.881,-87.6241
+14,Damen Ave & Clybourn Ave,Greenview Ave & Diversey Pkwy,3,41.9319,-87.6779,41.9326,-87.6659
+14,Canal St & Madison St,Michigan Ave & Oak St,3,41.8821,-87.6398,41.901,-87.6238
+14,Damen Ave & Chicago Ave,Franklin St & Chicago Ave,3,41.8958,-87.6772,41.8968,-87.6356
+14,Franklin St & Chicago Ave,Streeter Dr & Grand Ave,3,41.8968,-87.6356,41.8923,-87.612
+14,Jefferson St & Monroe St,Wabash Ave & Grand Ave,3,41.8804,-87.6427,41.8917,-87.6269
+14,Theater on the Lake,Lake Shore Dr & Monroe St,3,41.9263,-87.6308,41.881,-87.6167
+14,Theater on the Lake,Michigan Ave & Oak St,3,41.9263,-87.6308,41.901,-87.6238
+14,Orleans St & Elm St (*),Lake Shore Dr & North Blvd,3,41.9029,-87.6377,41.9117,-87.6268
+14,Lake Shore Dr & North Blvd,Dusable Harbor,3,41.9117,-87.6268,41.885,-87.6128
+14,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,3,41.9117,-87.6268,41.8923,-87.612
+14,Michigan Ave & Oak St,Lake Shore Dr & Ohio St,3,41.901,-87.6238,41.8926,-87.6145
+14,Streeter Dr & Grand Ave,Shedd Aquarium,3,41.8923,-87.612,41.8672,-87.6154
+14,Fort Dearborn Dr & 31st St,Michigan Ave & Washington St,3,41.8386,-87.6082,41.8839,-87.6246
+14,Sheffield Ave & Fullerton Ave,Racine Ave & Wrightwood Ave,3,41.9256,-87.6537,41.9289,-87.659
+14,Cityfront Plaza Dr & Pioneer Ct,Streeter Dr & Grand Ave,3,41.8906,-87.6221,41.8923,-87.612
+14,Marshfield Ave & Cortland St,Lake Shore Dr & North Blvd,3,41.916,-87.6689,41.9117,-87.6268
+14,Damen Ave & Cortland St,Stave St & Armitage Ave,3,41.916,-87.6774,41.9177,-87.6914
+14,Financial Pl & Congress Pkwy,Wells St & Polk St,2,41.875,-87.6331,41.8724,-87.6335
+14,Shedd Aquarium,Millennium Park,2,41.8672,-87.6154,41.881,-87.6241
+14,Shedd Aquarium,Lake Shore Dr & Monroe St,2,41.8672,-87.6154,41.881,-87.6167
+14,Shedd Aquarium,Mies van der Rohe Way & Chicago Ave,2,41.8672,-87.6154,41.8969,-87.6217
+14,Shedd Aquarium,Clinton St & Washington Blvd,2,41.8672,-87.6154,41.8834,-87.6412
+14,Shedd Aquarium,Adler Planetarium,2,41.8672,-87.6154,41.8661,-87.6073
+14,Lake Shore Dr & Ohio St,Streeter Dr & Grand Ave,2,41.8926,-87.6145,41.8923,-87.612
+14,Canal St & Monroe St (*),Shedd Aquarium,2,41.8809,-87.6395,41.8672,-87.6154
+14,Canal St & Monroe St (*),Dearborn St & Monroe St,2,41.8809,-87.6395,41.8813,-87.6295
+14,Stony Island Ave & 67th St,Jeffery Blvd & 67th St,2,41.7735,-87.5853,41.7735,-87.5771
+14,Field Museum,Wabash Ave & Roosevelt Rd,2,41.8653,-87.6179,41.8672,-87.626
+14,Field Museum,State St & Harrison St,2,41.8653,-87.6179,41.8741,-87.6277
+14,Field Museum,Wabash Ave & 8th St,2,41.8653,-87.6179,41.872,-87.6261
+14,Field Museum,Columbus Dr & Randolph St,2,41.8653,-87.6179,41.8847,-87.6195
+14,State St & Harrison St,Michigan Ave & Congress Pkwy,2,41.8741,-87.6277,41.8762,-87.6244
+14,Pine Grove Ave & Waveland Ave,Lake Shore Dr & Monroe St,2,41.9493,-87.6463,41.881,-87.6167
+14,Wabash Ave & Grand Ave,Orleans St & Merchandise Mart Plaza,2,41.8917,-87.6269,41.8882,-87.6364
+14,Wabash Ave & Grand Ave,Theater on the Lake,2,41.8917,-87.6269,41.9263,-87.6308
+14,Sheridan Rd & Irving Park Rd,Lakefront Trail & Bryn Mawr Ave,2,41.9542,-87.6544,41.984,-87.6523
+14,Halsted St & Diversey Pkwy,Theater on the Lake,2,41.9337,-87.649,41.9263,-87.6308
+14,Halsted St & Roosevelt Rd,Aberdeen St & Monroe St,2,41.8673,-87.6486,41.8804,-87.6556
+14,Michigan Ave & Washington St,Wabash Ave & Adams St,2,41.8839,-87.6246,41.8795,-87.6257
+14,Larrabee St & Armitage Ave,Franklin St & Quincy St,2,41.9181,-87.6437,41.8787,-87.6348
+14,California Ave & Francis Pl,Humboldt Blvd & Armitage Ave,2,41.9181,-87.697,41.9175,-87.7018
+14,Montrose Harbor,Lake Shore Dr & North Blvd,2,41.964,-87.6382,41.9117,-87.6268
+14,Dorchester Ave & 49th St,Burnham Harbor,2,41.8058,-87.5925,41.8563,-87.6133
+14,Millennium Park,Dusable Harbor,2,41.881,-87.6241,41.885,-87.6128
+14,Millennium Park,Wabash Ave & Adams St,2,41.881,-87.6241,41.8795,-87.6257
+14,Millennium Park,Stockton Dr & Wrightwood Ave,2,41.881,-87.6241,41.9313,-87.6387
+14,Lake Shore Dr & Monroe St,Shedd Aquarium,2,41.881,-87.6167,41.8672,-87.6154
+14,Lake Shore Dr & Monroe St,McClurg Ct & Illinois St,2,41.881,-87.6167,41.891,-87.6173
+14,Lake Shore Dr & Monroe St,Indiana Ave & Roosevelt Rd,2,41.881,-87.6167,41.8679,-87.623
+14,Clifton Ave & Lawrence Ave,Montrose Harbor,2,41.9689,-87.6589,41.964,-87.6382
+14,LaSalle St & Illinois St,Noble St & Milwaukee Ave,2,41.8908,-87.6321,41.9007,-87.6626
+14,LaSalle St & Illinois St,McClurg Ct & Illinois St,2,41.8908,-87.6321,41.891,-87.6173
+14,Calumet Ave & 18th St,Adler Planetarium,2,41.8576,-87.6194,41.8661,-87.6073
+14,Blue Island Ave & 18th St,Paulina St & 18th St,2,41.8576,-87.6615,41.8579,-87.6687
+14,Ashland Ave & Division St,Wood St & Milwaukee Ave,2,41.9035,-87.6677,41.9077,-87.6726
+14,Ashland Ave & Division St,Sheffield Ave & Willow St,2,41.9035,-87.6677,41.9137,-87.6529
+14,Ashland Ave & Division St,Humboldt Dr & Luis Munoz Marin Dr,2,41.9035,-87.6677,41.9001,-87.7029
+14,Canal St & Taylor St,Franklin St & Jackson Blvd,2,41.8703,-87.6395,41.8777,-87.6353
+14,Racine Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,2,41.9289,-87.659,41.9256,-87.6537
+14,Broadway & Barry Ave,Theater on the Lake,2,41.9377,-87.6441,41.9263,-87.6308
+14,Broadway & Barry Ave,Lake Shore Dr & North Blvd,2,41.9377,-87.6441,41.9117,-87.6268
+14,Damen Ave & Pierce Ave,Central Park Ave & North Ave,2,41.9094,-87.6777,41.9097,-87.7166
+14,Damen Ave & Pierce Ave,Theater on the Lake,2,41.9094,-87.6777,41.9263,-87.6308
+14,Damen Ave & Pierce Ave,Kedzie Ave & Palmer Ct,2,41.9094,-87.6777,41.9215,-87.7073
+14,Dusable Harbor,Shedd Aquarium,2,41.885,-87.6128,41.8672,-87.6154
+14,Dusable Harbor,Lake Shore Dr & Ohio St,2,41.885,-87.6128,41.8926,-87.6145
+14,State St & Van Buren St,Canal St & Madison St,2,41.8772,-87.6278,41.8821,-87.6398
+14,Michigan Ave & Lake St,Streeter Dr & Grand Ave,2,41.886,-87.6241,41.8923,-87.612
+14,Michigan Ave & Lake St,Burnham Harbor,2,41.886,-87.6241,41.8563,-87.6133
+14,Damen Ave & Clybourn Ave,Kedzie Ave & Milwaukee Ave,2,41.9319,-87.6779,41.9296,-87.7079
+14,Damen Ave & Chicago Ave,Kingsbury St & Kinzie St,2,41.8958,-87.6772,41.8892,-87.6385
+14,Noble St & Milwaukee Ave,Damen Ave & Pierce Ave,2,41.9007,-87.6626,41.9094,-87.6777
+14,Clark St & Armitage Ave,Dearborn St & Erie St,2,41.9183,-87.6363,41.894,-87.6293
+14,Clark St & Armitage Ave,Clark St & Schiller St,2,41.9183,-87.6363,41.908,-87.6315
+14,Halsted St & Roscoe St,Aberdeen St & Monroe St,2,41.9437,-87.6489,41.8804,-87.6556
+14,Broadway & Argyle St,Montrose Harbor,2,41.973,-87.6596,41.964,-87.6382
+14,Ravenswood Ave & Lawrence Ave,Damen Ave & Foster Ave,2,41.9691,-87.6742,41.9756,-87.6795
+14,May St & Taylor St,Racine Ave & 18th St,2,41.8695,-87.6555,41.8582,-87.6565
+14,Clinton St & Madison St,Michigan Ave & Washington St,2,41.8822,-87.6411,41.8839,-87.6246
+14,Clinton St & Madison St,LaSalle St & Washington St,2,41.8822,-87.6411,41.8827,-87.6325
+14,McClurg Ct & Illinois St,Cannon Dr & Fullerton Ave,2,41.891,-87.6173,41.9268,-87.6344
+14,Union Ave & Grand Ave,Larrabee St & Division St,2,41.891,-87.6459,41.9035,-87.6434
+14,Woodlawn Ave & 55th St,Fort Dearborn Dr & 31st St,2,41.7953,-87.5965,41.8386,-87.6082
+14,Michigan Ave & 18th St,Dearborn St & Adams St,2,41.8578,-87.6245,41.8794,-87.6298
+14,Daley Center Plaza,Clark St & Elm St,2,41.8842,-87.6296,41.903,-87.6313
+14,Dearborn St & Monroe St,Millennium Park,2,41.8813,-87.6295,41.881,-87.6241
+14,Dearborn St & Erie St,Field Museum,2,41.894,-87.6293,41.8653,-87.6179
+14,Ellis Ave & 53rd St,Evans Ave & 75th St,2,41.7993,-87.601,41.7583,-87.6067
+14,Wood St & Milwaukee Ave,Stetson Ave & South Water St,2,41.9077,-87.6726,41.8868,-87.6223
+14,Ashland Ave & Grand Ave,California Ave & Francis Pl,2,41.8911,-87.6666,41.9181,-87.697
+14,Wacker Dr & Washington St,Financial Pl & Congress Pkwy,2,41.8833,-87.6373,41.875,-87.6331
+14,Dearborn St & Adams St,Adler Planetarium,2,41.8794,-87.6298,41.8661,-87.6073
+14,Wentworth Ave & 33rd St,Lake Shore Dr & Monroe St,2,41.8345,-87.6318,41.881,-87.6167
+14,Aberdeen St & Monroe St,Loomis St & Jackson Blvd,2,41.8804,-87.6556,41.8779,-87.662
+14,Theater on the Lake,Montrose Harbor,2,41.9263,-87.6308,41.964,-87.6382
+14,Theater on the Lake,Clifton Ave & Lawrence Ave,2,41.9263,-87.6308,41.9689,-87.6589
+14,Theater on the Lake,Clark St & Winnemac Ave,2,41.9263,-87.6308,41.9734,-87.6684
+14,Theater on the Lake,Sheffield Ave & Wellington Ave,2,41.9263,-87.6308,41.9363,-87.6527
+14,Theater on the Lake,Larrabee St & Webster Ave,2,41.9263,-87.6308,41.9218,-87.6441
+14,Theater on the Lake,Clark St & Wellington Ave,2,41.9263,-87.6308,41.9365,-87.6475
+14,Wallace St & 35th St,Wentworth Ave & 33rd St,2,41.8306,-87.6413,41.8345,-87.6318
+14,State St & Kinzie St,Canal St & Adams St,2,41.8892,-87.6277,41.8793,-87.6399
+14,State St & Kinzie St,Clark St & Congress Pkwy,2,41.8892,-87.6277,41.8759,-87.6306
+14,Field Blvd & South Water St,Streeter Dr & Grand Ave,2,41.8863,-87.6175,41.8923,-87.612
+14,Dearborn Pkwy & Delaware Pl,Clark St & Elm St,2,41.899,-87.6299,41.903,-87.6313
+14,Lincoln Ave & Diversey Pkwy,Lake Shore Dr & North Blvd,2,41.9322,-87.6586,41.9117,-87.6268
+14,Lake Shore Dr & North Blvd,Michigan Ave & Oak St,2,41.9117,-87.6268,41.901,-87.6238
+14,Lake Shore Dr & North Blvd,McClurg Ct & Erie St,2,41.9117,-87.6268,41.8945,-87.6179
+14,Orleans St & Ohio St,State St & Randolph St,2,41.8922,-87.6369,41.8847,-87.6277
+14,Sheffield Ave & Webster Ave,Streeter Dr & Grand Ave,2,41.9215,-87.6538,41.8923,-87.612
+14,Michigan Ave & Oak St,Wabash Ave & Grand Ave,2,41.901,-87.6238,41.8917,-87.6269
+14,Michigan Ave & Oak St,Mies van der Rohe Way & Chestnut St,2,41.901,-87.6238,41.8986,-87.6219
+14,Michigan Ave & Oak St,McClurg Ct & Erie St,2,41.901,-87.6238,41.8945,-87.6179
+14,Larrabee St & Menomonee St,Halsted St & Willow St,2,41.9147,-87.6433,41.9138,-87.6488
+14,Broadway & Belmont Ave,Sedgwick St & Webster Ave,2,41.9401,-87.6455,41.9222,-87.6389
+14,Broadway & Belmont Ave,Clark St & Wellington Ave,2,41.9401,-87.6455,41.9365,-87.6475
+14,Clark St & Lincoln Ave,McClurg Ct & Illinois St,2,41.9157,-87.6346,41.891,-87.6173
+14,Humboldt Dr & Luis Munoz Marin Dr,Ashland Ave & Division St,2,41.9001,-87.7029,41.9035,-87.6677
+14,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,2,41.8923,-87.612,41.881,-87.6167
+14,Streeter Dr & Grand Ave,LaSalle St & Illinois St,2,41.8923,-87.612,41.8908,-87.6321
+14,Streeter Dr & Grand Ave,Field Blvd & South Water St,2,41.8923,-87.612,41.8863,-87.6175
+14,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,2,41.8923,-87.612,41.9117,-87.6268
+14,Streeter Dr & Grand Ave,Michigan Ave & Oak St,2,41.8923,-87.612,41.901,-87.6238
+14,Streeter Dr & Grand Ave,Adler Planetarium,2,41.8923,-87.612,41.8661,-87.6073
+14,Halsted St & Polk St,Halsted St & Maxwell St,2,41.8718,-87.6466,41.8649,-87.6471
+14,Franklin St & Jackson Blvd,Wabash Ave & Roosevelt Rd,2,41.8777,-87.6353,41.8672,-87.626
+14,Franklin St & Jackson Blvd,Canal St & Taylor St,2,41.8777,-87.6353,41.8703,-87.6395
+14,Franklin St & Jackson Blvd,Mies van der Rohe Way & Chicago Ave,2,41.8777,-87.6353,41.8969,-87.6217
+14,Wilton Ave & Belmont Ave,Lake Shore Dr & Diversey Pkwy,2,41.9402,-87.653,41.9327,-87.6363
+14,Sheffield Ave & Wellington Ave,Damen Ave & Wellington Ave,2,41.9363,-87.6527,41.9359,-87.6784
+14,Sheffield Ave & Wellington Ave,Lincoln Ave & Diversey Pkwy,2,41.9363,-87.6527,41.9322,-87.6586
+14,Kimbark Ave & 53rd St,Lake Park Ave & 47th St,2,41.7996,-87.5947,41.8094,-87.5919
+14,Kimbark Ave & 53rd St,Blackstone Ave & Hyde Park Blvd,2,41.7996,-87.5947,41.8026,-87.5904
+14,Clark St & Schiller St,Lake Shore Dr & Monroe St,2,41.908,-87.6315,41.881,-87.6167
+14,Clark St & Schiller St,Wood St & Milwaukee Ave,2,41.908,-87.6315,41.9077,-87.6726
+14,Clark St & Wrightwood Ave,Clark St & Armitage Ave,2,41.9295,-87.6431,41.9183,-87.6363
+14,Clark St & Wrightwood Ave,Theater on the Lake,2,41.9295,-87.6431,41.9263,-87.6308
+14,Burnham Harbor,Shedd Aquarium,2,41.8563,-87.6133,41.8672,-87.6154
+14,Burnham Harbor,Cornell Ave & Hyde Park Blvd,2,41.8563,-87.6133,41.8024,-87.5869
+14,Michigan Ave & Jackson Blvd,Millennium Park,2,41.8778,-87.6241,41.881,-87.6241
+14,Peoria St & Jackson Blvd,Clinton St & Washington Blvd,2,41.8778,-87.6496,41.8834,-87.6412
+14,Wells St & Elm St,Lake Shore Dr & North Blvd,2,41.9032,-87.6343,41.9117,-87.6268
+14,Broadway & Berwyn Ave,Seeley Ave & Roscoe St,2,41.9784,-87.6598,41.9434,-87.6796
+14,Adler Planetarium,Lake Shore Dr & Monroe St,2,41.8661,-87.6073,41.881,-87.6167
+14,LaSalle St & Washington St,Canal St & Madison St,2,41.8827,-87.6325,41.8821,-87.6398
+14,LaSalle St & Washington St,Dearborn Pkwy & Delaware Pl,2,41.8827,-87.6325,41.899,-87.6299
+14,Clark St & North Ave,Lake Shore Dr & Wellington Ave,2,41.912,-87.6319,41.9367,-87.6368
+14,Clinton St & Roosevelt Rd,Michigan Ave & Congress Pkwy,2,41.8671,-87.6411,41.8762,-87.6244
+14,Ogden Ave & Chicago Ave,Clifton Ave & Armitage Ave,2,41.8964,-87.6541,41.9182,-87.6569
+14,Clark St & Congress Pkwy,Franklin St & Jackson Blvd,2,41.8759,-87.6306,41.8777,-87.6353
+14,Columbus Dr & Randolph St,Clark St & Randolph St,2,41.8847,-87.6195,41.8846,-87.6319
+14,Oak Park Ave & Harrison St,Lombard Ave & Garfield St,2,41.873,-87.7939,41.8707,-87.7788
+14,Wood St & Division St,Ashland Ave & Division St,2,41.9033,-87.6727,41.9035,-87.6677
+14,Wood St & Division St,Wells St & Elm St,2,41.9033,-87.6727,41.9032,-87.6343
+14,Hampden Ct & Diversey Pkwy,Sheffield Ave & Webster Ave,2,41.9326,-87.6424,41.9215,-87.6538
+15,Theater on the Lake,Streeter Dr & Grand Ave,10,41.9263,-87.6308,41.8923,-87.612
+15,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,10,41.8923,-87.612,41.881,-87.6167
+15,Shedd Aquarium,Lake Shore Dr & Monroe St,9,41.8672,-87.6154,41.881,-87.6167
+15,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,8,41.9117,-87.6268,41.8923,-87.612
+15,Montrose Harbor,Theater on the Lake,7,41.964,-87.6382,41.9263,-87.6308
+15,Millennium Park,Streeter Dr & Grand Ave,7,41.881,-87.6241,41.8923,-87.612
+15,Broadway & Belmont Ave,Clark St & Lincoln Ave,6,41.9401,-87.6455,41.9157,-87.6346
+15,Streeter Dr & Grand Ave,Michigan Ave & Jackson Blvd,6,41.8923,-87.612,41.8778,-87.6241
+15,Streeter Dr & Grand Ave,Shedd Aquarium,5,41.8923,-87.612,41.8672,-87.6154
+15,Wabash Ave & Grand Ave,Kingsbury St & Kinzie St,4,41.8917,-87.6269,41.8892,-87.6385
+15,Millennium Park,Adler Planetarium,4,41.881,-87.6241,41.8661,-87.6073
+15,LaSalle St & Illinois St,Green St & Randolph St,4,41.8908,-87.6321,41.8837,-87.6487
+15,Damen Ave & Pierce Ave,Michigan Ave & 18th St,4,41.9094,-87.6777,41.8578,-87.6245
+15,Dusable Harbor,Lake Shore Dr & Monroe St,4,41.885,-87.6128,41.881,-87.6167
+15,Lake Shore Dr & Belmont Ave,Michigan Ave & Oak St,4,41.9408,-87.6392,41.901,-87.6238
+15,Dearborn St & Adams St,Millennium Park,4,41.8794,-87.6298,41.881,-87.6241
+15,Michigan Ave & Oak St,McClurg Ct & Illinois St,4,41.901,-87.6238,41.891,-87.6173
+15,Streeter Dr & Grand Ave,Millennium Park,4,41.8923,-87.612,41.881,-87.6241
+15,Streeter Dr & Grand Ave,Theater on the Lake,4,41.8923,-87.612,41.9263,-87.6308
+15,Streeter Dr & Grand Ave,Ritchie Ct & Banks St,4,41.8923,-87.612,41.9068,-87.6264
+15,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,4,41.8923,-87.612,41.9117,-87.6268
+15,Wilton Ave & Belmont Ave,Streeter Dr & Grand Ave,4,41.9402,-87.653,41.8923,-87.612
+15,Adler Planetarium,Shedd Aquarium,4,41.8661,-87.6073,41.8672,-87.6154
+15,Shedd Aquarium,McClurg Ct & Illinois St,3,41.8672,-87.6154,41.891,-87.6173
+15,Shedd Aquarium,Adler Planetarium,3,41.8672,-87.6154,41.8661,-87.6073
+15,Shedd Aquarium,Cityfront Plaza Dr & Pioneer Ct,3,41.8672,-87.6154,41.8906,-87.6221
+15,Lake Shore Dr & Ohio St,LaSalle St & Illinois St,3,41.8926,-87.6145,41.8908,-87.6321
+15,Lake Shore Dr & Ohio St,Streeter Dr & Grand Ave,3,41.8926,-87.6145,41.8923,-87.612
+15,Carpenter St & Huron St,Clark St & North Ave,3,41.8946,-87.6535,41.912,-87.6319
+15,Pine Grove Ave & Waveland Ave,Sheridan Rd & Lawrence Ave,3,41.9493,-87.6463,41.9695,-87.6547
+15,Wabash Ave & Grand Ave,Streeter Dr & Grand Ave,3,41.8917,-87.6269,41.8923,-87.612
+15,California Ave & Francis Pl,Central Park Ave & North Ave,3,41.9181,-87.697,41.9097,-87.7166
+15,Montrose Harbor,Broadway & Cornelia Ave,3,41.964,-87.6382,41.9455,-87.646
+15,Lake Shore Dr & Monroe St,Shedd Aquarium,3,41.881,-87.6167,41.8672,-87.6154
+15,Lake Shore Dr & Monroe St,Wabash Ave & Wacker Pl,3,41.881,-87.6167,41.8869,-87.626
+15,Broadway & Barry Ave,Stockton Dr & Wrightwood Ave,3,41.9377,-87.6441,41.9313,-87.6387
+15,Fairbanks Ct & Grand Ave,Shedd Aquarium,3,41.8919,-87.6206,41.8672,-87.6154
+15,Mies van der Rohe Way & Chicago Ave,Wabash Ave & Wacker Pl,3,41.8969,-87.6217,41.8869,-87.626
+15,Theater on the Lake,Pine Grove Ave & Waveland Ave,3,41.9263,-87.6308,41.9493,-87.6463
+15,Theater on the Lake,Clarendon Ave & Gordon Ter,3,41.9263,-87.6308,41.9579,-87.6495
+15,Wabash Ave & Adams St,Canal St & Madison St,3,41.8795,-87.6257,41.8821,-87.6398
+15,Streeter Dr & Grand Ave,Wabash Ave & Wacker Pl,3,41.8923,-87.612,41.8869,-87.626
+15,Stave St & Armitage Ave,California Ave & Francis Pl,3,41.9177,-87.6914,41.9181,-87.697
+15,Sheffield Ave & Wellington Ave,Southport Ave & Wellington Ave,3,41.9363,-87.6527,41.9357,-87.6636
+15,St. Clair St & Erie St,Clinton St & Washington Blvd,3,41.8944,-87.6227,41.8834,-87.6412
+15,Adler Planetarium,Streeter Dr & Grand Ave,3,41.8661,-87.6073,41.8923,-87.612
+15,Clarendon Ave & Gordon Ter,Clifton Ave & Lawrence Ave,3,41.9579,-87.6495,41.9689,-87.6589
+15,Ogden Ave & Chicago Ave,Clark St & North Ave,3,41.8964,-87.6541,41.912,-87.6319
+15,Wabash Ave & 8th St,Fairbanks Ct & Grand Ave,3,41.872,-87.6261,41.8919,-87.6206
+15,Columbus Dr & Randolph St,Clinton St & Washington Blvd,3,41.8847,-87.6195,41.8834,-87.6412
+15,Wabash Ave & Roosevelt Rd,Green St & Madison St,2,41.8672,-87.626,41.8819,-87.6488
+15,Wabash Ave & Roosevelt Rd,McCormick Place,2,41.8672,-87.626,41.8514,-87.6188
+15,Sheridan Rd & Loyola Ave,Clark St & Touhy Ave,2,42.001,-87.6612,42.0126,-87.6744
+15,Lake Shore Dr & Ohio St,Michigan Ave & Oak St,2,41.8926,-87.6145,41.901,-87.6238
+15,Lake Shore Dr & Ohio St,Clark St & North Ave,2,41.8926,-87.6145,41.912,-87.6319
+15,Cannon Dr & Fullerton Ave,Michigan Ave & Oak St,2,41.9268,-87.6344,41.901,-87.6238
+15,Field Museum,Lake Shore Dr & Monroe St,2,41.8653,-87.6179,41.881,-87.6167
+15,Field Museum,Mies van der Rohe Way & Chicago Ave,2,41.8653,-87.6179,41.8969,-87.6217
+15,Field Museum,Streeter Dr & Grand Ave,2,41.8653,-87.6179,41.8923,-87.612
+15,Field Museum,Burnham Harbor,2,41.8653,-87.6179,41.8563,-87.6133
+15,Green St & Madison St,McClurg Ct & Illinois St,2,41.8819,-87.6488,41.891,-87.6173
+15,Halsted St & 18th St,Michigan Ave & 18th St,2,41.8575,-87.6463,41.8578,-87.6245
+15,State St & Harrison St,Michigan Ave & Madison St,2,41.8741,-87.6277,41.8821,-87.6251
+15,Lake Shore Dr & Diversey Pkwy,Halsted St & Roscoe St,2,41.9327,-87.6363,41.9437,-87.6489
+15,Sheridan Rd & Irving Park Rd,Lake Shore Dr & Belmont Ave,2,41.9542,-87.6544,41.9408,-87.6392
+15,Sheridan Rd & Irving Park Rd,Theater on the Lake,2,41.9542,-87.6544,41.9263,-87.6308
+15,Halsted St & Diversey Pkwy,Sheridan Rd & Irving Park Rd,2,41.9337,-87.649,41.9542,-87.6544
+15,Michigan Ave & Washington St,Canal St & Adams St,2,41.8839,-87.6246,41.8793,-87.6399
+15,Michigan Ave & Washington St,Clinton St & Washington Blvd,2,41.8839,-87.6246,41.8834,-87.6412
+15,Michigan Ave & Washington St,Clark St & Congress Pkwy,2,41.8839,-87.6246,41.8759,-87.6306
+15,Lincoln Ave & Fullerton Ave,Sheffield Ave & Wellington Ave,2,41.9259,-87.6493,41.9363,-87.6527
+15,Lincoln Ave & Fullerton Ave,Larrabee St & Oak St,2,41.9259,-87.6493,41.9002,-87.643
+15,Loomis St & Lexington St,Aberdeen St & Monroe St,2,41.8722,-87.6615,41.8804,-87.6556
+15,Larrabee St & Armitage Ave,Halsted St & Diversey Pkwy,2,41.9181,-87.6437,41.9337,-87.649
+15,Montrose Harbor,Cannon Dr & Fullerton Ave,2,41.964,-87.6382,41.9268,-87.6344
+15,Montrose Harbor,Lake Shore Dr & Diversey Pkwy,2,41.964,-87.6382,41.9327,-87.6363
+15,Montrose Harbor,Lakefront Trail & Bryn Mawr Ave,2,41.964,-87.6382,41.984,-87.6523
+15,Millennium Park,Wabash Ave & Grand Ave,2,41.881,-87.6241,41.8917,-87.6269
+15,Millennium Park,Stockton Dr & Wrightwood Ave,2,41.881,-87.6241,41.9313,-87.6387
+15,Millennium Park,Franklin St & Quincy St,2,41.881,-87.6241,41.8787,-87.6348
+15,Lake Shore Dr & Monroe St,Field Museum,2,41.881,-87.6167,41.8653,-87.6179
+15,Lake Shore Dr & Monroe St,Dusable Harbor,2,41.881,-87.6167,41.885,-87.6128
+15,Lake Shore Dr & Monroe St,Damen Ave & Chicago Ave,2,41.881,-87.6167,41.8958,-87.6772
+15,Lake Shore Dr & Monroe St,Mies van der Rohe Way & Chicago Ave,2,41.881,-87.6167,41.8969,-87.6217
+15,Lake Shore Dr & Monroe St,Michigan Ave & Oak St,2,41.881,-87.6167,41.901,-87.6238
+15,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,2,41.881,-87.6167,41.8923,-87.612
+15,Paulina Ave & North Ave,Ashland Ave & Division St,2,41.9103,-87.6701,41.9035,-87.6677
+15,Mies van der Rohe Way & Chestnut St,Clark St & North Ave,2,41.8986,-87.6219,41.912,-87.6319
+15,Sedgwick St & Huron St,Theater on the Lake,2,41.8947,-87.6384,41.9263,-87.6308
+15,LaSalle St & Illinois St,LaSalle St & Adams St,2,41.8908,-87.6321,41.8793,-87.632
+15,Ashland Ave & Division St,Humboldt Dr & Luis Munoz Marin Dr,2,41.9035,-87.6677,41.9001,-87.7029
+15,Wabash Ave & Wacker Pl,Dusable Harbor,2,41.8869,-87.626,41.885,-87.6128
+15,Sangamon St & Washington Blvd (*),Ogden Ave & Race Ave,2,41.883,-87.6511,41.8918,-87.6588
+15,Broadway & Cornelia Ave,Leavitt St & Addison St,2,41.9455,-87.646,41.947,-87.6834
+15,Wolcott Ave & Polk St,Clinton St & Washington Blvd,2,41.8713,-87.6737,41.8834,-87.6412
+15,Damen Ave & Pierce Ave,California Ave & Milwaukee Ave,2,41.9094,-87.6777,41.9227,-87.6972
+15,Damen Ave & Pierce Ave,Damen Ave & Division St,2,41.9094,-87.6777,41.9033,-87.6769
+15,Michigan Ave & Congress Pkwy,Morgan St & Polk St,2,41.8762,-87.6244,41.8717,-87.651
+15,Lake Park Ave & 56th St,Lake Park Ave & 53rd St,2,41.7932,-87.5878,41.7995,-87.5864
+15,Dusable Harbor,Orleans St & Ohio St,2,41.885,-87.6128,41.8922,-87.6369
+15,Michigan Ave & Pearson St,Wabash Ave & 8th St,2,41.8977,-87.6235,41.872,-87.6261
+15,Michigan Ave & Madison St,Shedd Aquarium,2,41.8821,-87.6251,41.8672,-87.6154
+15,Michigan Ave & Madison St,Field Museum,2,41.8821,-87.6251,41.8653,-87.6179
+15,Canal St & Madison St,Millennium Park,2,41.8821,-87.6398,41.881,-87.6241
+15,Canal St & Madison St,Kingsbury St & Kinzie St,2,41.8821,-87.6398,41.8892,-87.6385
+15,Canal St & Madison St,Sheffield Ave & Fullerton Ave,2,41.8821,-87.6398,41.9256,-87.6537
+15,Winchester Ave & Elston Ave,Lake Shore Dr & Ohio St,2,41.9241,-87.6765,41.8926,-87.6145
+15,Ashland Ave & Harrison St,Canal St & Jackson Blvd,2,41.8743,-87.6672,41.8784,-87.6411
+15,Ashland Ave & Harrison St,Clark St & 9th St (AMLI),2,41.8743,-87.6672,41.8708,-87.6312
+15,Fairbanks Ct & Grand Ave,Clinton St & Lake St,2,41.8919,-87.6206,41.8856,-87.6418
+15,Damen Ave & Leland Ave,Ravenswood Ave & Lawrence Ave,2,41.9671,-87.679,41.9691,-87.6742
+15,Clark St & Armitage Ave,Streeter Dr & Grand Ave,2,41.9183,-87.6363,41.8923,-87.612
+15,Halsted St & Roscoe St,Michigan Ave & Oak St,2,41.9437,-87.6489,41.901,-87.6238
+15,Kingsbury St & Erie St,Clinton St & Washington Blvd,2,41.8939,-87.6417,41.8834,-87.6412
+15,Rush St & Hubbard St,Kingsbury St & Kinzie St,2,41.89,-87.6263,41.8892,-87.6385
+15,Ravenswood Ave & Lawrence Ave,Damen Ave & Foster Ave,2,41.9691,-87.6742,41.9756,-87.6795
+15,Western Ave & Winnebago Ave,Campbell Ave & North Ave,2,41.9154,-87.6872,41.9105,-87.6896
+15,Lake Shore Dr & Belmont Ave,Dusable Harbor,2,41.9408,-87.6392,41.885,-87.6128
+15,Lake Shore Dr & Belmont Ave,Lake Shore Dr & North Blvd,2,41.9408,-87.6392,41.9117,-87.6268
+15,Lake Shore Dr & Belmont Ave,Broadway & Waveland Ave,2,41.9408,-87.6392,41.9491,-87.6486
+15,McClurg Ct & Illinois St,LaSalle St & Jackson Blvd,2,41.891,-87.6173,41.8782,-87.632
+15,McClurg Ct & Illinois St,Clark St & Armitage Ave,2,41.891,-87.6173,41.9183,-87.6363
+15,McClurg Ct & Illinois St,Michigan Ave & Jackson Blvd,2,41.891,-87.6173,41.8778,-87.6241
+15,Michigan Ave & 18th St,Streeter Dr & Grand Ave,2,41.8578,-87.6245,41.8923,-87.612
+15,LaSalle St & Adams St,Canal St & Madison St,2,41.8793,-87.632,41.8821,-87.6398
+15,LaSalle St & Adams St,Orleans St & Ohio St,2,41.8793,-87.632,41.8922,-87.6369
+15,Canal St & Adams St,Damen Ave & Grand Ave,2,41.8793,-87.6399,41.8912,-87.6769
+15,Daley Center Plaza,Wabash Ave & Grand Ave,2,41.8842,-87.6296,41.8917,-87.6269
+15,Daley Center Plaza,Clinton St & Washington Blvd,2,41.8842,-87.6296,41.8834,-87.6412
+15,Daley Center Plaza,State St & Pearson St,2,41.8842,-87.6296,41.8974,-87.6287
+15,Mies van der Rohe Way & Chicago Ave,Lake Shore Dr & Monroe St,2,41.8969,-87.6217,41.881,-87.6167
+15,Bissell St & Armitage Ave,Clark St & North Ave,2,41.9184,-87.6522,41.912,-87.6319
+15,Dearborn St & Monroe St,Millennium Park,2,41.8813,-87.6295,41.881,-87.6241
+15,Dearborn St & Monroe St,Canal St & Madison St,2,41.8813,-87.6295,41.8821,-87.6398
+15,Dearborn St & Monroe St,Lake Shore Dr & North Blvd,2,41.8813,-87.6295,41.9117,-87.6268
+15,Broadway & Thorndale Ave,Montrose Harbor,2,41.9897,-87.6601,41.964,-87.6382
+15,Dearborn St & Erie St,Clark St & Armitage Ave,2,41.894,-87.6293,41.9183,-87.6363
+15,Dearborn St & Erie St,Dearborn Pkwy & Delaware Pl,2,41.894,-87.6293,41.899,-87.6299
+15,Clark St & Berwyn Ave,Clark St & Armitage Ave,2,41.978,-87.668,41.9183,-87.6363
+15,Clinton St & 18th St,Daley Center Plaza,2,41.8579,-87.6408,41.8842,-87.6296
+15,University Ave & 57th St,Ellis Ave & 53rd St,2,41.7915,-87.5999,41.7993,-87.601
+15,University Ave & 57th St,Ellis Ave & 60th St,2,41.7915,-87.5999,41.7851,-87.6011
+15,Dearborn St & Adams St,Loomis St & Jackson Blvd,2,41.8794,-87.6298,41.8779,-87.662
+15,Milwaukee Ave & Wabansia Ave,Albany Ave & Bloomingdale Ave,2,41.9126,-87.6814,41.914,-87.7051
+15,Greenview Ave & Fullerton Ave,Cannon Dr & Fullerton Ave,2,41.9253,-87.6658,41.9268,-87.6344
+15,Aberdeen St & Monroe St,Dayton St & North Ave,2,41.8804,-87.6556,41.9106,-87.6494
+15,Central Park Ave & North Ave,Paulina Ave & North Ave,2,41.9097,-87.7166,41.9103,-87.6701
+15,Theater on the Lake,Lake Shore Dr & Belmont Ave,2,41.9263,-87.6308,41.9408,-87.6392
+15,State St & Kinzie St,Lake Shore Dr & Belmont Ave,2,41.8892,-87.6277,41.9408,-87.6392
+15,Ritchie Ct & Banks St,Clarendon Ave & Leland Ave,2,41.9068,-87.6264,41.968,-87.65
+15,Field Blvd & South Water St,Lake Shore Dr & Ohio St,2,41.8863,-87.6175,41.8926,-87.6145
+15,Dearborn Pkwy & Delaware Pl,Stockton Dr & Wrightwood Ave,2,41.899,-87.6299,41.9313,-87.6387
+15,Lake Shore Dr & North Blvd,Michigan Ave & Oak St,2,41.9117,-87.6268,41.901,-87.6238
+15,Lake Shore Dr & North Blvd,Clark St & Wellington Ave,2,41.9117,-87.6268,41.9365,-87.6475
+15,Clinton St & Washington Blvd,McClurg Ct & Illinois St,2,41.8834,-87.6412,41.891,-87.6173
+15,Wabash Ave & Adams St,Wabash Ave & 8th St,2,41.8795,-87.6257,41.872,-87.6261
+15,Lakefront Trail & Bryn Mawr Ave,Sheridan Rd & Loyola Ave,2,41.984,-87.6523,42.001,-87.6612
+15,Morgan St & Polk St,Emerald Ave & 28th St,2,41.8717,-87.651,41.8436,-87.6454
+15,Michigan Ave & Oak St,Lake Shore Dr & Belmont Ave,2,41.901,-87.6238,41.9408,-87.6392
+15,Michigan Ave & Oak St,Ogden Ave & Chicago Ave,2,41.901,-87.6238,41.8964,-87.6541
+15,Larrabee St & Menomonee St,Sheffield Ave & Kingsbury St,2,41.9147,-87.6433,41.9105,-87.6531
+15,Cornell Ave & Hyde Park Blvd,Burnham Harbor,2,41.8024,-87.5869,41.8563,-87.6133
+15,Clark St & Lincoln Ave,Franklin St & Lake St,2,41.9157,-87.6346,41.8858,-87.6355
+15,Clark St & Lincoln Ave,Streeter Dr & Grand Ave,2,41.9157,-87.6346,41.8923,-87.612
+15,Broadway & Granville Ave,Montrose Harbor,2,41.9948,-87.6603,41.964,-87.6382
+15,Clark St & Elmdale Ave,Broadway & Thorndale Ave,2,41.9909,-87.6696,41.9897,-87.6601
+15,Lake Park Ave & 53rd St,Lake Shore Dr & Monroe St,2,41.7995,-87.5864,41.881,-87.6167
+15,Clark St & 9th St (AMLI),Burnham Harbor,2,41.8708,-87.6312,41.8563,-87.6133
+15,Streeter Dr & Grand Ave,Damen Ave & Chicago Ave,2,41.8923,-87.612,41.8958,-87.6772
+15,Streeter Dr & Grand Ave,Lake Shore Dr & Belmont Ave,2,41.8923,-87.612,41.9408,-87.6392
+15,Streeter Dr & Grand Ave,Clark St & Lincoln Ave,2,41.8923,-87.612,41.9157,-87.6346
+15,Streeter Dr & Grand Ave,Indiana Ave & Roosevelt Rd,2,41.8923,-87.612,41.8679,-87.623
+15,Streeter Dr & Grand Ave,Clark St & Schiller St,2,41.8923,-87.612,41.908,-87.6315
+15,Streeter Dr & Grand Ave,Clark St & North Ave,2,41.8923,-87.612,41.912,-87.6319
+15,Streeter Dr & Grand Ave,Wabash Ave & 8th St,2,41.8923,-87.612,41.872,-87.6261
+15,Leavitt St & Addison St,Racine Ave & Wrightwood Ave,2,41.947,-87.6834,41.9289,-87.659
+15,Leavitt St & Addison St,Logan Blvd & Elston Ave,2,41.947,-87.6834,41.9306,-87.6851
+15,Indiana Ave & Roosevelt Rd,Wentworth Ave & Archer Ave,2,41.8679,-87.623,41.8536,-87.6319
+15,63rd St Beach,Lake Park Ave & 56th St,2,41.781,-87.5761,41.7932,-87.5878
+15,Morgan St & Lake St,May St & Randolph St,2,41.8855,-87.6523,41.884,-87.6557
+15,Morgan St & Lake St,Orleans St & Ohio St,2,41.8855,-87.6523,41.8922,-87.6369
+15,Wilton Ave & Belmont Ave,Clark St & Wellington Ave,2,41.9402,-87.653,41.9365,-87.6475
+15,Sheffield Ave & Wellington Ave,Streeter Dr & Grand Ave,2,41.9363,-87.6527,41.8923,-87.612
+15,Wilton Ave & Diversey Pkwy,Cannon Dr & Fullerton Ave,2,41.9324,-87.6527,41.9268,-87.6344
+15,Wilton Ave & Diversey Pkwy,Greenview Ave & Diversey Pkwy,2,41.9324,-87.6527,41.9326,-87.6659
+15,Franklin St & Quincy St,Michigan Ave & Washington St,2,41.8787,-87.6348,41.8839,-87.6246
+15,Franklin St & Quincy St,Peoria St & Jackson Blvd,2,41.8787,-87.6348,41.8778,-87.6496
+15,Clark St & Schiller St,Wabash Ave & Grand Ave,2,41.908,-87.6315,41.8917,-87.6269
+15,Clark St & Schiller St,Theater on the Lake,2,41.908,-87.6315,41.9263,-87.6308
+15,Racine Ave & Fullerton Ave,Theater on the Lake,2,41.9256,-87.6584,41.9263,-87.6308
+15,Lake Park Ave & 47th St,Michigan Ave & Lake St,2,41.8094,-87.5919,41.886,-87.6241
+15,Lake Park Ave & 47th St,63rd St Beach,2,41.8094,-87.5919,41.781,-87.5761
+15,Clark St & Randolph St,State St & Kinzie St,2,41.8846,-87.6319,41.8892,-87.6277
+15,Clark St & Randolph St,Dearborn Pkwy & Delaware Pl,2,41.8846,-87.6319,41.899,-87.6299
+15,Clark St & Randolph St,Clark St & North Ave,2,41.8846,-87.6319,41.912,-87.6319
+15,Michigan Ave & 14th St,Millennium Park,2,41.8641,-87.6237,41.881,-87.6241
+15,Michigan Ave & Jackson Blvd,Rush St & Superior St,2,41.8778,-87.6241,41.8958,-87.6259
+15,St. Clair St & Erie St,Michigan Ave & Lake St,2,41.8944,-87.6227,41.886,-87.6241
+15,Adler Planetarium,Lake Shore Dr & Monroe St,2,41.8661,-87.6073,41.881,-87.6167
+15,Adler Planetarium,Indiana Ave & Roosevelt Rd,2,41.8661,-87.6073,41.8679,-87.623
+15,Clark St & North Ave,Broadway & Belmont Ave,2,41.912,-87.6319,41.9401,-87.6455
+15,Clark St & North Ave,Clarendon Ave & Gordon Ter,2,41.912,-87.6319,41.9579,-87.6495
+15,Clarendon Ave & Gordon Ter,Broadway & Wilson Ave,2,41.9579,-87.6495,41.9655,-87.6572
+15,Kedzie Ave & Milwaukee Ave,Kosciuszko Park,2,41.9296,-87.7079,41.9306,-87.7238
+15,Eckhart Park,Rush St & Superior St,2,41.8964,-87.661,41.8958,-87.6259
+15,Clark St & Congress Pkwy,Peoria St & Jackson Blvd,2,41.8759,-87.6306,41.8778,-87.6496
+15,Larrabee St & Webster Ave,Lake Shore Dr & Diversey Pkwy,2,41.9218,-87.6441,41.9327,-87.6363
+15,Larrabee St & Webster Ave,Southport Ave & Roscoe St,2,41.9218,-87.6441,41.9437,-87.664
+15,Wabash Ave & 8th St,Michigan Ave & 18th St,2,41.872,-87.6261,41.8578,-87.6245
+15,Columbus Dr & Randolph St,Lake Shore Dr & Monroe St,2,41.8847,-87.6195,41.881,-87.6167
+15,Columbus Dr & Randolph St,Canal St & Madison St,2,41.8847,-87.6195,41.8821,-87.6398
+15,Columbus Dr & Randolph St,Theater on the Lake,2,41.8847,-87.6195,41.9263,-87.6308
+15,Columbus Dr & Randolph St,State St & Randolph St,2,41.8847,-87.6195,41.8847,-87.6277
+15,Albany Ave & Bloomingdale Ave,Paulina Ave & North Ave,2,41.914,-87.7051,41.9103,-87.6701
+15,Lincoln Ave & Roscoe St,Lincoln Ave & Waveland Ave,2,41.9433,-87.671,41.9491,-87.6751
+15,Clark St & Wellington Ave,Sheridan Rd & Irving Park Rd,2,41.9365,-87.6475,41.9542,-87.6544
+15,Clark St & Wellington Ave,Lake Shore Dr & North Blvd,2,41.9365,-87.6475,41.9117,-87.6268
+15,Clark St & Wellington Ave,Wilton Ave & Belmont Ave,2,41.9365,-87.6475,41.9402,-87.653
+15,Wells St & Concord Ln,Larrabee St & Menomonee St,2,41.9121,-87.6347,41.9147,-87.6433
+16,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,7,41.881,-87.6167,41.8923,-87.612
+16,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,7,41.9117,-87.6268,41.8923,-87.612
+16,Streeter Dr & Grand Ave,Field Museum,6,41.8923,-87.612,41.8653,-87.6179
+16,Streeter Dr & Grand Ave,Michigan Ave & Oak St,6,41.8923,-87.612,41.901,-87.6238
+16,Theater on the Lake,Michigan Ave & Oak St,5,41.9263,-87.6308,41.901,-87.6238
+16,Michigan Ave & Oak St,Lake Shore Dr & North Blvd,5,41.901,-87.6238,41.9117,-87.6268
+16,Streeter Dr & Grand Ave,Theater on the Lake,5,41.8923,-87.612,41.9263,-87.6308
+16,Burnham Harbor,Dusable Harbor,5,41.8563,-87.6133,41.885,-87.6128
+16,Shedd Aquarium,State St & Van Buren St,4,41.8672,-87.6154,41.8772,-87.6278
+16,Wabash Ave & Grand Ave,Canal St & Adams St,4,41.8917,-87.6269,41.8793,-87.6399
+16,Lake Shore Dr & Monroe St,Shedd Aquarium,4,41.881,-87.6167,41.8672,-87.6154
+16,Lake Shore Dr & Monroe St,Theater on the Lake,4,41.881,-87.6167,41.9263,-87.6308
+16,Franklin St & Chicago Ave,Clinton St & Washington Blvd,4,41.8968,-87.6356,41.8834,-87.6412
+16,Jefferson St & Monroe St,Aberdeen St & Monroe St,4,41.8804,-87.6427,41.8804,-87.6556
+16,Aberdeen St & Monroe St,Lake Shore Dr & North Blvd,4,41.8804,-87.6556,41.9117,-87.6268
+16,Lake Shore Dr & North Blvd,Lake Shore Dr & Belmont Ave,4,41.9117,-87.6268,41.9408,-87.6392
+16,Michigan Ave & Oak St,Clark St & Armitage Ave,4,41.901,-87.6238,41.9183,-87.6363
+16,Michigan Ave & Oak St,Lake Shore Dr & Belmont Ave,4,41.901,-87.6238,41.9408,-87.6392
+16,Museum of Science and Industry,Fort Dearborn Dr & 31st St,4,41.7917,-87.5839,41.8386,-87.6082
+16,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,4,41.8923,-87.612,41.881,-87.6167
+16,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,4,41.8923,-87.612,41.9117,-87.6268
+16,Michigan Ave & Jackson Blvd,Millennium Park,4,41.8778,-87.6241,41.881,-87.6241
+16,State St & Randolph St,Mies van der Rohe Way & Chestnut St,4,41.8847,-87.6277,41.8986,-87.6219
+16,Ellis Ave & 60th St,Kimbark Ave & 53rd St,4,41.7851,-87.6011,41.7996,-87.5947
+16,Shedd Aquarium,Indiana Ave & Roosevelt Rd,3,41.8672,-87.6154,41.8679,-87.623
+16,Cannon Dr & Fullerton Ave,Wilton Ave & Belmont Ave,3,41.9268,-87.6344,41.9402,-87.653
+16,Lake Shore Dr & Diversey Pkwy,Clark St & Wellington Ave,3,41.9327,-87.6363,41.9365,-87.6475
+16,Sheridan Rd & Irving Park Rd,Clarendon Ave & Gordon Ter,3,41.9542,-87.6544,41.9579,-87.6495
+16,Lake Shore Dr & Monroe St,Adler Planetarium,3,41.881,-87.6167,41.8661,-87.6073
+16,Mies van der Rohe Way & Chestnut St,Lake Shore Dr & North Blvd,3,41.8986,-87.6219,41.9117,-87.6268
+16,Michigan Ave & Congress Pkwy,Damen Ave & Pierce Ave,3,41.8762,-87.6244,41.9094,-87.6777
+16,Dusable Harbor,Wabash Ave & Wacker Pl,3,41.885,-87.6128,41.8869,-87.626
+16,Fairbanks Ct & Grand Ave,Canal St & Adams St,3,41.8919,-87.6206,41.8793,-87.6399
+16,Daley Center Plaza,Green St & Madison St,3,41.8842,-87.6296,41.8819,-87.6488
+16,Dearborn St & Monroe St,Canal St & Madison St,3,41.8813,-87.6295,41.8821,-87.6398
+16,Theater on the Lake,Lake Shore Dr & Belmont Ave,3,41.9263,-87.6308,41.9408,-87.6392
+16,Kingsbury St & Kinzie St,Canal St & Adams St,3,41.8892,-87.6385,41.8793,-87.6399
+16,Ritchie Ct & Banks St,Streeter Dr & Grand Ave,3,41.9068,-87.6264,41.8923,-87.612
+16,Michigan Ave & Oak St,Canal St & Madison St,3,41.901,-87.6238,41.8821,-87.6398
+16,Michigan Ave & Oak St,Theater on the Lake,3,41.901,-87.6238,41.9263,-87.6308
+16,Larrabee St & Menomonee St,Wells St & Concord Ln,3,41.9147,-87.6433,41.9121,-87.6347
+16,Streeter Dr & Grand Ave,Cannon Dr & Fullerton Ave,3,41.8923,-87.612,41.9268,-87.6344
+16,Streeter Dr & Grand Ave,Millennium Park,3,41.8923,-87.612,41.881,-87.6241
+16,Streeter Dr & Grand Ave,Stockton Dr & Wrightwood Ave,3,41.8923,-87.612,41.9313,-87.6387
+16,Michigan Ave & Jackson Blvd,Franklin St & Quincy St,3,41.8778,-87.6241,41.8787,-87.6348
+16,Adler Planetarium,Dusable Harbor,3,41.8661,-87.6073,41.885,-87.6128
+16,State St & Pearson St,Wells St & Concord Ln,3,41.8974,-87.6287,41.9121,-87.6347
+16,Damen Ave & Division St,Clark St & Elm St,3,41.9033,-87.6769,41.903,-87.6313
+16,Financial Pl & Congress Pkwy,Wabash Ave & Roosevelt Rd,2,41.875,-87.6331,41.8672,-87.626
+16,Financial Pl & Congress Pkwy,Green St & Randolph St,2,41.875,-87.6331,41.8837,-87.6487
+16,Shedd Aquarium,Financial Pl & Congress Pkwy,2,41.8672,-87.6154,41.875,-87.6331
+16,Shedd Aquarium,Field Museum,2,41.8672,-87.6154,41.8653,-87.6179
+16,Shedd Aquarium,Halsted St & Roscoe St,2,41.8672,-87.6154,41.9437,-87.6489
+16,Shedd Aquarium,Stockton Dr & Wrightwood Ave,2,41.8672,-87.6154,41.9313,-87.6387
+16,Shedd Aquarium,Streeter Dr & Grand Ave,2,41.8672,-87.6154,41.8923,-87.612
+16,Lake Shore Dr & Ohio St,Streeter Dr & Grand Ave,2,41.8926,-87.6145,41.8923,-87.612
+16,Leavitt St & North Ave,Troy St & North Ave,2,41.9102,-87.6823,41.9098,-87.7053
+16,Cannon Dr & Fullerton Ave,Clark St & Armitage Ave,2,41.9268,-87.6344,41.9183,-87.6363
+16,Cannon Dr & Fullerton Ave,Michigan Ave & Oak St,2,41.9268,-87.6344,41.901,-87.6238
+16,Field Museum,Millennium Park,2,41.8653,-87.6179,41.881,-87.6241
+16,Field Museum,Adler Planetarium,2,41.8653,-87.6179,41.8661,-87.6073
+16,Carpenter St & Huron St,Kingsbury St & Erie St,2,41.8946,-87.6535,41.8939,-87.6417
+16,Wabash Ave & Grand Ave,Michigan Ave & Pearson St,2,41.8917,-87.6269,41.8977,-87.6235
+16,Wabash Ave & Grand Ave,Fairbanks Ct & Grand Ave,2,41.8917,-87.6269,41.8919,-87.6206
+16,Wabash Ave & Grand Ave,Clinton St & Washington Blvd,2,41.8917,-87.6269,41.8834,-87.6412
+16,Wabash Ave & Grand Ave,Sheffield Ave & Webster Ave,2,41.8917,-87.6269,41.9215,-87.6538
+16,Lakeview Ave & Fullerton Pkwy,Racine Ave & Wrightwood Ave,2,41.9259,-87.639,41.9289,-87.659
+16,Lakeview Ave & Fullerton Pkwy,Michigan Ave & Oak St,2,41.9259,-87.639,41.901,-87.6238
+16,Lakeview Ave & Fullerton Pkwy,Stockton Dr & Wrightwood Ave,2,41.9259,-87.639,41.9313,-87.6387
+16,Lincoln Ave & Fullerton Ave,Clark St & Armitage Ave,2,41.9259,-87.6493,41.9183,-87.6363
+16,Lincoln Ave & Fullerton Ave,Southport Ave & Waveland Ave,2,41.9259,-87.6493,41.9482,-87.6639
+16,California Ave & Francis Pl,California Ave & Milwaukee Ave,2,41.9181,-87.697,41.9227,-87.6972
+16,Montrose Harbor,Clifton Ave & Lawrence Ave,2,41.964,-87.6382,41.9689,-87.6589
+16,Montrose Harbor,Broadway & Thorndale Ave,2,41.964,-87.6382,41.9897,-87.6601
+16,Montrose Harbor,Lakefront Trail & Bryn Mawr Ave,2,41.964,-87.6382,41.984,-87.6523
+16,Millennium Park,MLK Jr Dr & 29th St,2,41.881,-87.6241,41.8421,-87.617
+16,Millennium Park,Indiana Ave & Roosevelt Rd,2,41.881,-87.6241,41.8679,-87.623
+16,Lake Shore Dr & Monroe St,Lake Shore Dr & Ohio St,2,41.881,-87.6167,41.8926,-87.6145
+16,Lake Shore Dr & Monroe St,Cannon Dr & Fullerton Ave,2,41.881,-87.6167,41.9268,-87.6344
+16,Lake Shore Dr & Monroe St,Mies van der Rohe Way & Chestnut St,2,41.881,-87.6167,41.8986,-87.6219
+16,Lake Shore Dr & Monroe St,Lake Shore Dr & North Blvd,2,41.881,-87.6167,41.9117,-87.6268
+16,Lake Shore Dr & Monroe St,Michigan Ave & Oak St,2,41.881,-87.6167,41.901,-87.6238
+16,Lake Shore Dr & Monroe St,Indiana Ave & Roosevelt Rd,2,41.881,-87.6167,41.8679,-87.623
+16,Lake Shore Dr & Monroe St,Clark St & Schiller St,2,41.881,-87.6167,41.908,-87.6315
+16,Lake Shore Dr & Monroe St,Michigan Ave & Jackson Blvd,2,41.881,-87.6167,41.8778,-87.6241
+16,Southport Ave & Wellington Ave,Morgan St & Lake St,2,41.9357,-87.6636,41.8855,-87.6523
+16,Sedgwick St & Huron St,Sheffield Ave & Kingsbury St,2,41.8947,-87.6384,41.9105,-87.6531
+16,LaSalle St & Illinois St,Streeter Dr & Grand Ave,2,41.8908,-87.6321,41.8923,-87.612
+16,Lake Shore Dr & Wellington Ave,Lake Shore Dr & Ohio St,2,41.9367,-87.6368,41.8926,-87.6145
+16,Ashland Ave & Division St,Clark St & Lake St,2,41.9035,-87.6677,41.886,-87.6309
+16,Ashland Ave & Division St,Halsted St & Dickens Ave,2,41.9035,-87.6677,41.9199,-87.6488
+16,Wabash Ave & Wacker Pl,Streeter Dr & Grand Ave,2,41.8869,-87.626,41.8923,-87.612
+16,Ashland Ave & Augusta Blvd,Wabash Ave & Grand Ave,2,41.8996,-87.6677,41.8917,-87.6269
+16,Wolcott Ave & Polk St,Clinton St & Washington Blvd,2,41.8713,-87.6737,41.8834,-87.6412
+16,Damen Ave & Pierce Ave,Campbell Ave & North Ave,2,41.9094,-87.6777,41.9105,-87.6896
+16,Michigan Ave & Congress Pkwy,Calumet Ave & 21st St,2,41.8762,-87.6244,41.8542,-87.6192
+16,Michigan Ave & Congress Pkwy,Cityfront Plaza Dr & Pioneer Ct,2,41.8762,-87.6244,41.8906,-87.6221
+16,Clarendon Ave & Leland Ave,Marine Dr & Ainslie St,2,41.968,-87.65,41.9716,-87.6502
+16,Lake Park Ave & 56th St,Museum of Science and Industry,2,41.7932,-87.5878,41.7917,-87.5839
+16,Dusable Harbor,Streeter Dr & Grand Ave,2,41.885,-87.6128,41.8923,-87.612
+16,Michigan Ave & Pearson St,Clinton St & Washington Blvd,2,41.8977,-87.6235,41.8834,-87.6412
+16,State St & Van Buren St,Michigan Ave & 18th St,2,41.8772,-87.6278,41.8578,-87.6245
+16,State St & Van Buren St,Franklin St & Jackson Blvd,2,41.8772,-87.6278,41.8777,-87.6353
+16,Racine Ave & Belmont Ave,Michigan Ave & Oak St,2,41.9397,-87.6589,41.901,-87.6238
+16,Michigan Ave & Lake St,Canal St & Madison St,2,41.886,-87.6241,41.8821,-87.6398
+16,Michigan Ave & Lake St,Michigan Ave & Oak St,2,41.886,-87.6241,41.901,-87.6238
+16,Canal St & Madison St,Wilton Ave & Diversey Pkwy,2,41.8821,-87.6398,41.9324,-87.6527
+16,Rush St & Superior St,Halsted St & Roscoe St,2,41.8958,-87.6259,41.9437,-87.6489
+16,Fairbanks Ct & Grand Ave,Lake Shore Dr & North Blvd,2,41.8919,-87.6206,41.9117,-87.6268
+16,Emerald Ave & 31st St,Morgan St & Polk St,2,41.8382,-87.6451,41.8717,-87.651
+16,Clark St & Armitage Ave,Clark St & Wrightwood Ave,2,41.9183,-87.6363,41.9295,-87.6431
+16,Kingsbury St & Erie St,Carpenter St & Huron St,2,41.8939,-87.6417,41.8946,-87.6535
+16,Rush St & Hubbard St,Clark St & Schiller St,2,41.89,-87.6263,41.908,-87.6315
+16,Clinton St & Madison St,Michigan Ave & Washington St,2,41.8822,-87.6411,41.8839,-87.6246
+16,Lake Shore Dr & Belmont Ave,Lakefront Trail & Bryn Mawr Ave,2,41.9408,-87.6392,41.984,-87.6523
+16,McClurg Ct & Illinois St,Lake Shore Dr & North Blvd,2,41.891,-87.6173,41.9117,-87.6268
+16,McClurg Ct & Illinois St,Clinton St & Washington Blvd,2,41.891,-87.6173,41.8834,-87.6412
+16,McClurg Ct & Illinois St,Clark St & Lincoln Ave,2,41.891,-87.6173,41.9157,-87.6346
+16,Woodlawn Ave & 55th St,Burnham Harbor,2,41.7953,-87.5965,41.8563,-87.6133
+16,Stony Island Ave & 64th St,Stony Island Ave & 67th St,2,41.7787,-87.5868,41.7735,-87.5853
+16,Halsted St & Wrightwood Ave,Theater on the Lake,2,41.9291,-87.6491,41.9263,-87.6308
+16,LaSalle St & Adams St,State St & Randolph St,2,41.8793,-87.632,41.8847,-87.6277
+16,Hermitage Ave & Polk St,Clinton St & Washington Blvd,2,41.8715,-87.6699,41.8834,-87.6412
+16,Mies van der Rohe Way & Chicago Ave,Michigan Ave & Oak St,2,41.8969,-87.6217,41.901,-87.6238
+16,Bissell St & Armitage Ave,Clark St & Lincoln Ave,2,41.9184,-87.6522,41.9157,-87.6346
+16,Dayton St & North Ave,Milwaukee Ave & Wabansia Ave,2,41.9106,-87.6494,41.9126,-87.6814
+16,Dayton St & North Ave,Theater on the Lake,2,41.9106,-87.6494,41.9263,-87.6308
+16,Dearborn St & Erie St,McClurg Ct & Illinois St,2,41.894,-87.6293,41.891,-87.6173
+16,Dearborn St & Erie St,Canal St & Adams St,2,41.894,-87.6293,41.8793,-87.6399
+16,Wells St & Evergreen Ave,State St & Kinzie St,2,41.9067,-87.6348,41.8892,-87.6277
+16,Ashland Ave & Grand Ave,Carpenter St & Huron St,2,41.8911,-87.6666,41.8946,-87.6535
+16,University Ave & 57th St,Lake Park Ave & 56th St,2,41.7915,-87.5999,41.7932,-87.5878
+16,Ashland Ave & Chicago Ave,Damen Ave & Chicago Ave,2,41.896,-87.6677,41.8958,-87.6772
+16,Central Park Ave & North Ave,California Ave & Milwaukee Ave,2,41.9097,-87.7166,41.9227,-87.6972
+16,Theater on the Lake,Sheridan Rd & Irving Park Rd,2,41.9263,-87.6308,41.9542,-87.6544
+16,Theater on the Lake,Montrose Harbor,2,41.9263,-87.6308,41.964,-87.6382
+16,Theater on the Lake,Halsted St & Wrightwood Ave,2,41.9263,-87.6308,41.9291,-87.6491
+16,Theater on the Lake,Lake Shore Dr & North Blvd,2,41.9263,-87.6308,41.9117,-87.6268
+16,Theater on the Lake,Larrabee St & Webster Ave,2,41.9263,-87.6308,41.9218,-87.6441
+16,Kingsbury St & Kinzie St,Kingsbury St & Erie St,2,41.8892,-87.6385,41.8939,-87.6417
+16,Field Blvd & South Water St,Theater on the Lake,2,41.8863,-87.6175,41.9263,-87.6308
+16,Field Blvd & South Water St,Lake Shore Dr & North Blvd,2,41.8863,-87.6175,41.9117,-87.6268
+16,Orleans St & Elm St (*),Union Ave & Grand Ave,2,41.9029,-87.6377,41.891,-87.6459
+16,Lake Shore Dr & North Blvd,Broadway & Barry Ave,2,41.9117,-87.6268,41.9377,-87.6441
+16,Lake Shore Dr & North Blvd,Dayton St & North Ave,2,41.9117,-87.6268,41.9106,-87.6494
+16,Orleans St & Ohio St,Michigan Ave & 14th St,2,41.8922,-87.6369,41.8641,-87.6237
+16,Orleans St & Ohio St,Clinton St & Lake St,2,41.8922,-87.6369,41.8856,-87.6418
+16,Michigan Ave & Oak St,Cannon Dr & Fullerton Ave,2,41.901,-87.6238,41.9268,-87.6344
+16,Michigan Ave & Oak St,Larrabee St & Armitage Ave,2,41.901,-87.6238,41.9181,-87.6437
+16,Michigan Ave & Oak St,Streeter Dr & Grand Ave,2,41.901,-87.6238,41.8923,-87.612
+16,Ellis Ave & 58th St,Lake Park Ave & 56th St,2,41.7887,-87.6013,41.7932,-87.5878
+16,Sheffield Ave & Willow St,Damen Ave & Division St,2,41.9137,-87.6529,41.9033,-87.6769
+16,Pulaski Rd & Lake St,Austin Blvd & Lake St,2,41.8854,-87.7265,41.8879,-87.7744
+16,Halsted St & Maxwell St,Michigan Ave & Jackson Blvd,2,41.8649,-87.6471,41.8778,-87.6241
+16,Clark St & Elmdale Ave,Lincoln Ave & Belmont Ave,2,41.9909,-87.6696,41.9394,-87.6684
+16,Lake Park Ave & 53rd St,Stony Island Ave & 64th St,2,41.7995,-87.5864,41.7787,-87.5868
+16,Museum of Science and Industry,Lake Park Ave & 56th St,2,41.7917,-87.5839,41.7932,-87.5878
+16,Chicago Ave & Sheridan Rd,Western Ave & Lunt Ave,2,42.0505,-87.6778,42.0086,-87.6905
+16,Streeter Dr & Grand Ave,Wabash Ave & Grand Ave,2,41.8923,-87.612,41.8917,-87.6269
+16,Streeter Dr & Grand Ave,Michigan Ave & Madison St,2,41.8923,-87.612,41.8821,-87.6251
+16,Streeter Dr & Grand Ave,McClurg Ct & Illinois St,2,41.8923,-87.612,41.891,-87.6173
+16,Streeter Dr & Grand Ave,Broadway & Sheridan Rd,2,41.8923,-87.612,41.9528,-87.65
+16,Streeter Dr & Grand Ave,Indiana Ave & Roosevelt Rd,2,41.8923,-87.612,41.8679,-87.623
+16,Streeter Dr & Grand Ave,Adler Planetarium,2,41.8923,-87.612,41.8661,-87.6073
+16,Fort Dearborn Dr & 31st St,Woodlawn Ave & 55th St,2,41.8386,-87.6082,41.7953,-87.5965
+16,Indiana Ave & Roosevelt Rd,Michigan Ave & Washington St,2,41.8679,-87.623,41.8839,-87.6246
+16,Indiana Ave & Roosevelt Rd,Millennium Park,2,41.8679,-87.623,41.881,-87.6241
+16,Indiana Ave & Roosevelt Rd,McClurg Ct & Illinois St,2,41.8679,-87.623,41.891,-87.6173
+16,Halsted St & Willow St,Ashland Ave & Augusta Blvd,2,41.9138,-87.6488,41.8996,-87.6677
+16,Aberdeen St & Jackson Blvd,Financial Pl & Congress Pkwy,2,41.8777,-87.6548,41.875,-87.6331
+16,Franklin St & Jackson Blvd,Field Museum,2,41.8777,-87.6353,41.8653,-87.6179
+16,Franklin St & Jackson Blvd,Canal St & Madison St,2,41.8777,-87.6353,41.8821,-87.6398
+16,Wilton Ave & Diversey Pkwy,Hampden Ct & Diversey Pkwy,2,41.9324,-87.6527,41.9326,-87.6424
+16,Clark St & Schiller St,Wells St & Concord Ln,2,41.908,-87.6315,41.9121,-87.6347
+16,Clark St & Wrightwood Ave,Wilton Ave & Diversey Pkwy,2,41.9295,-87.6431,41.9324,-87.6527
+16,California Ave & Milwaukee Ave,Damen Ave & Pierce Ave,2,41.9227,-87.6972,41.9094,-87.6777
+16,Emerald Ave & 28th St,Emerald Ave & 31st St,2,41.8436,-87.6454,41.8382,-87.6451
+16,Burnham Harbor,Michigan Ave & Lake St,2,41.8563,-87.6133,41.886,-87.6241
+16,Clinton St & Lake St,State St & Kinzie St,2,41.8856,-87.6418,41.8892,-87.6277
+16,Michigan Ave & Jackson Blvd,Streeter Dr & Grand Ave,2,41.8778,-87.6241,41.8923,-87.612
+16,Michigan Ave & Jackson Blvd,Indiana Ave & Roosevelt Rd,2,41.8778,-87.6241,41.8679,-87.623
+16,Michigan Ave & Jackson Blvd,Burnham Harbor,2,41.8778,-87.6241,41.8563,-87.6133
+16,Wells St & Elm St,Lakeview Ave & Fullerton Pkwy,2,41.9032,-87.6343,41.9259,-87.639
+16,Wells St & Elm St,Wells St & Huron St,2,41.9032,-87.6343,41.8947,-87.6338
+16,Broadway & Berwyn Ave,Clark St & Schreiber Ave,2,41.9784,-87.6598,41.9993,-87.6714
+16,Adler Planetarium,Lake Shore Dr & Ohio St,2,41.8661,-87.6073,41.8926,-87.6145
+16,Adler Planetarium,Lake Shore Dr & Monroe St,2,41.8661,-87.6073,41.881,-87.6167
+16,Adler Planetarium,Dearborn St & Adams St,2,41.8661,-87.6073,41.8794,-87.6298
+16,Clarendon Ave & Gordon Ter,Montrose Harbor,2,41.9579,-87.6495,41.964,-87.6382
+16,Clark St & Touhy Ave,Benson Ave & Church St,2,42.0126,-87.6744,42.0482,-87.6835
+16,Ogden Ave & Chicago Ave,California Ave & Division St,2,41.8964,-87.6541,41.903,-87.6975
+16,Clark St & Congress Pkwy,Wabash Ave & Roosevelt Rd,2,41.8759,-87.6306,41.8672,-87.626
+16,Larrabee St & Webster Ave,Halsted St & North Branch St,2,41.9218,-87.6441,41.8994,-87.6485
+16,Wabash Ave & 8th St,Streeter Dr & Grand Ave,2,41.872,-87.6261,41.8923,-87.612
+16,Columbus Dr & Randolph St,Adler Planetarium,2,41.8847,-87.6195,41.8661,-87.6073
+16,State St & Randolph St,Lake Shore Dr & Monroe St,2,41.8847,-87.6277,41.881,-87.6167
+16,Logan Blvd & Elston Ave,California Ave & Milwaukee Ave,2,41.9306,-87.6851,41.9227,-87.6972
+16,State St & Pearson St,Clinton St & Washington Blvd,2,41.8974,-87.6287,41.8834,-87.6412
+16,Lincoln Ave & Roscoe St,Hampden Ct & Diversey Pkwy,2,41.9433,-87.671,41.9326,-87.6424
+16,Oak Park Ave & Harrison St,Forest Ave & Lake St,2,41.873,-87.7939,41.8889,-87.8003
+16,Southport Ave & Waveland Ave,Pine Grove Ave & Irving Park Rd,2,41.9482,-87.6639,41.9544,-87.648
+16,McClurg Ct & Erie St,Clinton St & Lake St,2,41.8945,-87.6179,41.8856,-87.6418
+16,Cityfront Plaza Dr & Pioneer Ct,Lake Shore Dr & Diversey Pkwy,2,41.8906,-87.6221,41.9327,-87.6363
+16,Clark St & Wellington Ave,Halsted St & Willow St,2,41.9365,-87.6475,41.9138,-87.6488
+16,Damen Ave & Division St,Damen Ave & Pierce Ave,2,41.9033,-87.6769,41.9094,-87.6777
+16,Hampden Ct & Diversey Pkwy,Sheffield Ave & Fullerton Ave,2,41.9326,-87.6424,41.9256,-87.6537
+16,Ada St & Washington Blvd,Rush St & Superior St,2,41.8828,-87.6612,41.8958,-87.6259
+17,Theater on the Lake,Lake Shore Dr & Ohio St,6,41.9263,-87.6308,41.8926,-87.6145
+17,Burnham Harbor,Millennium Park,6,41.8563,-87.6133,41.881,-87.6241
+17,Field Museum,Millennium Park,5,41.8653,-87.6179,41.881,-87.6241
+17,Lakeview Ave & Fullerton Pkwy,Streeter Dr & Grand Ave,5,41.9259,-87.639,41.8923,-87.612
+17,Millennium Park,Michigan Ave & Oak St,5,41.881,-87.6241,41.901,-87.6238
+17,Lake Shore Dr & North Blvd,Michigan Ave & Oak St,5,41.9117,-87.6268,41.901,-87.6238
+17,Indiana Ave & Roosevelt Rd,Streeter Dr & Grand Ave,5,41.8679,-87.623,41.8923,-87.612
+17,Broadway & Waveland Ave,Theater on the Lake,5,41.9491,-87.6486,41.9263,-87.6308
+17,Lake Shore Dr & Ohio St,Shedd Aquarium,4,41.8926,-87.6145,41.8672,-87.6154
+17,Lake Shore Dr & Ohio St,Streeter Dr & Grand Ave,4,41.8926,-87.6145,41.8923,-87.612
+17,Millennium Park,Mies van der Rohe Way & Chicago Ave,4,41.881,-87.6241,41.8969,-87.6217
+17,Dusable Harbor,Streeter Dr & Grand Ave,4,41.885,-87.6128,41.8923,-87.612
+17,Michigan Ave & Lake St,Streeter Dr & Grand Ave,4,41.886,-87.6241,41.8923,-87.612
+17,McClurg Ct & Illinois St,Indiana Ave & Roosevelt Rd,4,41.891,-87.6173,41.8679,-87.623
+17,Michigan Ave & Oak St,Lake Shore Dr & Monroe St,4,41.901,-87.6238,41.881,-87.6167
+17,Streeter Dr & Grand Ave,Wabash Ave & Grand Ave,4,41.8923,-87.612,41.8917,-87.6269
+17,Streeter Dr & Grand Ave,Millennium Park,4,41.8923,-87.612,41.881,-87.6241
+17,Streeter Dr & Grand Ave,Michigan Ave & Congress Pkwy,4,41.8923,-87.612,41.8762,-87.6244
+17,Streeter Dr & Grand Ave,Michigan Ave & Jackson Blvd,4,41.8923,-87.612,41.8778,-87.6241
+17,Fort Dearborn Dr & 31st St,Burnham Harbor,4,41.8386,-87.6082,41.8563,-87.6133
+17,Clark St & North Ave,Millennium Park,4,41.912,-87.6319,41.881,-87.6241
+17,Michigan Ave & Washington St,Streeter Dr & Grand Ave,3,41.8839,-87.6246,41.8923,-87.612
+17,Lake Shore Dr & Monroe St,Columbus Dr & Randolph St,3,41.881,-87.6167,41.8847,-87.6195
+17,Pine Grove Ave & Irving Park Rd,Broadway & Belmont Ave,3,41.9544,-87.648,41.9401,-87.6455
+17,Clark St & Armitage Ave,Michigan Ave & Oak St,3,41.9183,-87.6363,41.901,-87.6238
+17,McClurg Ct & Illinois St,Shedd Aquarium,3,41.891,-87.6173,41.8672,-87.6154
+17,Theater on the Lake,Broadway & Cornelia Ave,3,41.9263,-87.6308,41.9455,-87.646
+17,Theater on the Lake,Lake Shore Dr & North Blvd,3,41.9263,-87.6308,41.9117,-87.6268
+17,State St & Kinzie St,Damen Ave & Grand Ave,3,41.8892,-87.6277,41.8912,-87.6769
+17,Dearborn Pkwy & Delaware Pl,Desplaines St & Jackson Blvd,3,41.899,-87.6299,41.8783,-87.6439
+17,Lake Shore Dr & North Blvd,Cannon Dr & Fullerton Ave,3,41.9117,-87.6268,41.9268,-87.6344
+17,Michigan Ave & Oak St,Lake Shore Dr & Ohio St,3,41.901,-87.6238,41.8926,-87.6145
+17,Streeter Dr & Grand Ave,Fairbanks Ct & Grand Ave,3,41.8923,-87.612,41.8919,-87.6206
+17,Streeter Dr & Grand Ave,State St & Kinzie St,3,41.8923,-87.612,41.8892,-87.6277
+17,Wilton Ave & Diversey Pkwy,Hampden Ct & Diversey Pkwy,3,41.9324,-87.6527,41.9326,-87.6424
+17,Wells St & Elm St,Wabash Ave & Grand Ave,3,41.9032,-87.6343,41.8917,-87.6269
+17,Shedd Aquarium,Millennium Park,2,41.8672,-87.6154,41.881,-87.6241
+17,Shedd Aquarium,Columbus Dr & Randolph St,2,41.8672,-87.6154,41.8847,-87.6195
+17,Wabash Ave & Roosevelt Rd,Lake Shore Dr & Monroe St,2,41.8672,-87.626,41.881,-87.6167
+17,Lake Shore Dr & Ohio St,Pine Grove Ave & Waveland Ave,2,41.8926,-87.6145,41.9493,-87.6463
+17,Lake Shore Dr & Ohio St,Theater on the Lake,2,41.8926,-87.6145,41.9263,-87.6308
+17,Canal St & Monroe St (*),Larrabee St & Armitage Ave,2,41.8809,-87.6395,41.9181,-87.6437
+17,Canal St & Monroe St (*),Kingsbury St & Kinzie St,2,41.8809,-87.6395,41.8892,-87.6385
+17,Cannon Dr & Fullerton Ave,Lake Shore Dr & Diversey Pkwy,2,41.9268,-87.6344,41.9327,-87.6363
+17,Cannon Dr & Fullerton Ave,Wabash Ave & Grand Ave,2,41.9268,-87.6344,41.8917,-87.6269
+17,Cannon Dr & Fullerton Ave,Sheffield Ave & Wellington Ave,2,41.9268,-87.6344,41.9363,-87.6527
+17,Southport Ave & Belmont Ave,Wilton Ave & Belmont Ave,2,41.9395,-87.6638,41.9402,-87.653
+17,Clarendon Ave & Junior Ter,Streeter Dr & Grand Ave,2,41.961,-87.6496,41.8923,-87.612
+17,Field Museum,Streeter Dr & Grand Ave,2,41.8653,-87.6179,41.8923,-87.612
+17,State St & Harrison St,Wabash Ave & Cermak Rd,2,41.8741,-87.6277,41.8526,-87.6265
+17,Stetson Ave & South Water St,Clinton St & Washington Blvd,2,41.8868,-87.6223,41.8834,-87.6412
+17,Pine Grove Ave & Waveland Ave,Sheffield Ave & Addison St,2,41.9493,-87.6463,41.947,-87.6542
+17,Lake Shore Dr & Diversey Pkwy,Pine Grove Ave & Waveland Ave,2,41.9327,-87.6363,41.9493,-87.6463
+17,Lake Shore Dr & Diversey Pkwy,Sheffield Ave & Webster Ave,2,41.9327,-87.6363,41.9215,-87.6538
+17,Morgan Ave & 14th Pl,Green St & Madison St,2,41.8624,-87.6511,41.8819,-87.6488
+17,Morgan Ave & 14th Pl,Wabash Ave & 8th St,2,41.8624,-87.6511,41.872,-87.6261
+17,Wabash Ave & Grand Ave,Clarendon Ave & Junior Ter,2,41.8917,-87.6269,41.961,-87.6496
+17,Sheridan Rd & Irving Park Rd,Montrose Harbor,2,41.9542,-87.6544,41.964,-87.6382
+17,Sheridan Rd & Irving Park Rd,Pine Grove Ave & Irving Park Rd,2,41.9542,-87.6544,41.9544,-87.648
+17,Michigan Ave & Washington St,Canal St & Adams St,2,41.8839,-87.6246,41.8793,-87.6399
+17,Montrose Harbor,Southport Ave & Irving Park Rd,2,41.964,-87.6382,41.9542,-87.6644
+17,Montrose Harbor,Theater on the Lake,2,41.964,-87.6382,41.9263,-87.6308
+17,Millennium Park,Lake Shore Dr & Monroe St,2,41.881,-87.6241,41.881,-87.6167
+17,Millennium Park,Michigan Ave & Lake St,2,41.881,-87.6241,41.886,-87.6241
+17,Millennium Park,Dearborn St & Erie St,2,41.881,-87.6241,41.894,-87.6293
+17,Millennium Park,Ashland Ave & Grand Ave,2,41.881,-87.6241,41.8911,-87.6666
+17,Millennium Park,Wilton Ave & Belmont Ave,2,41.881,-87.6241,41.9402,-87.653
+17,Millennium Park,Hampden Ct & Diversey Pkwy,2,41.881,-87.6241,41.9326,-87.6424
+17,Lake Shore Dr & Monroe St,Field Museum,2,41.881,-87.6167,41.8653,-87.6179
+17,Lake Shore Dr & Monroe St,Lake Shore Dr & North Blvd,2,41.881,-87.6167,41.9117,-87.6268
+17,Lake Shore Dr & Monroe St,Michigan Ave & Jackson Blvd,2,41.881,-87.6167,41.8778,-87.6241
+17,Paulina Ave & North Ave,Sheffield Ave & Kingsbury St,2,41.9103,-87.6701,41.9105,-87.6531
+17,Paulina Ave & North Ave,Milwaukee Ave & Wabansia Ave,2,41.9103,-87.6701,41.9126,-87.6814
+17,Mies van der Rohe Way & Chestnut St,Wells St & Elm St,2,41.8986,-87.6219,41.9032,-87.6343
+17,Canal St & Taylor St,Franklin St & Jackson Blvd,2,41.8703,-87.6395,41.8777,-87.6353
+17,Oak Park Ave & South Blvd,East Ave & Madison St,2,41.8869,-87.7939,41.8801,-87.7892
+17,Glenwood Ave & Morse Ave,Ridge Blvd & Touhy Ave,2,42.008,-87.6655,42.0121,-87.6829
+17,Sangamon St & Washington Blvd (*),Aberdeen St & Jackson Blvd,2,41.883,-87.6511,41.8777,-87.6548
+17,Austin Blvd & Lake St,Marion St & South Blvd,2,41.8879,-87.7744,41.8868,-87.8029
+17,Damen Ave & Pierce Ave,Southport Ave & Irving Park Rd,2,41.9094,-87.6777,41.9542,-87.6644
+17,Damen Ave & Pierce Ave,Spaulding Ave & Armitage Ave,2,41.9094,-87.6777,41.9172,-87.7104
+17,Dusable Harbor,Millennium Park,2,41.885,-87.6128,41.881,-87.6241
+17,California Ave & North Ave,Wood St & Milwaukee Ave,2,41.9104,-87.6972,41.9077,-87.6726
+17,Canal St & Madison St,Ashland Ave & Augusta Blvd,2,41.8821,-87.6398,41.8996,-87.6677
+17,Rush St & Superior St,Field Museum,2,41.8958,-87.6259,41.8653,-87.6179
+17,Rush St & Superior St,Michigan Ave & Oak St,2,41.8958,-87.6259,41.901,-87.6238
+17,Damen Ave & Chicago Ave,Wells St & Concord Ln,2,41.8958,-87.6772,41.9121,-87.6347
+17,Pine Grove Ave & Irving Park Rd,Sheridan Rd & Irving Park Rd,2,41.9544,-87.648,41.9542,-87.6544
+17,Noble St & Milwaukee Ave,State St & Randolph St,2,41.9007,-87.6626,41.8847,-87.6277
+17,Wells St & Polk St,Streeter Dr & Grand Ave,2,41.8724,-87.6335,41.8923,-87.612
+17,Clark St & Armitage Ave,Lake Shore Dr & Ohio St,2,41.9183,-87.6363,41.8926,-87.6145
+17,Clark St & Armitage Ave,Lake Shore Dr & Diversey Pkwy,2,41.9183,-87.6363,41.9327,-87.6363
+17,Clark St & Armitage Ave,Montrose Harbor,2,41.9183,-87.6363,41.964,-87.6382
+17,Clark St & Armitage Ave,Dayton St & North Ave,2,41.9183,-87.6363,41.9106,-87.6494
+17,Clark St & Armitage Ave,Streeter Dr & Grand Ave,2,41.9183,-87.6363,41.8923,-87.612
+17,Southport Ave & Roscoe St,Ashland Ave & Grace St,2,41.9437,-87.664,41.9507,-87.6687
+17,Campbell Ave & North Ave,Milwaukee Ave & Wabansia Ave,2,41.9105,-87.6896,41.9126,-87.6814
+17,Sheffield Ave & Kingsbury St,Ashland Ave & Division St,2,41.9105,-87.6531,41.9035,-87.6677
+17,Sheffield Ave & Kingsbury St,Damen Ave & Cortland St,2,41.9105,-87.6531,41.916,-87.6774
+17,Kingsbury St & Erie St,Clinton St & Washington Blvd,2,41.8939,-87.6417,41.8834,-87.6412
+17,Kingsbury St & Erie St,Larrabee St & Webster Ave,2,41.8939,-87.6417,41.9218,-87.6441
+17,Clinton St & Madison St,Wacker Dr & Washington St,2,41.8822,-87.6411,41.8833,-87.6373
+17,Desplaines St & Jackson Blvd,McClurg Ct & Illinois St,2,41.8783,-87.6439,41.891,-87.6173
+17,McClurg Ct & Illinois St,Southport Ave & Clybourn Ave,2,41.891,-87.6173,41.9208,-87.6637
+17,Michigan Ave & 18th St,Orleans St & Merchandise Mart Plaza,2,41.8578,-87.6245,41.8882,-87.6364
+17,Halsted St & Wrightwood Ave,Sedgwick St & North Ave,2,41.9291,-87.6491,41.9114,-87.6387
+17,LaSalle St & Adams St,Sangamon St & Washington Blvd (*),2,41.8793,-87.632,41.883,-87.6511
+17,Daley Center Plaza,McClurg Ct & Illinois St,2,41.8842,-87.6296,41.891,-87.6173
+17,Franklin St & Monroe St,McClurg Ct & Illinois St,2,41.8803,-87.6352,41.891,-87.6173
+17,Dayton St & North Ave,Aberdeen St & Monroe St,2,41.9106,-87.6494,41.8804,-87.6556
+17,Dayton St & North Ave,Michigan Ave & Oak St,2,41.9106,-87.6494,41.901,-87.6238
+17,Dearborn St & Erie St,Lake Shore Dr & North Blvd,2,41.894,-87.6293,41.9117,-87.6268
+17,Dearborn St & Erie St,Michigan Ave & Oak St,2,41.894,-87.6293,41.901,-87.6238
+17,Wells St & Evergreen Ave,State St & Kinzie St,2,41.9067,-87.6348,41.8892,-87.6277
+17,Clark St & Berwyn Ave,Broadway & Berwyn Ave,2,41.978,-87.668,41.9784,-87.6598
+17,Canal St & Jackson Blvd,Loomis St & Lexington St,2,41.8784,-87.6411,41.8722,-87.6615
+17,Canal St & Jackson Blvd,Clinton St & Madison St,2,41.8784,-87.6411,41.8822,-87.6411
+17,Canal St & Jackson Blvd,Aberdeen St & Monroe St,2,41.8784,-87.6411,41.8804,-87.6556
+17,Dearborn St & Adams St,Wabash Ave & Roosevelt Rd,2,41.8794,-87.6298,41.8672,-87.626
+17,Dearborn St & Adams St,Canal St & Madison St,2,41.8794,-87.6298,41.8821,-87.6398
+17,Milwaukee Ave & Wabansia Ave,Campbell Ave & North Ave,2,41.9126,-87.6814,41.9105,-87.6896
+17,Orleans St & Merchandise Mart Plaza,Union Ave & Grand Ave,2,41.8882,-87.6364,41.891,-87.6459
+17,Humboldt Blvd & Armitage Ave,Noble St & Milwaukee Ave,2,41.9175,-87.7018,41.9007,-87.6626
+17,Theater on the Lake,Montrose Harbor,2,41.9263,-87.6308,41.964,-87.6382
+17,Theater on the Lake,Streeter Dr & Grand Ave,2,41.9263,-87.6308,41.8923,-87.612
+17,Kingsbury St & Kinzie St,Larrabee St & Kingsbury St,2,41.8892,-87.6385,41.8978,-87.6429
+17,Field Blvd & South Water St,Burnham Harbor,2,41.8863,-87.6175,41.8563,-87.6133
+17,Western Ave & Division St,Marshfield Ave & Cortland St,2,41.9029,-87.6873,41.916,-87.6689
+17,Dearborn Pkwy & Delaware Pl,Clark St & Elm St,2,41.899,-87.6299,41.903,-87.6313
+17,Lake Shore Dr & North Blvd,Wabash Ave & Grand Ave,2,41.9117,-87.6268,41.8917,-87.6269
+17,Lake Shore Dr & North Blvd,Lake Shore Dr & Belmont Ave,2,41.9117,-87.6268,41.9408,-87.6392
+17,Lake Shore Dr & North Blvd,Bissell St & Armitage Ave,2,41.9117,-87.6268,41.9184,-87.6522
+17,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,2,41.9117,-87.6268,41.8923,-87.612
+17,Lake Shore Dr & North Blvd,St. Clair St & Erie St,2,41.9117,-87.6268,41.8944,-87.6227
+17,Lake Shore Dr & North Blvd,Clark St & Wellington Ave,2,41.9117,-87.6268,41.9365,-87.6475
+17,Ravenswood Ave & Irving Park Rd,Broadway & Sheridan Rd,2,41.9547,-87.6739,41.9528,-87.65
+17,Lakefront Trail & Bryn Mawr Ave,Clark St & Elmdale Ave,2,41.984,-87.6523,41.9909,-87.6696
+17,Clark St & Grace St,Lincoln Ave & Roscoe St,2,41.9508,-87.6592,41.9433,-87.671
+17,Clark St & Grace St,Clark St & Wellington Ave,2,41.9508,-87.6592,41.9365,-87.6475
+17,Michigan Ave & Oak St,Lake Shore Dr & Diversey Pkwy,2,41.901,-87.6238,41.9327,-87.6363
+17,Michigan Ave & Oak St,Mies van der Rohe Way & Chestnut St,2,41.901,-87.6238,41.8986,-87.6219
+17,Michigan Ave & Oak St,Broadway & Cornelia Ave,2,41.901,-87.6238,41.9455,-87.646
+17,Michigan Ave & Oak St,Michigan Ave & Pearson St,2,41.901,-87.6238,41.8977,-87.6235
+17,Michigan Ave & Oak St,Canal St & Adams St,2,41.901,-87.6238,41.8793,-87.6399
+17,Michigan Ave & Oak St,Dearborn St & Erie St,2,41.901,-87.6238,41.894,-87.6293
+17,Michigan Ave & Oak St,Clark St & Randolph St,2,41.901,-87.6238,41.8846,-87.6319
+17,Michigan Ave & Oak St,St. Clair St & Erie St,2,41.901,-87.6238,41.8944,-87.6227
+17,Michigan Ave & Oak St,Broadway & Waveland Ave,2,41.901,-87.6238,41.9491,-87.6486
+17,Stockton Dr & Wrightwood Ave,Halsted St & Diversey Pkwy,2,41.9313,-87.6387,41.9337,-87.649
+17,Broadway & Sheridan Rd,Theater on the Lake,2,41.9528,-87.65,41.9263,-87.6308
+17,Broadway & Wilson Ave,Clark St & Winnemac Ave,2,41.9655,-87.6572,41.9734,-87.6684
+17,Clark St & Lincoln Ave,Lake Shore Dr & Ohio St,2,41.9157,-87.6346,41.8926,-87.6145
+17,Clark St & Lincoln Ave,Broadway & Cornelia Ave,2,41.9157,-87.6346,41.9455,-87.646
+17,Clark St & Lincoln Ave,Wells St & Concord Ln,2,41.9157,-87.6346,41.9121,-87.6347
+17,Streeter Dr & Grand Ave,Field Museum,2,41.8923,-87.612,41.8653,-87.6179
+17,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,2,41.8923,-87.612,41.9117,-87.6268
+17,Streeter Dr & Grand Ave,Franklin St & Jackson Blvd,2,41.8923,-87.612,41.8777,-87.6353
+17,Streeter Dr & Grand Ave,Lake Park Ave & 47th St,2,41.8923,-87.612,41.8094,-87.5919
+17,Halsted St & Willow St,Green St & Madison St,2,41.9138,-87.6488,41.8819,-87.6488
+17,Morgan St & Lake St,Racine Ave & 18th St,2,41.8855,-87.6523,41.8582,-87.6565
+17,Aberdeen St & Jackson Blvd,Sangamon St & Washington Blvd (*),2,41.8777,-87.6548,41.883,-87.6511
+17,Wilton Ave & Belmont Ave,Clark St & Wellington Ave,2,41.9402,-87.653,41.9365,-87.6475
+17,Sheridan Rd & Montrose Ave,Lake Shore Dr & Belmont Ave,2,41.9617,-87.6546,41.9408,-87.6392
+17,Clark St & Schiller St,Lake Shore Dr & North Blvd,2,41.908,-87.6315,41.9117,-87.6268
+17,Western Ave & Leland Ave,Budlong Woods Library,2,41.9666,-87.6885,41.9837,-87.6964
+17,McCormick Place,Wentworth Ave & 24th St,2,41.8514,-87.6188,41.8492,-87.6317
+17,Michigan Ave & 14th St,Indiana Ave & Roosevelt Rd,2,41.8641,-87.6237,41.8679,-87.623
+17,Michigan Ave & 14th St,Adler Planetarium,2,41.8641,-87.6237,41.8661,-87.6073
+17,California Ave & Altgeld St,Cannon Dr & Fullerton Ave,2,41.9266,-87.6979,41.9268,-87.6344
+17,Burnham Harbor,Lake Shore Dr & Monroe St,2,41.8563,-87.6133,41.881,-87.6167
+17,Burnham Harbor,Clark St & 9th St (AMLI),2,41.8563,-87.6133,41.8708,-87.6312
+17,Burnham Harbor,Fort Dearborn Dr & 31st St,2,41.8563,-87.6133,41.8386,-87.6082
+17,Racine Ave & 13th St,Western Ave & Winnebago Ave,2,41.8651,-87.657,41.9154,-87.6872
+17,Michigan Ave & Jackson Blvd,Millennium Park,2,41.8778,-87.6241,41.881,-87.6241
+17,Michigan Ave & Jackson Blvd,State St & Kinzie St,2,41.8778,-87.6241,41.8892,-87.6277
+17,Peoria St & Jackson Blvd,Daley Center Plaza,2,41.8778,-87.6496,41.8842,-87.6296
+17,St. Clair St & Erie St,Desplaines St & Kinzie St,2,41.8944,-87.6227,41.8887,-87.6444
+17,St. Clair St & Erie St,Ashland Ave & Wrightwood Ave,2,41.8944,-87.6227,41.9288,-87.6685
+17,St. Clair St & Erie St,Clinton St & Washington Blvd,2,41.8944,-87.6227,41.8834,-87.6412
+17,St. Clair St & Erie St,Rush St & Cedar St,2,41.8944,-87.6227,41.9023,-87.6277
+17,Wells St & Elm St,Rush St & Hubbard St,2,41.9032,-87.6343,41.89,-87.6263
+17,Broadway & Berwyn Ave,Clark St & Berwyn Ave,2,41.9784,-87.6598,41.978,-87.668
+17,Adler Planetarium,Shedd Aquarium,2,41.8661,-87.6073,41.8672,-87.6154
+17,Adler Planetarium,Dearborn St & Monroe St,2,41.8661,-87.6073,41.8813,-87.6295
+17,Adler Planetarium,Michigan Ave & Jackson Blvd,2,41.8661,-87.6073,41.8778,-87.6241
+17,Clarendon Ave & Gordon Ter,Southport Ave & Irving Park Rd,2,41.9579,-87.6495,41.9542,-87.6644
+17,Ravenswood Ave & Berteau Ave,Western Ave & Roscoe St,2,41.9579,-87.6736,41.943,-87.6874
+17,Kedzie Ave & Milwaukee Ave,Logan Blvd & Elston Ave,2,41.9296,-87.7079,41.9306,-87.6851
+17,Clark St & Congress Pkwy,Canal St & Adams St,2,41.8759,-87.6306,41.8793,-87.6399
+17,Larrabee St & Webster Ave,Wood St & Milwaukee Ave,2,41.9218,-87.6441,41.9077,-87.6726
+17,Wabash Ave & 8th St,Wabash Ave & Cermak Rd,2,41.872,-87.6261,41.8526,-87.6265
+17,State St & Randolph St,Franklin St & Lake St,2,41.8847,-87.6277,41.8858,-87.6355
+17,Lincoln Ave & Roscoe St,Halsted St & Roscoe St,2,41.9433,-87.671,41.9437,-87.6489
+17,Lincoln Ave & Belmont Ave,Clark St & Elmdale Ave,2,41.9394,-87.6684,41.9909,-87.6696
+17,Rush St & Cedar St,Lake Shore Dr & North Blvd,2,41.9023,-87.6277,41.9117,-87.6268
+17,Western Ave & Walton St,Ashland Ave & Lake St,2,41.8984,-87.6866,41.8854,-87.6673
+17,Cityfront Plaza Dr & Pioneer Ct,Michigan Ave & Jackson Blvd,2,41.8906,-87.6221,41.8778,-87.6241
+17,Damen Ave & Division St,Damen Ave & Pierce Ave,2,41.9033,-87.6769,41.9094,-87.6777
+17,Hampden Ct & Diversey Pkwy,Wilton Ave & Diversey Pkwy,2,41.9326,-87.6424,41.9324,-87.6527
+17,Hampden Ct & Diversey Pkwy,Western Ave & Leland Ave,2,41.9326,-87.6424,41.9666,-87.6885
+17,Wells St & Concord Ln,Larrabee St & Menomonee St,2,41.9121,-87.6347,41.9147,-87.6433
+18,Aberdeen St & Monroe St,Shedd Aquarium,8,41.8804,-87.6556,41.8672,-87.6154
+18,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,7,41.8923,-87.612,41.9117,-87.6268
+18,Lake Shore Dr & North Blvd,McClurg Ct & Illinois St,6,41.9117,-87.6268,41.891,-87.6173
+18,Indiana Ave & Roosevelt Rd,Michigan Ave & Washington St,6,41.8679,-87.623,41.8839,-87.6246
+18,Clarendon Ave & Gordon Ter,Theater on the Lake,6,41.9579,-87.6495,41.9263,-87.6308
+18,Wells St & Evergreen Ave,Lake Shore Dr & North Blvd,5,41.9067,-87.6348,41.9117,-87.6268
+18,Rush St & Cedar St,Broadway & Belmont Ave,5,41.9023,-87.6277,41.9401,-87.6455
+18,Lake Shore Dr & Ohio St,Lake Shore Dr & North Blvd,4,41.8926,-87.6145,41.9117,-87.6268
+18,Field Museum,Burnham Harbor,4,41.8653,-87.6179,41.8563,-87.6133
+18,Michigan Ave & Lake St,Streeter Dr & Grand Ave,4,41.886,-87.6241,41.8923,-87.612
+18,Lake Shore Dr & Belmont Ave,Streeter Dr & Grand Ave,4,41.9408,-87.6392,41.8923,-87.612
+18,Wabash Ave & 8th St,Lake Shore Dr & Monroe St,4,41.872,-87.6261,41.881,-87.6167
+18,Shedd Aquarium,Streeter Dr & Grand Ave,3,41.8672,-87.6154,41.8923,-87.612
+18,Lake Shore Dr & Ohio St,Theater on the Lake,3,41.8926,-87.6145,41.9263,-87.6308
+18,Wabash Ave & Grand Ave,Ashland Ave & Chicago Ave,3,41.8917,-87.6269,41.896,-87.6677
+18,Wabash Ave & Wacker Pl,Wells St & Evergreen Ave,3,41.8869,-87.626,41.9067,-87.6348
+18,South Shore Dr & 67th St,Jeffery Blvd & 71st St,3,41.7737,-87.5673,41.7666,-87.5764
+18,Damen Ave & Chicago Ave,Damen Ave & Division St,3,41.8958,-87.6772,41.9033,-87.6769
+18,Larrabee St & Menomonee St,Wells St & Elm St,3,41.9147,-87.6433,41.9032,-87.6343
+18,Clark St & Elm St,Stockton Dr & Wrightwood Ave,3,41.903,-87.6313,41.9313,-87.6387
+18,Streeter Dr & Grand Ave,Shedd Aquarium,3,41.8923,-87.612,41.8672,-87.6154
+18,Streeter Dr & Grand Ave,Theater on the Lake,3,41.8923,-87.612,41.9263,-87.6308
+18,St. Clair St & Erie St,Lake Shore Dr & Ohio St,3,41.8944,-87.6227,41.8926,-87.6145
+18,Sheridan Rd & Loyola Ave,Glenwood Ave & Morse Ave,2,42.001,-87.6612,42.008,-87.6655
+18,Larrabee St & North Ave,Streeter Dr & Grand Ave,2,41.9102,-87.6435,41.8923,-87.612
+18,Franklin St & Lake St,Green St & Randolph St,2,41.8858,-87.6355,41.8837,-87.6487
+18,Wabash Ave & Cermak Rd,Loomis St & Archer Ave,2,41.8526,-87.6265,41.8416,-87.6574
+18,Clarendon Ave & Junior Ter,Theater on the Lake,2,41.961,-87.6496,41.9263,-87.6308
+18,Lake Shore Dr & Diversey Pkwy,Montrose Harbor,2,41.9327,-87.6363,41.964,-87.6382
+18,Lake Shore Dr & Diversey Pkwy,Clark St & Armitage Ave,2,41.9327,-87.6363,41.9183,-87.6363
+18,Lake Shore Dr & Diversey Pkwy,Theater on the Lake,2,41.9327,-87.6363,41.9263,-87.6308
+18,Wabash Ave & Grand Ave,Franklin St & Quincy St,2,41.8917,-87.6269,41.8787,-87.6348
+18,Wabash Ave & Grand Ave,McClurg Ct & Erie St,2,41.8917,-87.6269,41.8945,-87.6179
+18,Southport Ave & Irving Park Rd,Sheffield Ave & Addison St,2,41.9542,-87.6644,41.947,-87.6542
+18,Halsted St & Diversey Pkwy,Sheffield Ave & Wellington Ave,2,41.9337,-87.649,41.9363,-87.6527
+18,Michigan Ave & Washington St,State St & 33rd St,2,41.8839,-87.6246,41.8347,-87.6258
+18,Lakeview Ave & Fullerton Pkwy,Pine Grove Ave & Waveland Ave,2,41.9259,-87.639,41.9493,-87.6463
+18,Central St Metra,Sheridan Rd & Noyes St (NU),2,42.0636,-87.6987,42.0582,-87.6774
+18,California Ave & Francis Pl,Marshfield Ave & Cortland St,2,41.9181,-87.697,41.916,-87.6689
+18,Montrose Harbor,Cannon Dr & Fullerton Ave,2,41.964,-87.6382,41.9268,-87.6344
+18,Montrose Harbor,Clifton Ave & Lawrence Ave,2,41.964,-87.6382,41.9689,-87.6589
+18,Millennium Park,Shedd Aquarium,2,41.881,-87.6241,41.8672,-87.6154
+18,Lake Shore Dr & Monroe St,Field Museum,2,41.881,-87.6167,41.8653,-87.6179
+18,Lake Shore Dr & Monroe St,Michigan Ave & Oak St,2,41.881,-87.6167,41.901,-87.6238
+18,Mies van der Rohe Way & Chestnut St,Indiana Ave & Roosevelt Rd,2,41.8986,-87.6219,41.8679,-87.623
+18,Wabash Ave & Wacker Pl,Halsted St & Maxwell St,2,41.8869,-87.626,41.8649,-87.6471
+18,Racine Ave & Wrightwood Ave,Aberdeen St & Jackson Blvd,2,41.9289,-87.659,41.8777,-87.6548
+18,Wolcott Ave & Polk St,Loomis St & Taylor St (*),2,41.8713,-87.6737,41.8694,-87.661
+18,Damen Ave & Pierce Ave,Halsted St & Blackhawk St (*),2,41.9094,-87.6777,41.9085,-87.6486
+18,Michigan Ave & Congress Pkwy,Shedd Aquarium,2,41.8762,-87.6244,41.8672,-87.6154
+18,Forest Ave & Lake St,Oak Park Ave & Harrison St,2,41.8889,-87.8003,41.873,-87.7939
+18,Dusable Harbor,Shedd Aquarium,2,41.885,-87.6128,41.8672,-87.6154
+18,Clark St & Lake St,Ogden Ave & Race Ave,2,41.886,-87.6309,41.8918,-87.6588
+18,Michigan Ave & Madison St,Wabash Ave & 8th St,2,41.8821,-87.6251,41.872,-87.6261
+18,Sedgwick St & North Ave,Halsted St & Diversey Pkwy,2,41.9114,-87.6387,41.9337,-87.649
+18,Clark St & Schreiber Ave,Clark St & Leland Ave,2,41.9993,-87.6714,41.9671,-87.6674
+18,Ogden Ave & Roosevelt Rd,Western Ave & 21st St,2,41.8665,-87.6847,41.8539,-87.6852
+18,Budlong Woods Library,Lincoln Ave & Winona St,2,41.9837,-87.6964,41.9749,-87.6925
+18,Franklin St & Chicago Ave,Lake Shore Dr & North Blvd,2,41.8968,-87.6356,41.9117,-87.6268
+18,Clark St & Armitage Ave,Lakeview Ave & Fullerton Pkwy,2,41.9183,-87.6363,41.9259,-87.639
+18,Clark St & Armitage Ave,Wells St & Evergreen Ave,2,41.9183,-87.6363,41.9067,-87.6348
+18,Clark St & Armitage Ave,Halsted St & Dickens Ave,2,41.9183,-87.6363,41.9199,-87.6488
+18,Halsted St & Roscoe St,Streeter Dr & Grand Ave,2,41.9437,-87.6489,41.8923,-87.612
+18,Halsted St & Roscoe St,Sheffield Ave & Wellington Ave,2,41.9437,-87.6489,41.9363,-87.6527
+18,Rush St & Hubbard St,Michigan Ave & Washington St,2,41.89,-87.6263,41.8839,-87.6246
+18,Ravenswood Ave & Lawrence Ave,Damen Ave & Leland Ave,2,41.9691,-87.6742,41.9671,-87.679
+18,Western Ave & Winnebago Ave,Albany Ave & Bloomingdale Ave,2,41.9154,-87.6872,41.914,-87.7051
+18,Desplaines St & Jackson Blvd,Streeter Dr & Grand Ave,2,41.8783,-87.6439,41.8923,-87.612
+18,Lake Shore Dr & Belmont Ave,Montrose Harbor,2,41.9408,-87.6392,41.964,-87.6382
+18,McClurg Ct & Illinois St,Wells St & Evergreen Ave,2,41.891,-87.6173,41.9067,-87.6348
+18,Halsted St & Wrightwood Ave,Stockton Dr & Wrightwood Ave,2,41.9291,-87.6491,41.9313,-87.6387
+18,Bissell St & Armitage Ave,Greenview Ave & Fullerton Ave,2,41.9184,-87.6522,41.9253,-87.6658
+18,Dearborn St & Erie St,Rush St & Hubbard St,2,41.894,-87.6293,41.89,-87.6263
+18,Wells St & Evergreen Ave,Dusable Harbor,2,41.9067,-87.6348,41.885,-87.6128
+18,Clark St & Berwyn Ave,Leavitt St & Addison St,2,41.978,-87.668,41.947,-87.6834
+18,Wood St & Milwaukee Ave,Stave St & Armitage Ave,2,41.9077,-87.6726,41.9177,-87.6914
+18,Wood St & Grand Ave,Ashland Ave & Lake St,2,41.8911,-87.672,41.8854,-87.6673
+18,Ashland Ave & Grand Ave,Wabash Ave & Grand Ave,2,41.8911,-87.6666,41.8917,-87.6269
+18,Ashland Ave & Chicago Ave,May St & Randolph St,2,41.896,-87.6677,41.884,-87.6557
+18,Milwaukee Ave & Wabansia Ave,Southport Ave & Roscoe St,2,41.9126,-87.6814,41.9437,-87.664
+18,Theater on the Lake,Pine Grove Ave & Irving Park Rd,2,41.9263,-87.6308,41.9544,-87.648
+18,Theater on the Lake,Michigan Ave & Oak St,2,41.9263,-87.6308,41.901,-87.6238
+18,Theater on the Lake,Clark St & North Ave,2,41.9263,-87.6308,41.912,-87.6319
+18,Theater on the Lake,Rush St & Cedar St,2,41.9263,-87.6308,41.9023,-87.6277
+18,Kingsbury St & Kinzie St,Fairbanks Ct & Grand Ave,2,41.8892,-87.6385,41.8919,-87.6206
+18,Kingsbury St & Kinzie St,Rush St & Hubbard St,2,41.8892,-87.6385,41.89,-87.6263
+18,Lincoln Ave & Diversey Pkwy,Halsted St & Wrightwood Ave,2,41.9322,-87.6586,41.9291,-87.6491
+18,Lincoln Ave & Diversey Pkwy,Wilton Ave & Belmont Ave,2,41.9322,-87.6586,41.9402,-87.653
+18,Paulina St & Montrose Ave,Lincoln Ave & Leavitt St,2,41.9615,-87.6714,41.9624,-87.6841
+18,Lake Shore Dr & North Blvd,Lake Shore Dr & Diversey Pkwy,2,41.9117,-87.6268,41.9327,-87.6363
+18,Lake Shore Dr & North Blvd,Southport Ave & Wellington Ave,2,41.9117,-87.6268,41.9357,-87.6636
+18,Drake Ave & Fullerton Ave,California Ave & Francis Pl,2,41.9244,-87.7154,41.9181,-87.697
+18,Wabash Ave & Adams St,Franklin St & Quincy St,2,41.8795,-87.6257,41.8787,-87.6348
+18,Michigan Ave & Oak St,Stetson Ave & South Water St,2,41.901,-87.6238,41.8868,-87.6223
+18,Michigan Ave & Oak St,Halsted St & Blackhawk St (*),2,41.901,-87.6238,41.9085,-87.6486
+18,Michigan Ave & Oak St,Dearborn St & Erie St,2,41.901,-87.6238,41.894,-87.6293
+18,Michigan Ave & Oak St,Lake Shore Dr & North Blvd,2,41.901,-87.6238,41.9117,-87.6268
+18,Ashland Ave & Lake St,Green St & Madison St,2,41.8854,-87.6673,41.8819,-87.6488
+18,Larrabee St & Menomonee St,Wilton Ave & Belmont Ave,2,41.9147,-87.6433,41.9402,-87.653
+18,Stockton Dr & Wrightwood Ave,Clark St & Wrightwood Ave,2,41.9313,-87.6387,41.9295,-87.6431
+18,Clark St & Elm St,Rush St & Cedar St,2,41.903,-87.6313,41.9023,-87.6277
+18,Broadway & Granville Ave,Clark St & Berwyn Ave,2,41.9948,-87.6603,41.978,-87.668
+18,Clark St & 9th St (AMLI),Wabash Ave & Roosevelt Rd,2,41.8708,-87.6312,41.8672,-87.626
+18,Streeter Dr & Grand Ave,Field Museum,2,41.8923,-87.612,41.8653,-87.6179
+18,Streeter Dr & Grand Ave,Michigan Ave & Washington St,2,41.8923,-87.612,41.8839,-87.6246
+18,Streeter Dr & Grand Ave,Lake Shore Dr & Belmont Ave,2,41.8923,-87.612,41.9408,-87.6392
+18,Streeter Dr & Grand Ave,Broadway & Belmont Ave,2,41.8923,-87.612,41.9401,-87.6455
+18,Streeter Dr & Grand Ave,Leavitt St & Addison St,2,41.8923,-87.612,41.947,-87.6834
+18,Streeter Dr & Grand Ave,Clark St & Wrightwood Ave,2,41.8923,-87.612,41.9295,-87.6431
+18,Streeter Dr & Grand Ave,Michigan Ave & Jackson Blvd,2,41.8923,-87.612,41.8778,-87.6241
+18,Streeter Dr & Grand Ave,Clark St & North Ave,2,41.8923,-87.612,41.912,-87.6319
+18,Streeter Dr & Grand Ave,State St & Randolph St,2,41.8923,-87.612,41.8847,-87.6277
+18,Streeter Dr & Grand Ave,Hampden Ct & Diversey Pkwy,2,41.8923,-87.612,41.9326,-87.6424
+18,Sheffield Ave & Addison St,Greenview Ave & Fullerton Ave,2,41.947,-87.6542,41.9253,-87.6658
+18,Indiana Ave & Roosevelt Rd,Museum of Science and Industry,2,41.8679,-87.623,41.7917,-87.5839
+18,Indiana Ave & Roosevelt Rd,Streeter Dr & Grand Ave,2,41.8679,-87.623,41.8923,-87.612
+18,Indiana Ave & Roosevelt Rd,McCormick Place,2,41.8679,-87.623,41.8514,-87.6188
+18,Indiana Ave & Roosevelt Rd,State St & 29th St,2,41.8679,-87.623,41.8417,-87.6269
+18,Halsted St & Willow St,Lincoln Ave & Leavitt St,2,41.9138,-87.6488,41.9624,-87.6841
+18,Halsted St & Willow St,Stave St & Armitage Ave,2,41.9138,-87.6488,41.9177,-87.6914
+18,Morgan St & Lake St,Wood St & Grand Ave,2,41.8855,-87.6523,41.8911,-87.672
+18,Franklin St & Jackson Blvd,Wabash Ave & Wacker Pl,2,41.8777,-87.6353,41.8869,-87.626
+18,Sheffield Ave & Wellington Ave,Broadway & Belmont Ave,2,41.9363,-87.6527,41.9401,-87.6455
+18,Wilton Ave & Diversey Pkwy,Campbell Ave & North Ave,2,41.9324,-87.6527,41.9105,-87.6896
+18,Sheffield Ave & Fullerton Ave,Sheffield Ave & Wrightwood Ave,2,41.9256,-87.6537,41.9287,-87.6538
+18,Lake Park Ave & 47th St,Streeter Dr & Grand Ave,2,41.8094,-87.5919,41.8923,-87.612
+18,McCormick Place,Field Museum,2,41.8514,-87.6188,41.8653,-87.6179
+18,Desplaines St & Randolph St,Franklin St & Chicago Ave,2,41.8846,-87.6446,41.8968,-87.6356
+18,Lincoln Ave & Belle Plaine Ave,Streeter Dr & Grand Ave,2,41.9559,-87.6793,41.8923,-87.612
+18,Adler Planetarium,Dusable Harbor,2,41.8661,-87.6073,41.885,-87.6128
+18,Clark St & North Ave,Clark St & Chicago Ave,2,41.912,-87.6319,41.8965,-87.6309
+18,Clark St & North Ave,Halsted St & Roscoe St,2,41.912,-87.6319,41.9437,-87.6489
+18,Clark St & North Ave,Michigan Ave & Oak St,2,41.912,-87.6319,41.901,-87.6238
+18,Clark St & North Ave,Stockton Dr & Wrightwood Ave,2,41.912,-87.6319,41.9313,-87.6387
+18,Clark St & North Ave,Indiana Ave & Roosevelt Rd,2,41.912,-87.6319,41.8679,-87.623
+18,Lincoln Ave & Roscoe St,Wilton Ave & Belmont Ave,2,41.9433,-87.671,41.9402,-87.653
+18,Southport Ave & Waveland Ave,Wilton Ave & Belmont Ave,2,41.9482,-87.6639,41.9402,-87.653
+18,Southport Ave & Waveland Ave,Lincoln Ave & Roscoe St,2,41.9482,-87.6639,41.9433,-87.671
+18,Halsted St & Dickens Ave,Stave St & Armitage Ave,2,41.9199,-87.6488,41.9177,-87.6914
+18,Damen Ave & Division St,Aberdeen St & Jackson Blvd,2,41.9033,-87.6769,41.8777,-87.6548
+18,Damen Ave & Cortland St,Milwaukee Ave & Wabansia Ave,2,41.916,-87.6774,41.9126,-87.6814
+18,Sheffield Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,2,41.9287,-87.6538,41.9256,-87.6537
+19,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,12,41.9117,-87.6268,41.8923,-87.612
+19,Theater on the Lake,Lake Shore Dr & North Blvd,6,41.9263,-87.6308,41.9117,-87.6268
+19,Shedd Aquarium,Lake Shore Dr & Monroe St,5,41.8672,-87.6154,41.881,-87.6167
+19,Shedd Aquarium,Streeter Dr & Grand Ave,5,41.8672,-87.6154,41.8923,-87.612
+19,Dusable Harbor,Indiana Ave & Roosevelt Rd,5,41.885,-87.6128,41.8679,-87.623
+19,Streeter Dr & Grand Ave,Millennium Park,5,41.8923,-87.612,41.881,-87.6241
+19,Lake Shore Dr & Monroe St,Shedd Aquarium,4,41.881,-87.6167,41.8672,-87.6154
+19,Lake Shore Dr & Monroe St,Michigan Ave & Oak St,4,41.881,-87.6167,41.901,-87.6238
+19,McClurg Ct & Illinois St,Millennium Park,4,41.891,-87.6173,41.881,-87.6241
+19,Humboldt Blvd & Armitage Ave,Kedzie Ave & Milwaukee Ave,4,41.9175,-87.7018,41.9296,-87.7079
+19,Broadway & Sheridan Rd,Sheridan Rd & Irving Park Rd,4,41.9528,-87.65,41.9542,-87.6544
+19,Streeter Dr & Grand Ave,Shedd Aquarium,4,41.8923,-87.612,41.8672,-87.6154
+19,Streeter Dr & Grand Ave,Dusable Harbor,4,41.8923,-87.612,41.885,-87.6128
+19,Burnham Harbor,Shedd Aquarium,4,41.8563,-87.6133,41.8672,-87.6154
+19,Halsted St & Dickens Ave,Clark St & Armitage Ave,4,41.9199,-87.6488,41.9183,-87.6363
+19,Shedd Aquarium,Field Blvd & South Water St,3,41.8672,-87.6154,41.8863,-87.6175
+19,Millennium Park,Shedd Aquarium,3,41.881,-87.6241,41.8672,-87.6154
+19,Millennium Park,Indiana Ave & Roosevelt Rd,3,41.881,-87.6241,41.8679,-87.623
+19,Glenwood Ave & Morse Ave,Sheridan Rd & Loyola Ave,3,42.008,-87.6655,42.001,-87.6612
+19,Dusable Harbor,Field Museum,3,41.885,-87.6128,41.8653,-87.6179
+19,Michigan Ave & Pearson St,Sedgwick St & Huron St,3,41.8977,-87.6235,41.8947,-87.6384
+19,Benson Ave & Church St,Central St Metra,3,42.0482,-87.6835,42.0636,-87.6987
+19,Lake Shore Dr & Belmont Ave,Lake Shore Dr & North Blvd,3,41.9408,-87.6392,41.9117,-87.6268
+19,LaSalle St & Adams St,Dusable Harbor,3,41.8793,-87.632,41.885,-87.6128
+19,Dearborn St & Monroe St,Federal St & Polk St,3,41.8813,-87.6295,41.8721,-87.6295
+19,Humboldt Blvd & Armitage Ave,Richmond St & Diversey Ave,3,41.9175,-87.7018,41.9319,-87.7012
+19,Michigan Ave & Oak St,Theater on the Lake,3,41.901,-87.6238,41.9263,-87.6308
+19,Broadway & Belmont Ave,Millennium Park,3,41.9401,-87.6455,41.881,-87.6241
+19,Streeter Dr & Grand Ave,Michigan Ave & Washington St,3,41.8923,-87.612,41.8839,-87.6246
+19,Streeter Dr & Grand Ave,Michigan Ave & Madison St,3,41.8923,-87.612,41.8821,-87.6251
+19,Streeter Dr & Grand Ave,Lake Shore Dr & Belmont Ave,3,41.8923,-87.612,41.9408,-87.6392
+19,Marine Dr & Ainslie St,Lake Shore Dr & Belmont Ave,3,41.9716,-87.6502,41.9408,-87.6392
+19,Lincoln Ave & Belmont Ave,Clark St & Armitage Ave,3,41.9394,-87.6684,41.9183,-87.6363
+19,Financial Pl & Congress Pkwy,Millennium Park,2,41.875,-87.6331,41.881,-87.6241
+19,Shedd Aquarium,Indiana Ave & Roosevelt Rd,2,41.8672,-87.6154,41.8679,-87.623
+19,Wabash Ave & Roosevelt Rd,May St & Taylor St,2,41.8672,-87.626,41.8695,-87.6555
+19,Clark St & Chicago Ave,State St & Randolph St,2,41.8965,-87.6309,41.8847,-87.6277
+19,Lake Shore Dr & Ohio St,Cannon Dr & Fullerton Ave,2,41.8926,-87.6145,41.9268,-87.6344
+19,Lake Shore Dr & Ohio St,Field Museum,2,41.8926,-87.6145,41.8653,-87.6179
+19,Desplaines St & Kinzie St,Damen Ave & Division St,2,41.8887,-87.6444,41.9033,-87.6769
+19,Federal St & Polk St,Shedd Aquarium,2,41.8721,-87.6295,41.8672,-87.6154
+19,Cannon Dr & Fullerton Ave,Lakeview Ave & Fullerton Pkwy,2,41.9268,-87.6344,41.9259,-87.639
+19,Wabash Ave & 16th St,Indiana Ave & Roosevelt Rd,2,41.8604,-87.6258,41.8679,-87.623
+19,Green St & Madison St,Western Ave & Walton St,2,41.8819,-87.6488,41.8984,-87.6866
+19,State St & Harrison St,Burnham Harbor,2,41.8741,-87.6277,41.8563,-87.6133
+19,Pine Grove Ave & Waveland Ave,Sedgwick St & Webster Ave,2,41.9493,-87.6463,41.9222,-87.6389
+19,Lake Shore Dr & Diversey Pkwy,Clifton Ave & Lawrence Ave,2,41.9327,-87.6363,41.9689,-87.6589
+19,Southport Ave & Wrightwood Ave,Southport Ave & Clybourn Ave,2,41.9288,-87.6639,41.9208,-87.6637
+19,Morgan Ave & 14th Pl,Michigan Ave & 18th St,2,41.8624,-87.6511,41.8578,-87.6245
+19,Wabash Ave & Grand Ave,Millennium Park,2,41.8917,-87.6269,41.881,-87.6241
+19,Wabash Ave & Grand Ave,Dearborn St & Adams St,2,41.8917,-87.6269,41.8794,-87.6298
+19,Wabash Ave & Grand Ave,Franklin St & Jackson Blvd,2,41.8917,-87.6269,41.8777,-87.6353
+19,Sheridan Rd & Irving Park Rd,Cannon Dr & Fullerton Ave,2,41.9542,-87.6544,41.9268,-87.6344
+19,Lakeview Ave & Fullerton Pkwy,Michigan Ave & Oak St,2,41.9259,-87.639,41.901,-87.6238
+19,Lincoln Ave & Fullerton Ave,Lincoln Ave & Waveland Ave,2,41.9259,-87.6493,41.9491,-87.6751
+19,Loomis St & Lexington St,Ada St & Washington Blvd,2,41.8722,-87.6615,41.8828,-87.6612
+19,Montrose Harbor,Pine Grove Ave & Irving Park Rd,2,41.964,-87.6382,41.9544,-87.648
+19,Millennium Park,Lake Shore Dr & Monroe St,2,41.881,-87.6241,41.881,-87.6167
+19,Millennium Park,Lake Park Ave & 56th St,2,41.881,-87.6241,41.7932,-87.5878
+19,Millennium Park,Larrabee St & Oak St,2,41.881,-87.6241,41.9002,-87.643
+19,Lake Shore Dr & Monroe St,Calumet Ave & 18th St,2,41.881,-87.6167,41.8576,-87.6194
+19,Lake Shore Dr & Monroe St,Indiana Ave & Roosevelt Rd,2,41.881,-87.6167,41.8679,-87.623
+19,Clifton Ave & Lawrence Ave,Broadway & Argyle St,2,41.9689,-87.6589,41.973,-87.6596
+19,Southport Ave & Wellington Ave,Field Blvd & South Water St,2,41.9357,-87.6636,41.8863,-87.6175
+19,University Library (NU),Benson Ave & Church St,2,42.0529,-87.6734,42.0482,-87.6835
+19,Blue Island Ave & 18th St,Damen Ave & Cullerton St,2,41.8576,-87.6615,41.855,-87.6757
+19,Ogden Ave & Race Ave,Wood St & Milwaukee Ave,2,41.8918,-87.6588,41.9077,-87.6726
+19,Michigan Ave & Congress Pkwy,Wells St & Polk St,2,41.8762,-87.6244,41.8724,-87.6335
+19,Michigan Ave & Congress Pkwy,Streeter Dr & Grand Ave,2,41.8762,-87.6244,41.8923,-87.612
+19,Canal St & Madison St,St. Clair St & Erie St,2,41.8821,-87.6398,41.8944,-87.6227
+19,Rush St & Superior St,Shedd Aquarium,2,41.8958,-87.6259,41.8672,-87.6154
+19,Damen Ave & Chicago Ave,Leavitt St & North Ave,2,41.8958,-87.6772,41.9102,-87.6823
+19,Damen Ave & Chicago Ave,Field Museum,2,41.8958,-87.6772,41.8653,-87.6179
+19,Fairbanks Ct & Grand Ave,State St & Kinzie St,2,41.8919,-87.6206,41.8892,-87.6277
+19,Clybourn Ave & Division St,Sheffield Ave & Willow St,2,41.9046,-87.6405,41.9137,-87.6529
+19,Sedgwick St & Webster Ave,Sheffield Ave & Fullerton Ave,2,41.9222,-87.6389,41.9256,-87.6537
+19,Wells St & Polk St,Michigan Ave & Congress Pkwy,2,41.8724,-87.6335,41.8762,-87.6244
+19,Clark St & Armitage Ave,Lake Shore Dr & Diversey Pkwy,2,41.9183,-87.6363,41.9327,-87.6363
+19,Clark St & Armitage Ave,Clark St & Elm St,2,41.9183,-87.6363,41.903,-87.6313
+19,Halsted St & Roscoe St,Stockton Dr & Wrightwood Ave,2,41.9437,-87.6489,41.9313,-87.6387
+19,Benson Ave & Church St,Valli Produce - Evanston Plaza,2,42.0482,-87.6835,42.0397,-87.6994
+19,Rush St & Hubbard St,Shedd Aquarium,2,41.89,-87.6263,41.8672,-87.6154
+19,Clinton St & Madison St,Clinton St & Lake St,2,41.8822,-87.6411,41.8856,-87.6418
+19,McClurg Ct & Illinois St,Shedd Aquarium,2,41.891,-87.6173,41.8672,-87.6154
+19,Union Ave & Grand Ave,Morgan St & Lake St,2,41.891,-87.6459,41.8855,-87.6523
+19,Michigan Ave & 18th St,State St & Van Buren St,2,41.8578,-87.6245,41.8772,-87.6278
+19,Daley Center Plaza,Wabash Ave & Grand Ave,2,41.8842,-87.6296,41.8917,-87.6269
+19,Dearborn St & Monroe St,Canal St & Madison St,2,41.8813,-87.6295,41.8821,-87.6398
+19,Dearborn St & Monroe St,Michigan Ave & 18th St,2,41.8813,-87.6295,41.8578,-87.6245
+19,Dearborn St & Monroe St,Cityfront Plaza Dr & Pioneer Ct,2,41.8813,-87.6295,41.8906,-87.6221
+19,Dearborn St & Erie St,Michigan Ave & Madison St,2,41.894,-87.6293,41.8821,-87.6251
+19,Wells St & Evergreen Ave,LaSalle St & Washington St,2,41.9067,-87.6348,41.8827,-87.6325
+19,Sawyer Ave & Irving Park Rd,Troy St & Elston Ave,2,41.9536,-87.7093,41.9452,-87.7066
+19,Orleans St & Merchandise Mart Plaza,Halsted St & Blackhawk St (*),2,41.8882,-87.6364,41.9085,-87.6486
+19,Theater on the Lake,McClurg Ct & Illinois St,2,41.9263,-87.6308,41.891,-87.6173
+19,Theater on the Lake,Streeter Dr & Grand Ave,2,41.9263,-87.6308,41.8923,-87.612
+19,Theater on the Lake,Wilton Ave & Diversey Pkwy,2,41.9263,-87.6308,41.9324,-87.6527
+19,State St & Kinzie St,Kingsbury St & Kinzie St,2,41.8892,-87.6277,41.8892,-87.6385
+19,Field Blvd & South Water St,Lake Shore Dr & Monroe St,2,41.8863,-87.6175,41.881,-87.6167
+19,Lake Shore Dr & North Blvd,LaSalle St & Illinois St,2,41.9117,-87.6268,41.8908,-87.6321
+19,Damen Ave & Grand Ave,Ashland Ave & Division St,2,41.8912,-87.6769,41.9035,-87.6677
+19,Sheridan Rd & Noyes St (NU),University Library (NU),2,42.0582,-87.6774,42.0529,-87.6734
+19,Sheffield Ave & Webster Ave,Sheffield Ave & Willow St,2,41.9215,-87.6538,41.9137,-87.6529
+19,Michigan Ave & Oak St,Dusable Harbor,2,41.901,-87.6238,41.885,-87.6128
+19,Michigan Ave & Oak St,Lake Shore Dr & North Blvd,2,41.901,-87.6238,41.9117,-87.6268
+19,Sheffield Ave & Willow St,Southport Ave & Clybourn Ave,2,41.9137,-87.6529,41.9208,-87.6637
+19,Sheffield Ave & Willow St,Lincoln Ave & Roscoe St,2,41.9137,-87.6529,41.9433,-87.671
+19,Broadway & Sheridan Rd,Wells St & Concord Ln,2,41.9528,-87.65,41.9121,-87.6347
+19,California Ave & Division St,California Ave & Milwaukee Ave,2,41.903,-87.6975,41.9227,-87.6972
+19,Broadway & Wilson Ave,Montrose Harbor,2,41.9655,-87.6572,41.964,-87.6382
+19,Clark St & Lincoln Ave,Lake Shore Dr & Monroe St,2,41.9157,-87.6346,41.881,-87.6167
+19,Streeter Dr & Grand Ave,Broadway & Cornelia Ave,2,41.8923,-87.612,41.9455,-87.646
+19,Streeter Dr & Grand Ave,Michigan Ave & Lake St,2,41.8923,-87.612,41.886,-87.6241
+19,Streeter Dr & Grand Ave,Franklin St & Jackson Blvd,2,41.8923,-87.612,41.8777,-87.6353
+19,Streeter Dr & Grand Ave,Sheffield Ave & Wellington Ave,2,41.8923,-87.612,41.9363,-87.6527
+19,Streeter Dr & Grand Ave,Elston Ave & Wabansia Ave,2,41.8923,-87.612,41.9129,-87.6642
+19,Streeter Dr & Grand Ave,Adler Planetarium,2,41.8923,-87.612,41.8661,-87.6073
+19,Streeter Dr & Grand Ave,State St & Pearson St,2,41.8923,-87.612,41.8974,-87.6287
+19,Streeter Dr & Grand Ave,Cityfront Plaza Dr & Pioneer Ct,2,41.8923,-87.612,41.8906,-87.6221
+19,Fort Dearborn Dr & 31st St,Field Museum,2,41.8386,-87.6082,41.8653,-87.6179
+19,Stave St & Armitage Ave,Marshfield Ave & Cortland St,2,41.9177,-87.6914,41.916,-87.6689
+19,Franklin St & Jackson Blvd,St. Clair St & Erie St,2,41.8777,-87.6353,41.8944,-87.6227
+19,Wilton Ave & Belmont Ave,Theater on the Lake,2,41.9402,-87.653,41.9263,-87.6308
+19,Sheridan Rd & Montrose Ave,Cannon Dr & Fullerton Ave,2,41.9617,-87.6546,41.9268,-87.6344
+19,Clark St & Wrightwood Ave,Sheffield Ave & Addison St,2,41.9295,-87.6431,41.947,-87.6542
+19,Sheffield Ave & Fullerton Ave,Leavitt St & North Ave,2,41.9256,-87.6537,41.9102,-87.6823
+19,Leavitt St & Armitage Ave,Daley Center Plaza,2,41.9178,-87.6824,41.8842,-87.6296
+19,McCormick Place,Field Museum,2,41.8514,-87.6188,41.8653,-87.6179
+19,Clark St & Randolph St,May St & Taylor St,2,41.8846,-87.6319,41.8695,-87.6555
+19,Lincoln Ave & Belle Plaine Ave,Wells St & Concord Ln,2,41.9559,-87.6793,41.9121,-87.6347
+19,California Ave & Milwaukee Ave,Milwaukee Ave & Rockwell St,2,41.9227,-87.6972,41.9202,-87.693
+19,Burnham Harbor,State St & Harrison St,2,41.8563,-87.6133,41.8741,-87.6277
+19,Michigan Ave & Jackson Blvd,Streeter Dr & Grand Ave,2,41.8778,-87.6241,41.8923,-87.612
+19,Peoria St & Jackson Blvd,Burnham Harbor,2,41.8778,-87.6496,41.8563,-87.6133
+19,Broadway & Berwyn Ave,Clark St & Berwyn Ave,2,41.9784,-87.6598,41.978,-87.668
+19,LaSalle St & Washington St,Wabash Ave & Wacker Pl,2,41.8827,-87.6325,41.8869,-87.626
+19,Green St & Randolph St,Morgan Ave & 14th Pl,2,41.8837,-87.6487,41.8624,-87.6511
+19,Green St & Randolph St,Clark St & Lincoln Ave,2,41.8837,-87.6487,41.9157,-87.6346
+19,Columbus Dr & Randolph St,Lake Shore Dr & Monroe St,2,41.8847,-87.6195,41.881,-87.6167
+19,Columbus Dr & Randolph St,Indiana Ave & Roosevelt Rd,2,41.8847,-87.6195,41.8679,-87.623
+19,State St & Randolph St,Franklin St & Quincy St,2,41.8847,-87.6277,41.8787,-87.6348
+19,State St & 35th St,Fort Dearborn Dr & 31st St,2,41.831,-87.6269,41.8386,-87.6082
+19,Lincoln Ave & Belmont Ave,Stockton Dr & Wrightwood Ave,2,41.9394,-87.6684,41.9313,-87.6387
+19,Rush St & Cedar St,Greenview Ave & Fullerton Ave,2,41.9023,-87.6277,41.9253,-87.6658
+19,Southport Ave & Waveland Ave,Wells St & Huron St,2,41.9482,-87.6639,41.8947,-87.6338
+19,Southport Ave & Waveland Ave,Clarendon Ave & Gordon Ter,2,41.9482,-87.6639,41.9579,-87.6495
+19,McClurg Ct & Erie St,Dearborn St & Erie St,2,41.8945,-87.6179,41.894,-87.6293
+19,McClurg Ct & Erie St,Lake Shore Dr & North Blvd,2,41.8945,-87.6179,41.9117,-87.6268
+19,Cityfront Plaza Dr & Pioneer Ct,Wabash Ave & Roosevelt Rd,2,41.8906,-87.6221,41.8672,-87.626
+19,Damen Ave & Cortland St,California Ave & Francis Pl,2,41.916,-87.6774,41.9181,-87.697
+20,Millennium Park,State St & Kinzie St,5,41.881,-87.6241,41.8892,-87.6277
+20,Halsted St & Roscoe St,Broadway & Berwyn Ave,5,41.9437,-87.6489,41.9784,-87.6598
+20,Broadway & Berwyn Ave,Broadway & Granville Ave,5,41.9784,-87.6598,41.9948,-87.6603
+20,Shedd Aquarium,Michigan Ave & Congress Pkwy,4,41.8672,-87.6154,41.8762,-87.6244
+20,Shedd Aquarium,Indiana Ave & Roosevelt Rd,4,41.8672,-87.6154,41.8679,-87.623
+20,Montrose Harbor,Broadway & Wilson Ave,4,41.964,-87.6382,41.9655,-87.6572
+20,McClurg Ct & Illinois St,Michigan Ave & Congress Pkwy,4,41.891,-87.6173,41.8762,-87.6244
+20,Michigan Ave & Oak St,Dusable Harbor,4,41.901,-87.6238,41.885,-87.6128
+20,Michigan Ave & Oak St,McClurg Ct & Illinois St,4,41.901,-87.6238,41.891,-87.6173
+20,St. Clair St & Erie St,Michigan Ave & Lake St,4,41.8944,-87.6227,41.886,-87.6241
+20,Wabash Ave & Roosevelt Rd,Field Museum,3,41.8672,-87.626,41.8653,-87.6179
+20,Cannon Dr & Fullerton Ave,Wilton Ave & Diversey Pkwy,3,41.9268,-87.6344,41.9324,-87.6527
+20,Lake Shore Dr & Wellington Ave,Theater on the Lake,3,41.9367,-87.6368,41.9263,-87.6308
+20,Michigan Ave & Madison St,Wabash Ave & Grand Ave,3,41.8821,-87.6251,41.8917,-87.6269
+20,Michigan Ave & Madison St,Michigan Ave & Lake St,3,41.8821,-87.6251,41.886,-87.6241
+20,Halsted St & Roscoe St,Broadway & Waveland Ave,3,41.9437,-87.6489,41.9491,-87.6486
+20,Theater on the Lake,Lake Shore Dr & North Blvd,3,41.9263,-87.6308,41.9117,-87.6268
+20,Lake Shore Dr & North Blvd,Clark St & Armitage Ave,3,41.9117,-87.6268,41.9183,-87.6363
+20,Stockton Dr & Wrightwood Ave,Lake Shore Dr & North Blvd,3,41.9313,-87.6387,41.9117,-87.6268
+20,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,3,41.8923,-87.612,41.881,-87.6167
+20,Streeter Dr & Grand Ave,Theater on the Lake,3,41.8923,-87.612,41.9263,-87.6308
+20,Broadway & Waveland Ave,Theater on the Lake,3,41.9491,-87.6486,41.9263,-87.6308
+20,Columbus Dr & Randolph St,State St & Randolph St,3,41.8847,-87.6195,41.8847,-87.6277
+20,Shedd Aquarium,Millennium Park,2,41.8672,-87.6154,41.881,-87.6241
+20,Lake Shore Dr & Ohio St,Lake Shore Dr & North Blvd,2,41.8926,-87.6145,41.9117,-87.6268
+20,Lake Shore Dr & Ohio St,Michigan Ave & Oak St,2,41.8926,-87.6145,41.901,-87.6238
+20,Desplaines St & Kinzie St,Clark St & 9th St (AMLI),2,41.8887,-87.6444,41.8708,-87.6312
+20,Federal St & Polk St,State St & Van Buren St,2,41.8721,-87.6295,41.8772,-87.6278
+20,Federal St & Polk St,May St & Cullerton St,2,41.8721,-87.6295,41.8551,-87.6541
+20,Cannon Dr & Fullerton Ave,Lake Shore Dr & Belmont Ave,2,41.9268,-87.6344,41.9408,-87.6392
+20,Cannon Dr & Fullerton Ave,Theater on the Lake,2,41.9268,-87.6344,41.9263,-87.6308
+20,Southport Ave & Belmont Ave,Clark St & Berwyn Ave,2,41.9395,-87.6638,41.978,-87.668
+20,Green St & Madison St,Blue Island Ave & 18th St,2,41.8819,-87.6488,41.8576,-87.6615
+20,Green St & Madison St,Halsted St & Blackhawk St (*),2,41.8819,-87.6488,41.9085,-87.6486
+20,Halsted St & 18th St,Halsted St & Maxwell St,2,41.8575,-87.6463,41.8649,-87.6471
+20,State St & Harrison St,Clark St & Elm St,2,41.8741,-87.6277,41.903,-87.6313
+20,State St & Harrison St,Indiana Ave & Roosevelt Rd,2,41.8741,-87.6277,41.8679,-87.623
+20,Southport Ave & Irving Park Rd,Sheridan Rd & Irving Park Rd,2,41.9542,-87.6644,41.9542,-87.6544
+20,Michigan Ave & Washington St,Wabash Ave & Wacker Pl,2,41.8839,-87.6246,41.8869,-87.626
+20,Millennium Park,Wabash Ave & 16th St,2,41.881,-87.6241,41.8604,-87.6258
+20,Millennium Park,Field Museum,2,41.881,-87.6241,41.8653,-87.6179
+20,Millennium Park,Theater on the Lake,2,41.881,-87.6241,41.9263,-87.6308
+20,Lake Shore Dr & Monroe St,Shedd Aquarium,2,41.881,-87.6167,41.8672,-87.6154
+20,Lake Shore Dr & Monroe St,Michigan Ave & Oak St,2,41.881,-87.6167,41.901,-87.6238
+20,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,2,41.881,-87.6167,41.8923,-87.612
+20,Lake Shore Dr & Monroe St,Michigan Ave & Jackson Blvd,2,41.881,-87.6167,41.8778,-87.6241
+20,Paulina Ave & North Ave,Clifton Ave & Armitage Ave,2,41.9103,-87.6701,41.9182,-87.6569
+20,Mies van der Rohe Way & Chestnut St,Streeter Dr & Grand Ave,2,41.8986,-87.6219,41.8923,-87.612
+20,Calumet Ave & 18th St,Shedd Aquarium,2,41.8576,-87.6194,41.8672,-87.6154
+20,Calumet Ave & 18th St,State St & 19th St,2,41.8576,-87.6194,41.8566,-87.6275
+20,Ashland Ave & Division St,Sheffield Ave & Kingsbury St,2,41.9035,-87.6677,41.9105,-87.6531
+20,Wabash Ave & Wacker Pl,State St & Harrison St,2,41.8869,-87.626,41.8741,-87.6277
+20,Wabash Ave & Wacker Pl,Lake Shore Dr & Monroe St,2,41.8869,-87.626,41.881,-87.6167
+20,Sangamon St & Washington Blvd (*),Wells St & Concord Ln,2,41.883,-87.6511,41.9121,-87.6347
+20,Ashland Ave & Augusta Blvd,Mies van der Rohe Way & Chicago Ave,2,41.8996,-87.6677,41.8969,-87.6217
+20,Broadway & Cornelia Ave,Pine Grove Ave & Irving Park Rd,2,41.9455,-87.646,41.9544,-87.648
+20,Ogden Ave & Race Ave,Artesian Ave & Hubbard St,2,41.8918,-87.6588,41.8895,-87.6882
+20,Damen Ave & Pierce Ave,Michigan Ave & Washington St,2,41.9094,-87.6777,41.8839,-87.6246
+20,Damen Ave & Pierce Ave,Noble St & Milwaukee Ave,2,41.9094,-87.6777,41.9007,-87.6626
+20,Michigan Ave & Congress Pkwy,Columbus Dr & Randolph St,2,41.8762,-87.6244,41.8847,-87.6195
+20,Dusable Harbor,Michigan Ave & Congress Pkwy,2,41.885,-87.6128,41.8762,-87.6244
+20,Racine Ave & Belmont Ave,Lake Shore Dr & North Blvd,2,41.9397,-87.6589,41.9117,-87.6268
+20,Michigan Ave & Lake St,St. Clair St & Erie St,2,41.886,-87.6241,41.8944,-87.6227
+20,Damen Ave & Augusta Blvd,Ashland Ave & Augusta Blvd,2,41.8997,-87.6772,41.8996,-87.6677
+20,Rush St & Superior St,Orleans St & Ohio St,2,41.8958,-87.6259,41.8922,-87.6369
+20,Clark St & Armitage Ave,McClurg Ct & Erie St,2,41.9183,-87.6363,41.8945,-87.6179
+20,Halsted St & Roscoe St,Halsted St & Dickens Ave,2,41.9437,-87.6489,41.9199,-87.6488
+20,Southport Ave & Roscoe St,Lake Shore Dr & Belmont Ave,2,41.9437,-87.664,41.9408,-87.6392
+20,Campbell Ave & North Ave,Wilton Ave & Diversey Pkwy,2,41.9105,-87.6896,41.9324,-87.6527
+20,Ellis Ave & 55th St,Lake Park Ave & 56th St,2,41.7943,-87.6014,41.7932,-87.5878
+20,Clinton St & Madison St,Shedd Aquarium,2,41.8822,-87.6411,41.8672,-87.6154
+20,McClurg Ct & Illinois St,Canal St & Madison St,2,41.891,-87.6173,41.8821,-87.6398
+20,McClurg Ct & Illinois St,Theater on the Lake,2,41.891,-87.6173,41.9263,-87.6308
+20,Dearborn St & Monroe St,LaSalle St & Illinois St,2,41.8813,-87.6295,41.8908,-87.6321
+20,Wells St & Evergreen Ave,LaSalle St & Illinois St,2,41.9067,-87.6348,41.8908,-87.6321
+20,Paulina St & 18th St,Racine Ave & 18th St,2,41.8579,-87.6687,41.8582,-87.6565
+20,Lincoln Ave & Leavitt St,Ashland Ave & Belle Plaine Ave,2,41.9624,-87.6841,41.9561,-87.6689
+20,Dearborn St & Adams St,Adler Planetarium,2,41.8794,-87.6298,41.8661,-87.6073
+20,Theater on the Lake,Clarendon Ave & Junior Ter,2,41.9263,-87.6308,41.961,-87.6496
+20,Theater on the Lake,Pine Grove Ave & Waveland Ave,2,41.9263,-87.6308,41.9493,-87.6463
+20,Sheffield Ave & Webster Ave,Larrabee St & Webster Ave,2,41.9215,-87.6538,41.9218,-87.6441
+20,Michigan Ave & Oak St,Lake Shore Dr & Ohio St,2,41.901,-87.6238,41.8926,-87.6145
+20,Michigan Ave & Oak St,Wabash Ave & Grand Ave,2,41.901,-87.6238,41.8917,-87.6269
+20,Michigan Ave & Oak St,Millennium Park,2,41.901,-87.6238,41.881,-87.6241
+20,Michigan Ave & Oak St,Rush St & Hubbard St,2,41.901,-87.6238,41.89,-87.6263
+20,Clark St & Elm St,Lakeview Ave & Fullerton Pkwy,2,41.903,-87.6313,41.9259,-87.639
+20,Clark St & Lincoln Ave,Sheffield Ave & Wrightwood Ave,2,41.9157,-87.6346,41.9287,-87.6538
+20,Streeter Dr & Grand Ave,Shedd Aquarium,2,41.8923,-87.612,41.8672,-87.6154
+20,Streeter Dr & Grand Ave,Field Museum,2,41.8923,-87.612,41.8653,-87.6179
+20,Streeter Dr & Grand Ave,Michigan Ave & Congress Pkwy,2,41.8923,-87.612,41.8762,-87.6244
+20,Streeter Dr & Grand Ave,Michigan Ave & Oak St,2,41.8923,-87.612,41.901,-87.6238
+20,Stave St & Armitage Ave,Campbell Ave & North Ave,2,41.9177,-87.6914,41.9105,-87.6896
+20,Stave St & Armitage Ave,Bissell St & Armitage Ave,2,41.9177,-87.6914,41.9184,-87.6522
+20,Stave St & Armitage Ave,Lincoln Ave & Diversey Pkwy,2,41.9177,-87.6914,41.9322,-87.6586
+20,Indiana Ave & Roosevelt Rd,Field Museum,2,41.8679,-87.623,41.8653,-87.6179
+20,Indiana Ave & Roosevelt Rd,Wentworth Ave & Archer Ave,2,41.8679,-87.623,41.8536,-87.6319
+20,Indiana Ave & Roosevelt Rd,Lake Shore Dr & Monroe St,2,41.8679,-87.623,41.881,-87.6167
+20,Indiana Ave & Roosevelt Rd,Burnham Harbor,2,41.8679,-87.623,41.8563,-87.6133
+20,Wilton Ave & Diversey Pkwy,Marine Dr & Ainslie St,2,41.9324,-87.6527,41.9716,-87.6502
+20,Loomis St & Archer Ave,Calumet Ave & 18th St,2,41.8416,-87.6574,41.8576,-87.6194
+20,Racine Ave & Fullerton Ave,Halsted St & Dickens Ave,2,41.9256,-87.6584,41.9199,-87.6488
+20,McCormick Place,Michigan Ave & Congress Pkwy,2,41.8514,-87.6188,41.8762,-87.6244
+20,Burnham Harbor,Lake Shore Dr & Monroe St,2,41.8563,-87.6133,41.881,-87.6167
+20,Michigan Ave & Jackson Blvd,Millennium Park,2,41.8778,-87.6241,41.881,-87.6241
+20,Ashland Ave & Blackhawk St,Eckhart Park,2,41.9071,-87.6673,41.8964,-87.661
+20,Adler Planetarium,Lake Shore Dr & Monroe St,2,41.8661,-87.6073,41.881,-87.6167
+20,Kedzie Ave & Milwaukee Ave,Spaulding Ave & Armitage Ave,2,41.9296,-87.7079,41.9172,-87.7104
+20,Eckhart Park,Morgan St & Lake St,2,41.8964,-87.661,41.8855,-87.6523
+20,Lincoln Ave & Roscoe St,Francisco Ave & Foster Ave,2,41.9433,-87.671,41.9756,-87.7014
+20,Western Ave & Walton St,Damen Ave & Chicago Ave,2,41.8984,-87.6866,41.8958,-87.6772
+20,Racine Ave & 15th St,Sangamon St & Washington Blvd (*),2,41.8613,-87.6566,41.883,-87.6511
+20,Cityfront Plaza Dr & Pioneer Ct,Streeter Dr & Grand Ave,2,41.8906,-87.6221,41.8923,-87.612
+20,Marshfield Ave & Cortland St,Theater on the Lake,2,41.916,-87.6689,41.9263,-87.6308
+20,Marshfield Ave & Cortland St,Larrabee St & Webster Ave,2,41.916,-87.6689,41.9218,-87.6441
+20,Ada St & Washington Blvd,Green St & Randolph St,2,41.8828,-87.6612,41.8837,-87.6487
+20,Wells St & Concord Ln,State St & Kinzie St,2,41.9121,-87.6347,41.8892,-87.6277
+21,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,7,41.8923,-87.612,41.881,-87.6167
+21,Orleans St & Ohio St,Jefferson St & Monroe St,5,41.8922,-87.6369,41.8804,-87.6427
+21,Michigan Ave & Congress Pkwy,Wabash Ave & 8th St,4,41.8762,-87.6244,41.872,-87.6261
+21,Streeter Dr & Grand Ave,Franklin St & Monroe St,4,41.8923,-87.612,41.8803,-87.6352
+21,Ada St & Washington Blvd,Humboldt Dr & Luis Munoz Marin Dr,4,41.8828,-87.6612,41.9001,-87.7029
+21,Ashland Ave & Belle Plaine Ave,Clark St & Winnemac Ave,3,41.9561,-87.6689,41.9734,-87.6684
+21,Lake Shore Dr & Monroe St,Lake Shore Dr & North Blvd,3,41.881,-87.6167,41.9117,-87.6268
+21,Dayton St & North Ave,Damen Ave & Pierce Ave,3,41.9106,-87.6494,41.9094,-87.6777
+21,Theater on the Lake,Wells St & Concord Ln,3,41.9263,-87.6308,41.9121,-87.6347
+21,Calumet Ave & 21st St,Halsted St & 21st St,3,41.8542,-87.6192,41.8538,-87.6467
+21,Streeter Dr & Grand Ave,Millennium Park,3,41.8923,-87.612,41.881,-87.6241
+21,Streeter Dr & Grand Ave,Michigan Ave & Congress Pkwy,3,41.8923,-87.612,41.8762,-87.6244
+21,Streeter Dr & Grand Ave,Franklin St & Quincy St,3,41.8923,-87.612,41.8787,-87.6348
+21,Indiana Ave & Roosevelt Rd,Shedd Aquarium,3,41.8679,-87.623,41.8672,-87.6154
+21,Wabash Ave & 8th St,Millennium Park,3,41.872,-87.6261,41.881,-87.6241
+21,Shedd Aquarium,Lake Shore Dr & Monroe St,2,41.8672,-87.6154,41.881,-87.6167
+21,Lake Shore Dr & Ohio St,Fairbanks Ct & Grand Ave,2,41.8926,-87.6145,41.8919,-87.6206
+21,Seeley Ave & Roscoe St,Lincoln Ave & Roscoe St,2,41.9434,-87.6796,41.9433,-87.671
+21,Clarendon Ave & Junior Ter,Theater on the Lake,2,41.961,-87.6496,41.9263,-87.6308
+21,Green St & Madison St,May St & Taylor St,2,41.8819,-87.6488,41.8695,-87.6555
+21,Wabash Ave & Grand Ave,Lake Shore Dr & Ohio St,2,41.8917,-87.6269,41.8926,-87.6145
+21,Wabash Ave & Grand Ave,Michigan Ave & Madison St,2,41.8917,-87.6269,41.8821,-87.6251
+21,Sheridan Rd & Irving Park Rd,Broadway & Granville Ave,2,41.9542,-87.6544,41.9948,-87.6603
+21,Lincoln Ave & Fullerton Ave,State St & Van Buren St,2,41.9259,-87.6493,41.8772,-87.6278
+21,Millennium Park,Wabash Ave & Wacker Pl,2,41.881,-87.6241,41.8869,-87.626
+21,Millennium Park,Clinton St & Madison St,2,41.881,-87.6241,41.8822,-87.6411
+21,Millennium Park,Clark St & Wrightwood Ave,2,41.881,-87.6241,41.9295,-87.6431
+21,Leavitt St & Lawrence Ave,Ravenswood Ave & Lawrence Ave,2,41.9689,-87.684,41.9691,-87.6742
+21,Wells St & Huron St,Clark St & Elm St,2,41.8947,-87.6338,41.903,-87.6313
+21,Sedgwick St & Huron St,Dearborn St & Erie St,2,41.8947,-87.6384,41.894,-87.6293
+21,LaSalle St & Illinois St,Wells St & Walton St,2,41.8908,-87.6321,41.8999,-87.6344
+21,LaSalle St & Illinois St,Damen Ave & Grand Ave,2,41.8908,-87.6321,41.8912,-87.6769
+21,Damen Ave & Pierce Ave,Hampden Ct & Diversey Pkwy,2,41.9094,-87.6777,41.9326,-87.6424
+21,Michigan Ave & Congress Pkwy,Streeter Dr & Grand Ave,2,41.8762,-87.6244,41.8923,-87.612
+21,Michigan Ave & Congress Pkwy,Stave St & Armitage Ave,2,41.8762,-87.6244,41.9177,-87.6914
+21,Dusable Harbor,Shedd Aquarium,2,41.885,-87.6128,41.8672,-87.6154
+21,Dusable Harbor,Indiana Ave & Roosevelt Rd,2,41.885,-87.6128,41.8679,-87.623
+21,Clifton Ave & Armitage Ave,Marshfield Ave & Cortland St,2,41.9182,-87.6569,41.916,-87.6689
+21,State St & Van Buren St,Clark St & 9th St (AMLI),2,41.8772,-87.6278,41.8708,-87.6312
+21,Michigan Ave & Lake St,Columbus Dr & Randolph St,2,41.886,-87.6241,41.8847,-87.6195
+21,Halsted St & Blackhawk St (*),Wells St & Huron St,2,41.9085,-87.6486,41.8947,-87.6338
+21,Noble St & Milwaukee Ave,State St & Kinzie St,2,41.9007,-87.6626,41.8892,-87.6277
+21,Damen Ave & Sunnyside Ave,Broadway & Belmont Ave,2,41.9632,-87.6793,41.9401,-87.6455
+21,Wells St & Polk St,Desplaines St & Jackson Blvd,2,41.8724,-87.6335,41.8783,-87.6439
+21,Halsted St & Roscoe St,Wilton Ave & Belmont Ave,2,41.9437,-87.6489,41.9402,-87.653
+21,Halsted St & Roscoe St,Clark St & Wrightwood Ave,2,41.9437,-87.6489,41.9295,-87.6431
+21,May St & Taylor St,Green St & Randolph St,2,41.8695,-87.6555,41.8837,-87.6487
+21,Canal St & Adams St,Millennium Park,2,41.8793,-87.6399,41.881,-87.6241
+21,Mies van der Rohe Way & Chicago Ave,Ashland Ave & Augusta Blvd,2,41.8969,-87.6217,41.8996,-87.6677
+21,Dearborn St & Erie St,Clark St & Elm St,2,41.894,-87.6293,41.903,-87.6313
+21,Wood St & Milwaukee Ave,Wood St & Grand Ave,2,41.9077,-87.6726,41.8911,-87.672
+21,Wood St & Grand Ave,Wood St & Milwaukee Ave,2,41.8911,-87.672,41.9077,-87.6726
+21,Theater on the Lake,Clarendon Ave & Junior Ter,2,41.9263,-87.6308,41.961,-87.6496
+21,Theater on the Lake,Lincoln Ave & Fullerton Ave,2,41.9263,-87.6308,41.9259,-87.6493
+21,Theater on the Lake,Michigan Ave & Oak St,2,41.9263,-87.6308,41.901,-87.6238
+21,Theater on the Lake,Sheridan Rd & Montrose Ave,2,41.9263,-87.6308,41.9617,-87.6546
+21,Theater on the Lake,Broadway & Waveland Ave,2,41.9263,-87.6308,41.9491,-87.6486
+21,State St & Kinzie St,LaSalle St & Adams St,2,41.8892,-87.6277,41.8793,-87.632
+21,Lake Shore Dr & North Blvd,Lake Shore Dr & Ohio St,2,41.9117,-87.6268,41.8926,-87.6145
+21,Orleans St & Ohio St,Clark St & Schiller St,2,41.8922,-87.6369,41.908,-87.6315
+21,Michigan Ave & Oak St,Theater on the Lake,2,41.901,-87.6238,41.9263,-87.6308
+21,Ashland Ave & Lake St,Wood St & Grand Ave,2,41.8854,-87.6673,41.8911,-87.672
+21,Valli Produce - Evanston Plaza,Benson Ave & Church St,2,42.0397,-87.6994,42.0482,-87.6835
+21,Clark St & Montrose Ave,Southport Ave & Waveland Ave,2,41.9616,-87.666,41.9482,-87.6639
+21,Indiana Ave & Roosevelt Rd,Wabash Ave & 16th St,2,41.8679,-87.623,41.8604,-87.6258
+21,Franklin St & Jackson Blvd,Millennium Park,2,41.8777,-87.6353,41.881,-87.6241
+21,Franklin St & Jackson Blvd,Rush St & Hubbard St,2,41.8777,-87.6353,41.89,-87.6263
+21,Wilton Ave & Belmont Ave,Lakeview Ave & Fullerton Pkwy,2,41.9402,-87.653,41.9259,-87.639
+21,Franklin St & Quincy St,St. Clair St & Erie St,2,41.8787,-87.6348,41.8944,-87.6227
+21,Racine Ave & 18th St,Federal St & Polk St,2,41.8582,-87.6565,41.8721,-87.6295
+21,Western Ave & Leland Ave,Damen Ave & Sunnyside Ave,2,41.9666,-87.6885,41.9632,-87.6793
+21,Michigan Ave & 14th St,Streeter Dr & Grand Ave,2,41.8641,-87.6237,41.8923,-87.612
+21,Lincoln Ave & Belle Plaine Ave,Halsted St & Dickens Ave,2,41.9559,-87.6793,41.9199,-87.6488
+21,California Ave & Milwaukee Ave,Greenview Ave & Diversey Pkwy,2,41.9227,-87.6972,41.9326,-87.6659
+21,Clinton St & Lake St,Stetson Ave & South Water St,2,41.8856,-87.6418,41.8868,-87.6223
+21,Troy St & Elston Ave,Sawyer Ave & Irving Park Rd,2,41.9452,-87.7066,41.9536,-87.7093
+21,Southport Ave & Clybourn Ave,Dayton St & North Ave,2,41.9208,-87.6637,41.9106,-87.6494
+21,Morgan St & 31st St,State St & 19th St,2,41.8378,-87.6511,41.8566,-87.6275
+21,Damen Ave & Division St,Damen Ave & Grand Ave,2,41.9033,-87.6769,41.8912,-87.6769
+21,Wells St & Concord Ln,Clark St & Lincoln Ave,2,41.9121,-87.6347,41.9157,-87.6346
+22,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,7,41.881,-87.6167,41.8923,-87.612
+22,Lake Shore Dr & North Blvd,Clarendon Ave & Gordon Ter,7,41.9117,-87.6268,41.9579,-87.6495
+22,Millennium Park,Wabash Ave & 8th St,5,41.881,-87.6241,41.872,-87.6261
+22,Lake Shore Dr & Monroe St,Lake Shore Dr & North Blvd,4,41.881,-87.6167,41.9117,-87.6268
+22,Lake Shore Dr & Belmont Ave,Streeter Dr & Grand Ave,4,41.9408,-87.6392,41.8923,-87.612
+22,Clark St & Grace St,Lake Shore Dr & Belmont Ave,4,41.9508,-87.6592,41.9408,-87.6392
+22,Damen Ave & Pierce Ave,Ogden Ave & Congress Pkwy,3,41.9094,-87.6777,41.875,-87.6733
+22,Franklin St & Chicago Ave,Wells St & Evergreen Ave,3,41.8968,-87.6356,41.9067,-87.6348
+22,Clark St & Berwyn Ave,Southport Ave & Waveland Ave,3,41.978,-87.668,41.9482,-87.6639
+22,Canal St & Jackson Blvd,Michigan Ave & Pearson St,3,41.8784,-87.6411,41.8977,-87.6235
+22,Clark St & Schiller St,Wood St & Milwaukee Ave,3,41.908,-87.6315,41.9077,-87.6726
+22,Shedd Aquarium,Lake Shore Dr & Monroe St,2,41.8672,-87.6154,41.881,-87.6167
+22,Francisco Ave & Foster Ave,Lincoln Ave & Waveland Ave,2,41.9756,-87.7014,41.9491,-87.6751
+22,Field Museum,Canal St & Madison St,2,41.8653,-87.6179,41.8821,-87.6398
+22,Sheridan Rd & Irving Park Rd,Halsted St & Roscoe St,2,41.9542,-87.6544,41.9437,-87.6489
+22,Millennium Park,Stetson Ave & South Water St,2,41.881,-87.6241,41.8868,-87.6223
+22,Millennium Park,State St & Van Buren St,2,41.881,-87.6241,41.8772,-87.6278
+22,Clifton Ave & Lawrence Ave,Sheridan Rd & Buena Ave,2,41.9689,-87.6589,41.9585,-87.655
+22,Wells St & Huron St,Wells St & Evergreen Ave,2,41.8947,-87.6338,41.9067,-87.6348
+22,Ashland Ave & Division St,Larrabee St & Division St,2,41.9035,-87.6677,41.9035,-87.6434
+22,Ashland Ave & Division St,Ashland Ave & Augusta Blvd,2,41.9035,-87.6677,41.8996,-87.6677
+22,State St & Van Buren St,Financial Pl & Congress Pkwy,2,41.8772,-87.6278,41.875,-87.6331
+22,Michigan Ave & Madison St,Millennium Park,2,41.8821,-87.6251,41.881,-87.6241
+22,Fairbanks Ct & Grand Ave,Michigan Ave & Jackson Blvd,2,41.8919,-87.6206,41.8778,-87.6241
+22,Noble St & Milwaukee Ave,Desplaines St & Kinzie St,2,41.9007,-87.6626,41.8887,-87.6444
+22,Sedgwick St & Webster Ave,Sheffield Ave & Webster Ave,2,41.9222,-87.6389,41.9215,-87.6538
+22,Southport Ave & Roscoe St,Ashland Ave & Grace St,2,41.9437,-87.664,41.9507,-87.6687
+22,Michigan Ave & 18th St,Michigan Ave & Jackson Blvd,2,41.8578,-87.6245,41.8778,-87.6241
+22,Daley Center Plaza,Clark St & 9th St (AMLI),2,41.8842,-87.6296,41.8708,-87.6312
+22,Paulina St & 18th St,Halsted St & 21st St,2,41.8579,-87.6687,41.8538,-87.6467
+22,Sheridan Rd & Buena Ave,Hampden Ct & Diversey Pkwy,2,41.9585,-87.655,41.9326,-87.6424
+22,State St & Kinzie St,Michigan Ave & Lake St,2,41.8892,-87.6277,41.886,-87.6241
+22,Clark St & Lincoln Ave,Sheridan Rd & Montrose Ave,2,41.9157,-87.6346,41.9617,-87.6546
+22,Clark St & 9th St (AMLI),Ritchie Ct & Banks St,2,41.8708,-87.6312,41.9068,-87.6264
+22,Streeter Dr & Grand Ave,Sheridan Rd & Irving Park Rd,2,41.8923,-87.612,41.9542,-87.6544
+22,Streeter Dr & Grand Ave,Daley Center Plaza,2,41.8923,-87.612,41.8842,-87.6296
+22,Sheffield Ave & Addison St,Southport Ave & Irving Park Rd,2,41.947,-87.6542,41.9542,-87.6644
+22,Sheffield Ave & Addison St,Lincoln Ave & Roscoe St,2,41.947,-87.6542,41.9433,-87.671
+22,Indiana Ave & Roosevelt Rd,Michigan Ave & Madison St,2,41.8679,-87.623,41.8821,-87.6251
+22,Morgan St & Lake St,Eckhart Park,2,41.8855,-87.6523,41.8964,-87.661
+22,Wilton Ave & Belmont Ave,Lincoln Ave & Belmont Ave,2,41.9402,-87.653,41.9394,-87.6684
+22,Clark St & Wrightwood Ave,Halsted St & Roscoe St,2,41.9295,-87.6431,41.9437,-87.6489
+22,Michigan Ave & Jackson Blvd,Streeter Dr & Grand Ave,2,41.8778,-87.6241,41.8923,-87.612
+22,Lincoln Ave & Waveland Ave,Sheffield Ave & Willow St,2,41.9491,-87.6751,41.9137,-87.6529
+22,Green St & Randolph St,Wood St & Grand Ave,2,41.8837,-87.6487,41.8911,-87.672
+22,Eckhart Park,Ashland Ave & Blackhawk St,2,41.8964,-87.661,41.9071,-87.6673
+22,Wabash Ave & 8th St,Millennium Park,2,41.872,-87.6261,41.881,-87.6241
+22,Columbus Dr & Randolph St,Lake Shore Dr & Monroe St,2,41.8847,-87.6195,41.881,-87.6167
+22,Western Ave & Walton St,Ashland Ave & Grand Ave,2,41.8984,-87.6866,41.8911,-87.6666
+22,Halsted St & Dickens Ave,Halsted St & Roscoe St,2,41.9199,-87.6488,41.9437,-87.6489
+22,Sheffield Ave & Wrightwood Ave,Halsted St & Blackhawk St (*),2,41.9287,-87.6538,41.9085,-87.6486
+23,Field Museum,Dusable Harbor,4,41.8653,-87.6179,41.885,-87.6128
+23,Field Museum,Marshfield Ave & Cortland St,4,41.8653,-87.6179,41.916,-87.6689
+23,Shedd Aquarium,Michigan Ave & Jackson Blvd,3,41.8672,-87.6154,41.8778,-87.6241
+23,Damen Ave & Foster Ave,Lincoln Ave & Leavitt St,3,41.9756,-87.6795,41.9624,-87.6841
+23,Field Museum,Wabash Ave & Roosevelt Rd,3,41.8653,-87.6179,41.8672,-87.626
+23,Field Museum,Lake Shore Dr & Monroe St,3,41.8653,-87.6179,41.881,-87.6167
+23,Halsted St & 21st St,McCormick Place,3,41.8538,-87.6467,41.8514,-87.6188
+23,Halsted St & Blackhawk St (*),Larrabee St & Kingsbury St,3,41.9085,-87.6486,41.8978,-87.6429
+23,Damen Ave & Leland Ave,Sheffield Ave & Addison St,3,41.9671,-87.679,41.947,-87.6542
+23,Budlong Woods Library,Damen Ave & Foster Ave,3,41.9837,-87.6964,41.9756,-87.6795
+23,Ogden Ave & Congress Pkwy,Western Ave & Congress Pkwy,2,41.875,-87.6733,41.8747,-87.6864
+23,Shedd Aquarium,Lake Shore Dr & Monroe St,2,41.8672,-87.6154,41.881,-87.6167
+23,Shedd Aquarium,Halsted St & Roscoe St,2,41.8672,-87.6154,41.9437,-87.6489
+23,Wabash Ave & Roosevelt Rd,Michigan Ave & 18th St,2,41.8672,-87.626,41.8578,-87.6245
+23,Desplaines St & Kinzie St,Wells St & Elm St,2,41.8887,-87.6444,41.9032,-87.6343
+23,Field Museum,Financial Pl & Congress Pkwy,2,41.8653,-87.6179,41.875,-87.6331
+23,Field Museum,Green St & Madison St,2,41.8653,-87.6179,41.8819,-87.6488
+23,Field Museum,Morgan Ave & 14th Pl,2,41.8653,-87.6179,41.8624,-87.6511
+23,Field Museum,Michigan Ave & Lake St,2,41.8653,-87.6179,41.886,-87.6241
+23,Field Museum,Canal St & Adams St,2,41.8653,-87.6179,41.8793,-87.6399
+23,Field Museum,Clark St & Lincoln Ave,2,41.8653,-87.6179,41.9157,-87.6346
+23,Field Museum,Indiana Ave & Roosevelt Rd,2,41.8653,-87.6179,41.8679,-87.623
+23,Carpenter St & Huron St,Elston Ave & Wabansia Ave,2,41.8946,-87.6535,41.9129,-87.6642
+23,Lake Shore Dr & Diversey Pkwy,Michigan Ave & Pearson St,2,41.9327,-87.6363,41.8977,-87.6235
+23,Wabash Ave & Grand Ave,Kingsbury St & Erie St,2,41.8917,-87.6269,41.8939,-87.6417
+23,Millennium Park,State St & Harrison St,2,41.881,-87.6241,41.8741,-87.6277
+23,Millennium Park,Canal St & Adams St,2,41.881,-87.6241,41.8793,-87.6399
+23,Clifton Ave & Lawrence Ave,Lake Shore Dr & Wellington Ave,2,41.9689,-87.6589,41.9367,-87.6368
+23,Mies van der Rohe Way & Chestnut St,Streeter Dr & Grand Ave,2,41.8986,-87.6219,41.8923,-87.612
+23,LaSalle St & Illinois St,Wabash Ave & Grand Ave,2,41.8908,-87.6321,41.8917,-87.6269
+23,Dusable Harbor,Larrabee St & Webster Ave,2,41.885,-87.6128,41.9218,-87.6441
+23,Canal St & Madison St,Stetson Ave & South Water St,2,41.8821,-87.6398,41.8868,-87.6223
+23,Canal St & Madison St,Wells St & Polk St,2,41.8821,-87.6398,41.8724,-87.6335
+23,Canal St & Madison St,Loomis St & Jackson Blvd,2,41.8821,-87.6398,41.8779,-87.662
+23,Kingsbury St & Erie St,Noble St & Milwaukee Ave,2,41.8939,-87.6417,41.9007,-87.6626
+23,Clinton St & Madison St,Wabash Ave & Roosevelt Rd,2,41.8822,-87.6411,41.8672,-87.626
+23,Sedgwick St & Schiller St,LaSalle St & Illinois St,2,41.9076,-87.6385,41.8908,-87.6321
+23,University Ave & 57th St,Kimbark Ave & 53rd St,2,41.7915,-87.5999,41.7996,-87.5947
+23,Kingsbury St & Kinzie St,Desplaines St & Randolph St,2,41.8892,-87.6385,41.8846,-87.6446
+23,Broadway & Belmont Ave,Streeter Dr & Grand Ave,2,41.9401,-87.6455,41.8923,-87.612
+23,Streeter Dr & Grand Ave,Mies van der Rohe Way & Chicago Ave,2,41.8923,-87.612,41.8969,-87.6217
+23,Morgan St & Lake St,Green St & Randolph St,2,41.8855,-87.6523,41.8837,-87.6487
+23,Clark St & Winnemac Ave,Halsted St & Roscoe St,2,41.9734,-87.6684,41.9437,-87.6489
+23,Wilton Ave & Belmont Ave,Clark St & Wellington Ave,2,41.9402,-87.653,41.9365,-87.6475
+23,Kimbark Ave & 53rd St,Cornell Ave & Hyde Park Blvd,2,41.7996,-87.5947,41.8024,-87.5869
+23,Racine Ave & 18th St,Wabash Ave & Roosevelt Rd,2,41.8582,-87.6565,41.8672,-87.626
+23,Southport Ave & Waveland Ave,Clark St & Montrose Ave,2,41.9482,-87.6639,41.9616,-87.666

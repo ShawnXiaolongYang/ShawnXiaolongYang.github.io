@@ -1,0 +1,11 @@
+count,from_station_name,to_station_name,from_lat,from_long,to_lat,to_long,path
+5826,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,41.881,-87.6167,41.8923,-87.612,Lake Shore Dr & Monroe St-Streeter Dr & Grand Ave
+4455,Streeter Dr & Grand Ave,Streeter Dr & Grand Ave,41.8923,-87.612,41.8923,-87.612,Streeter Dr & Grand Ave-Streeter Dr & Grand Ave
+4036,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,41.8923,-87.612,41.9117,-87.6268,Streeter Dr & Grand Ave-Lake Shore Dr & North Blvd
+3938,Streeter Dr & Grand Ave,Theater on the Lake,41.8923,-87.612,41.9263,-87.6308,Streeter Dr & Grand Ave-Theater on the Lake
+3846,Theater on the Lake,Streeter Dr & Grand Ave,41.9263,-87.6308,41.8923,-87.612,Theater on the Lake-Streeter Dr & Grand Ave
+3754,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,41.9117,-87.6268,41.8923,-87.612,Lake Shore Dr & North Blvd-Streeter Dr & Grand Ave
+3430,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,41.8923,-87.612,41.881,-87.6167,Streeter Dr & Grand Ave-Lake Shore Dr & Monroe St
+2656,Lake Shore Dr & Monroe St,Lake Shore Dr & Monroe St,41.881,-87.6167,41.881,-87.6167,Lake Shore Dr & Monroe St-Lake Shore Dr & Monroe St
+2386,Streeter Dr & Grand Ave,Millennium Park,41.8923,-87.612,41.881,-87.6241,Streeter Dr & Grand Ave-Millennium Park
+2287,Streeter Dr & Grand Ave,Michigan Ave & Oak St,41.8923,-87.612,41.901,-87.6238,Streeter Dr & Grand Ave-Michigan Ave & Oak St
