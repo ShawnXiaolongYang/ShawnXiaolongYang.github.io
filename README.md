@@ -1,6 +1,6 @@
-#Divvy Bike usage in Chicago at July 1st
+# Divvy Bike usage in Chicago at July 1st
 
-#Summary
+# Summary
 This visualization explores where and when people use Divvy Bike at Chicago.
 
 Divvy Bike is a bike rental company, they have 581 bike rental stations at Chicago. Customers can rent a bike from one station, and return in another station. Divvy bike 
