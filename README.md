@@ -1,4 +1,4 @@
-# Divvy Bike usage in Chicago
+# Divvy Bike Data Visualization - Usage in Chicago
 
 The details can be found at:
 https://shawnxiaolongyang.github.io/
