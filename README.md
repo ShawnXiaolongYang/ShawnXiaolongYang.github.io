@@ -1,4 +1,7 @@
-# Divvy Bike usage in Chicago at July 1st
+# Divvy Bike usage in Chicago
+
+The details can be found at:
+https://shawnxiaolongyang.github.io/
 
 # Summary
 This visualization explores where and when people use Divvy Bike at Chicago.
