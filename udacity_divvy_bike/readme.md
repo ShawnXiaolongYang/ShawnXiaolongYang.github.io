@@ -1,6 +1,10 @@
-#Divvy Bike usage in Chicago at July 1st
+# Divvy Bike Data Visualization 
+- Divvy Bike Usage in Chicago
 
-#Summary
+The details can be found at:
+https://shawnxiaolongyang.github.io/
+
+# Summary
 This visualization explores where and when people use Divvy Bike at Chicago.
 
 Divvy Bike is a bike rental company, they have 581 bike rental stations at Chicago. Customers can rent a bike from one station, and return in another station. Divvy bike 
@@ -48,16 +52,16 @@ For the last graph, the rental stations on the bundle plot could be selected by 
 
 
 # Resource
-## 1. Divvy Data - Historical trip data available to the public: https//www.divvybikes.com/system-data
-## 2. Google Maps + D3:
+ 1. Divvy Data - Historical trip data available to the public: https//www.divvybikes.com/system-data
+ 2. Google Maps + D3:
 https://bl.ocks.org/mbostock/899711
-## 3. How to make animated moving marker on Google map using javascript:
+ 3. How to make animated moving marker on Google map using javascript:
 http://geekonjava.blogspot.com/2014/10/how-to-make-animated-moving-marker-on.html
-## 4. Edge Bundling:
+ 4. Edge Bundling:
 http://mbostock.github.io/d3/talk/20111116/bundle.html?1491414418356
-## 5. D3 visualization - Delaying The Display Of Buttons
+ 5. D3 visualization - Delaying The Display Of Buttons
 https://classroom.udacity.com/nanodegrees/nd002/parts/00213454010/modules/318423863275460/lessons/3066258748/concepts/31058087100923
-## 6. parallel coordinates:
+ 6. parallel coordinates:
 http://mbostock.github.io/d3/talk/20111116/#13
 
 
