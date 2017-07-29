@@ -1,0 +1,2354 @@
+[
+  {
+    "daysofweek": 1.1,
+    "hours": 0.1,
+    "times": 100,
+    "n": 1121,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 0.1,
+    "times": 100,
+    "n": 1712,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 1.1,
+    "times": 101,
+    "n": 814,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 1.1,
+    "times": 101,
+    "n": 1164,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 2.1,
+    "times": 102,
+    "n": 493,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 2.1,
+    "times": 102,
+    "n": 819,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 3.1,
+    "times": 103,
+    "n": 325,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 3.1,
+    "times": 103,
+    "n": 439,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 4.1,
+    "times": 104,
+    "n": 164,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 4.1,
+    "times": 104,
+    "n": 331,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 5.1,
+    "times": 105,
+    "n": 154,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 5.1,
+    "times": 105,
+    "n": 388,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 6.1,
+    "times": 106,
+    "n": 311,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 6.1,
+    "times": 106,
+    "n": 819,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 7.1,
+    "times": 107,
+    "n": 751,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 7.1,
+    "times": 107,
+    "n": 1647,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 8.1,
+    "times": 108,
+    "n": 1725,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 8.1,
+    "times": 108,
+    "n": 3129,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 9.1,
+    "times": 109,
+    "n": 3420,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 9.1,
+    "times": 109,
+    "n": 4821,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 10.1,
+    "times": 110,
+    "n": 6054,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 10.1,
+    "times": 110,
+    "n": 6779,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 11.1,
+    "times": 111,
+    "n": 8502,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 11.1,
+    "times": 111,
+    "n": 8446,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 12.1,
+    "times": 112,
+    "n": 10123,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 12.1,
+    "times": 112,
+    "n": 9216,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 13.1,
+    "times": 113,
+    "n": 11113,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 13.1,
+    "times": 113,
+    "n": 9004,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 14.1,
+    "times": 114,
+    "n": 11341,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 14.1,
+    "times": 114,
+    "n": 8802,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 15.1,
+    "times": 115,
+    "n": 11293,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 15.1,
+    "times": 115,
+    "n": 8952,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 16.1,
+    "times": 116,
+    "n": 9927,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 16.1,
+    "times": 116,
+    "n": 8787,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 17.1,
+    "times": 117,
+    "n": 9000,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 17.1,
+    "times": 117,
+    "n": 8528,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 18.1,
+    "times": 118,
+    "n": 7441,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 18.1,
+    "times": 118,
+    "n": 7629,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 19.1,
+    "times": 119,
+    "n": 5337,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 19.1,
+    "times": 119,
+    "n": 5996,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 20.1,
+    "times": 120,
+    "n": 3443,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 20.1,
+    "times": 120,
+    "n": 4239,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 21.1,
+    "times": 121,
+    "n": 2487,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 21.1,
+    "times": 121,
+    "n": 3033,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 22.1,
+    "times": 122,
+    "n": 1995,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 22.1,
+    "times": 122,
+    "n": 2352,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 23.1,
+    "times": 123,
+    "n": 1247,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 1.1,
+    "hours": 23.1,
+    "times": 123,
+    "n": 1255,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 0.1,
+    "times": 200,
+    "n": 748,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 0.1,
+    "times": 200,
+    "n": 769,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 1.1,
+    "times": 201,
+    "n": 406,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 1.1,
+    "times": 201,
+    "n": 360,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 2.1,
+    "times": 202,
+    "n": 241,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 2.1,
+    "times": 202,
+    "n": 178,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 3.1,
+    "times": 203,
+    "n": 100,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 3.1,
+    "times": 203,
+    "n": 157,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 4.1,
+    "times": 204,
+    "n": 76,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 4.1,
+    "times": 204,
+    "n": 241,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 5.1,
+    "times": 205,
+    "n": 94,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 5.1,
+    "times": 205,
+    "n": 1566,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 6.1,
+    "times": 206,
+    "n": 226,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 6.1,
+    "times": 206,
+    "n": 5907,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 7.1,
+    "times": 207,
+    "n": 506,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 7.1,
+    "times": 207,
+    "n": 12671,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 8.1,
+    "times": 208,
+    "n": 1110,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 8.1,
+    "times": 208,
+    "n": 14416,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 9.1,
+    "times": 209,
+    "n": 2136,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 9.1,
+    "times": 209,
+    "n": 6344,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 10.1,
+    "times": 210,
+    "n": 3594,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 10.1,
+    "times": 210,
+    "n": 4362,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 11.1,
+    "times": 211,
+    "n": 5027,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 11.1,
+    "times": 211,
+    "n": 5395,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 12.1,
+    "times": 212,
+    "n": 5641,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 12.1,
+    "times": 212,
+    "n": 6528,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 13.1,
+    "times": 213,
+    "n": 5919,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 13.1,
+    "times": 213,
+    "n": 6243,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 14.1,
+    "times": 214,
+    "n": 5744,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 14.1,
+    "times": 214,
+    "n": 5717,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 15.1,
+    "times": 215,
+    "n": 5792,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 15.1,
+    "times": 215,
+    "n": 7447,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 16.1,
+    "times": 216,
+    "n": 5458,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 16.1,
+    "times": 216,
+    "n": 13502,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 17.1,
+    "times": 217,
+    "n": 4833,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 17.1,
+    "times": 217,
+    "n": 21509,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 18.1,
+    "times": 218,
+    "n": 3737,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 18.1,
+    "times": 218,
+    "n": 14667,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 19.1,
+    "times": 219,
+    "n": 2823,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 19.1,
+    "times": 219,
+    "n": 9582,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 20.1,
+    "times": 220,
+    "n": 2163,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 20.1,
+    "times": 220,
+    "n": 6455,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 21.1,
+    "times": 221,
+    "n": 1743,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 21.1,
+    "times": 221,
+    "n": 4661,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 22.1,
+    "times": 222,
+    "n": 1454,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 22.1,
+    "times": 222,
+    "n": 2984,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 23.1,
+    "times": 223,
+    "n": 847,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 2.1,
+    "hours": 23.1,
+    "times": 223,
+    "n": 1440,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 0.1,
+    "times": 300,
+    "n": 416,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 0.1,
+    "times": 300,
+    "n": 630,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 1.1,
+    "times": 301,
+    "n": 236,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 1.1,
+    "times": 301,
+    "n": 291,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 2.1,
+    "times": 302,
+    "n": 145,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 2.1,
+    "times": 302,
+    "n": 148,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 3.1,
+    "times": 303,
+    "n": 70,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 3.1,
+    "times": 303,
+    "n": 117,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 4.1,
+    "times": 304,
+    "n": 51,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 4.1,
+    "times": 304,
+    "n": 307,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 5.1,
+    "times": 305,
+    "n": 60,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 5.1,
+    "times": 305,
+    "n": 2001,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 6.1,
+    "times": 306,
+    "n": 208,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 6.1,
+    "times": 306,
+    "n": 7193,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 7.1,
+    "times": 307,
+    "n": 448,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 7.1,
+    "times": 307,
+    "n": 14298,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 8.1,
+    "times": 308,
+    "n": 709,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 8.1,
+    "times": 308,
+    "n": 16349,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 9.1,
+    "times": 309,
+    "n": 1317,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 9.1,
+    "times": 309,
+    "n": 6904,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 10.1,
+    "times": 310,
+    "n": 2346,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 10.1,
+    "times": 310,
+    "n": 4198,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 11.1,
+    "times": 311,
+    "n": 3003,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 11.1,
+    "times": 311,
+    "n": 5325,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 12.1,
+    "times": 312,
+    "n": 3109,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 12.1,
+    "times": 312,
+    "n": 6233,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 13.1,
+    "times": 313,
+    "n": 3259,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 13.1,
+    "times": 313,
+    "n": 6043,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 14.1,
+    "times": 314,
+    "n": 3446,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 14.1,
+    "times": 314,
+    "n": 5547,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 15.1,
+    "times": 315,
+    "n": 3631,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 15.1,
+    "times": 315,
+    "n": 7440,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 16.1,
+    "times": 316,
+    "n": 3544,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 16.1,
+    "times": 316,
+    "n": 15057,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 17.1,
+    "times": 317,
+    "n": 3527,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 17.1,
+    "times": 317,
+    "n": 24932,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 18.1,
+    "times": 318,
+    "n": 2891,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 18.1,
+    "times": 318,
+    "n": 17362,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 19.1,
+    "times": 319,
+    "n": 2479,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 19.1,
+    "times": 319,
+    "n": 11537,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 20.1,
+    "times": 320,
+    "n": 1739,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 20.1,
+    "times": 320,
+    "n": 7602,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 21.1,
+    "times": 321,
+    "n": 1402,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 21.1,
+    "times": 321,
+    "n": 5464,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 22.1,
+    "times": 322,
+    "n": 997,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 22.1,
+    "times": 322,
+    "n": 3221,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 23.1,
+    "times": 323,
+    "n": 612,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 3.1,
+    "hours": 23.1,
+    "times": 323,
+    "n": 1550,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 0.1,
+    "times": 400,
+    "n": 363,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 0.1,
+    "times": 400,
+    "n": 669,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 1.1,
+    "times": 401,
+    "n": 199,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 1.1,
+    "times": 401,
+    "n": 347,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 2.1,
+    "times": 402,
+    "n": 99,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 2.1,
+    "times": 402,
+    "n": 158,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 3.1,
+    "times": 403,
+    "n": 49,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 3.1,
+    "times": 403,
+    "n": 110,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 4.1,
+    "times": 404,
+    "n": 47,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 4.1,
+    "times": 404,
+    "n": 243,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 5.1,
+    "times": 405,
+    "n": 77,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 5.1,
+    "times": 405,
+    "n": 1808,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 6.1,
+    "times": 406,
+    "n": 214,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 6.1,
+    "times": 406,
+    "n": 6740,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 7.1,
+    "times": 407,
+    "n": 343,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 7.1,
+    "times": 407,
+    "n": 13437,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 8.1,
+    "times": 408,
+    "n": 611,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 8.1,
+    "times": 408,
+    "n": 14239,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 9.1,
+    "times": 409,
+    "n": 968,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 9.1,
+    "times": 409,
+    "n": 6010,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 10.1,
+    "times": 410,
+    "n": 1566,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 10.1,
+    "times": 410,
+    "n": 3878,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 11.1,
+    "times": 411,
+    "n": 2151,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 11.1,
+    "times": 411,
+    "n": 4971,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 12.1,
+    "times": 412,
+    "n": 2396,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 12.1,
+    "times": 412,
+    "n": 6212,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 13.1,
+    "times": 413,
+    "n": 2314,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 13.1,
+    "times": 413,
+    "n": 5563,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 14.1,
+    "times": 414,
+    "n": 2577,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 14.1,
+    "times": 414,
+    "n": 5095,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 15.1,
+    "times": 415,
+    "n": 2650,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 15.1,
+    "times": 415,
+    "n": 6635,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 16.1,
+    "times": 416,
+    "n": 2875,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 16.1,
+    "times": 416,
+    "n": 14544,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 17.1,
+    "times": 417,
+    "n": 2768,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 17.1,
+    "times": 417,
+    "n": 22351,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 18.1,
+    "times": 418,
+    "n": 2437,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 18.1,
+    "times": 418,
+    "n": 15386,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 19.1,
+    "times": 419,
+    "n": 1925,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 19.1,
+    "times": 419,
+    "n": 9876,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 20.1,
+    "times": 420,
+    "n": 1587,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 20.1,
+    "times": 420,
+    "n": 6792,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 21.1,
+    "times": 421,
+    "n": 1151,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 21.1,
+    "times": 421,
+    "n": 4916,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 22.1,
+    "times": 422,
+    "n": 1070,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 22.1,
+    "times": 422,
+    "n": 3556,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 23.1,
+    "times": 423,
+    "n": 568,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 4.1,
+    "hours": 23.1,
+    "times": 423,
+    "n": 1721,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 0.1,
+    "times": 500,
+    "n": 266,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 0.1,
+    "times": 500,
+    "n": 751,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 1.1,
+    "times": 501,
+    "n": 140,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 1.1,
+    "times": 501,
+    "n": 335,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 2.1,
+    "times": 502,
+    "n": 73,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 2.1,
+    "times": 502,
+    "n": 196,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 3.1,
+    "times": 503,
+    "n": 55,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 3.1,
+    "times": 503,
+    "n": 137,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 4.1,
+    "times": 504,
+    "n": 26,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 4.1,
+    "times": 504,
+    "n": 277,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 5.1,
+    "times": 505,
+    "n": 32,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 5.1,
+    "times": 505,
+    "n": 1726,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 6.1,
+    "times": 506,
+    "n": 196,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 6.1,
+    "times": 506,
+    "n": 6418,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 7.1,
+    "times": 507,
+    "n": 322,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 7.1,
+    "times": 507,
+    "n": 13257,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 8.1,
+    "times": 508,
+    "n": 595,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 8.1,
+    "times": 508,
+    "n": 16024,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 9.1,
+    "times": 509,
+    "n": 1150,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 9.1,
+    "times": 509,
+    "n": 6831,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 10.1,
+    "times": 510,
+    "n": 1677,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 10.1,
+    "times": 510,
+    "n": 4311,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 11.1,
+    "times": 511,
+    "n": 2330,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 11.1,
+    "times": 511,
+    "n": 5046,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 12.1,
+    "times": 512,
+    "n": 2637,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 12.1,
+    "times": 512,
+    "n": 5916,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 13.1,
+    "times": 513,
+    "n": 2897,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 13.1,
+    "times": 513,
+    "n": 5721,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 14.1,
+    "times": 514,
+    "n": 3005,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 14.1,
+    "times": 514,
+    "n": 5412,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 15.1,
+    "times": 515,
+    "n": 3234,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 15.1,
+    "times": 515,
+    "n": 6978,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 16.1,
+    "times": 516,
+    "n": 2940,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 16.1,
+    "times": 516,
+    "n": 14414,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 17.1,
+    "times": 517,
+    "n": 2768,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 17.1,
+    "times": 517,
+    "n": 21419,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 18.1,
+    "times": 518,
+    "n": 2444,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 18.1,
+    "times": 518,
+    "n": 14924,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 19.1,
+    "times": 519,
+    "n": 1857,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 19.1,
+    "times": 519,
+    "n": 10018,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 20.1,
+    "times": 520,
+    "n": 1483,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 20.1,
+    "times": 520,
+    "n": 6673,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 21.1,
+    "times": 521,
+    "n": 1009,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 21.1,
+    "times": 521,
+    "n": 4687,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 22.1,
+    "times": 522,
+    "n": 853,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 22.1,
+    "times": 522,
+    "n": 3301,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 23.1,
+    "times": 523,
+    "n": 475,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 5.1,
+    "hours": 23.1,
+    "times": 523,
+    "n": 1720,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 0.1,
+    "times": 600,
+    "n": 302,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 0.1,
+    "times": 600,
+    "n": 935,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 1.1,
+    "times": 601,
+    "n": 224,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 1.1,
+    "times": 601,
+    "n": 530,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 2.1,
+    "times": 602,
+    "n": 138,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 2.1,
+    "times": 602,
+    "n": 291,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 3.1,
+    "times": 603,
+    "n": 88,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 3.1,
+    "times": 603,
+    "n": 145,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 4.1,
+    "times": 604,
+    "n": 54,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 4.1,
+    "times": 604,
+    "n": 344,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 5.1,
+    "times": 605,
+    "n": 91,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 5.1,
+    "times": 605,
+    "n": 1744,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 6.1,
+    "times": 606,
+    "n": 198,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 6.1,
+    "times": 606,
+    "n": 6458,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 7.1,
+    "times": 607,
+    "n": 426,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 7.1,
+    "times": 607,
+    "n": 14298,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 8.1,
+    "times": 608,
+    "n": 874,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 8.1,
+    "times": 608,
+    "n": 16906,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 9.1,
+    "times": 609,
+    "n": 1529,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 9.1,
+    "times": 609,
+    "n": 7395,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 10.1,
+    "times": 610,
+    "n": 2325,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 10.1,
+    "times": 610,
+    "n": 4799,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 11.1,
+    "times": 611,
+    "n": 3612,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 11.1,
+    "times": 611,
+    "n": 5906,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 12.1,
+    "times": 612,
+    "n": 4063,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 12.1,
+    "times": 612,
+    "n": 7818,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 13.1,
+    "times": 613,
+    "n": 4430,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 13.1,
+    "times": 613,
+    "n": 8008,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 14.1,
+    "times": 614,
+    "n": 4544,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 14.1,
+    "times": 614,
+    "n": 7898,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 15.1,
+    "times": 615,
+    "n": 4597,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 15.1,
+    "times": 615,
+    "n": 9777,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 16.1,
+    "times": 616,
+    "n": 4287,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 16.1,
+    "times": 616,
+    "n": 15484,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 17.1,
+    "times": 617,
+    "n": 4147,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 17.1,
+    "times": 617,
+    "n": 18602,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 18.1,
+    "times": 618,
+    "n": 3119,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 18.1,
+    "times": 618,
+    "n": 12093,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 19.1,
+    "times": 619,
+    "n": 2736,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 19.1,
+    "times": 619,
+    "n": 8017,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 20.1,
+    "times": 620,
+    "n": 2021,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 20.1,
+    "times": 620,
+    "n": 5210,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 21.1,
+    "times": 621,
+    "n": 1593,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 21.1,
+    "times": 621,
+    "n": 4008,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 22.1,
+    "times": 622,
+    "n": 1423,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 22.1,
+    "times": 622,
+    "n": 3218,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 23.1,
+    "times": 623,
+    "n": 1001,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 6.1,
+    "hours": 23.1,
+    "times": 623,
+    "n": 2278,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 0.1,
+    "times": 700,
+    "n": 650,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 0.1,
+    "times": 700,
+    "n": 1473,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 1.1,
+    "times": 701,
+    "n": 481,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 1.1,
+    "times": 701,
+    "n": 1120,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 2.1,
+    "times": 702,
+    "n": 311,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 2.1,
+    "times": 702,
+    "n": 625,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 3.1,
+    "times": 703,
+    "n": 175,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 3.1,
+    "times": 703,
+    "n": 346,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 4.1,
+    "times": 704,
+    "n": 123,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 4.1,
+    "times": 704,
+    "n": 229,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 5.1,
+    "times": 705,
+    "n": 109,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 5.1,
+    "times": 705,
+    "n": 543,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 6.1,
+    "times": 706,
+    "n": 224,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 6.1,
+    "times": 706,
+    "n": 1262,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 7.1,
+    "times": 707,
+    "n": 550,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 7.1,
+    "times": 707,
+    "n": 2289,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 8.1,
+    "times": 708,
+    "n": 1248,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 8.1,
+    "times": 708,
+    "n": 4021,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 9.1,
+    "times": 709,
+    "n": 2908,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 9.1,
+    "times": 709,
+    "n": 5714,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 10.1,
+    "times": 710,
+    "n": 5262,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 10.1,
+    "times": 710,
+    "n": 7400,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 11.1,
+    "times": 711,
+    "n": 7224,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 11.1,
+    "times": 711,
+    "n": 8235,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 12.1,
+    "times": 712,
+    "n": 9189,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 12.1,
+    "times": 712,
+    "n": 9067,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 13.1,
+    "times": 713,
+    "n": 10562,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 13.1,
+    "times": 713,
+    "n": 8708,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 14.1,
+    "times": 714,
+    "n": 10997,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 14.1,
+    "times": 714,
+    "n": 8596,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 15.1,
+    "times": 715,
+    "n": 11093,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 15.1,
+    "times": 715,
+    "n": 8373,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 16.1,
+    "times": 716,
+    "n": 10890,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 16.1,
+    "times": 716,
+    "n": 8168,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 17.1,
+    "times": 717,
+    "n": 9813,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 17.1,
+    "times": 717,
+    "n": 7917,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 18.1,
+    "times": 718,
+    "n": 7822,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 18.1,
+    "times": 718,
+    "n": 7283,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 19.1,
+    "times": 719,
+    "n": 5593,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 19.1,
+    "times": 719,
+    "n": 5712,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 20.1,
+    "times": 720,
+    "n": 3841,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 20.1,
+    "times": 720,
+    "n": 4338,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 21.1,
+    "times": 721,
+    "n": 2911,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 21.1,
+    "times": 721,
+    "n": 3533,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 22.1,
+    "times": 722,
+    "n": 2594,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 22.1,
+    "times": 722,
+    "n": 3037,
+    "usertype": "Subscriber"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 23.1,
+    "times": 723,
+    "n": 1858,
+    "usertype": "Customer"
+  },
+  {
+    "daysofweek": 7.1,
+    "hours": 23.1,
+    "times": 723,
+    "n": 2336,
+    "usertype": "Subscriber"
+  }
+]

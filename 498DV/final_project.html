@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega/3.0.0-rc2/vega.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-lite/2.0.0-beta.10/vega-lite.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-embed/3.0.0-beta.19/vega-embed.js"></script>
+
+<title>Divvy bike visualization</title>
+
+
+<script src='https://d3js.org/d3.v3.min.js'></script>
+	<script type="text/javascript">
+	function animate_time(init = 0,duration = 0){
+		// Since Bootstrap allow at most 12 col at one row,
+		// Plot two rows of buttons for 24 hours.
+		text1();
+		labelclean();
+		var hr_idx = init;
+		var hr_interval = setInterval(function() {
+				selectclean();
+				selecttime(hr_idx);
+				hr_idx++;
+	            if(hr_idx >init + duration) {
+	                clearInterval(hr_interval);
+					hr_idx = 0;
+					if(init + duration == 8){
+						label1();
+					};
+					if(init + duration == 15){
+						label2();
+					}
+					if(init + duration == 17){
+						label3();
+					};
+	            }
+				
+	          }, 
+			  // Set the animation time for each hour selection, milliseconds
+			  1000);
+		
+	}
+
+	function animate_day(weekday = 1){
+		// Since Bootstrap allow at most 12 col at one row,
+		// Plot two rows of buttons for 24 hours.
+		text2();
+		labelclean();
+		if(weekday) {
+			selectclean();
+			selectday(1);
+			selectday(2);
+			selectday(3);
+			selectday(4);
+			selectday(5);
+			label5();
+	    }
+		else{
+			selectclean();
+			selectday(0);
+			selectday(6);
+			label4();
+		}
+		
+	}
+	
+	// adjust the y-axis for vega
+	function adjust_axis(){
+		d3.selectAll("text")
+			.filter(function (d, i) { 
+					return i == 39 || i == 67 || i == 108 || i == 134;
+				})
+			.attr("transform",function(){
+				transform = d3.transform(d3.select(this).attr("transform"));
+	  			return "translate(-32,150) rotate(-90) translate(0,-10)";
+			});
+	}
+	
+	function selectclean(){
+		d3.selectAll(".child_child_hours_layer_1_marks")
+			.selectAll("path:not([id])")
+			.style("visibility", "hidden");
+		d3.selectAll(".child_child_daysofweek_layer_1_marks")
+			.selectAll("path:not([id])")
+			.style("visibility", "hidden");
+	}
+	
+	function selecttime(hour){  
+		d3.selectAll(".child_child_hours_layer_1_marks")
+		  	.selectAll("path:not([id])")
+			.filter(function (d, i) { return i === hour;})
+			.style("visibility", "visible");
+	}
+	
+	function selectday(day){
+		d3.selectAll(".child_child_daysofweek_layer_1_marks")
+		  	.selectAll("path:not([id])")
+			.filter(function (d, i) { return i === day;})
+			.style("visibility", "visible");
+	}
+	
+	function textclean(){
+		d3.selectAll(".text").remove()
+	}
+	function text1(){
+		textclean();
+		d3.select(".col-md-2")
+		  .append("b")
+		  .attr("class", "text")
+		  .text("what hours in the day would different user ride divvy bike");
+		d3.select(".col-md-2")
+		  .append("p")
+		  .attr("class", "text")
+		  .text("The first row two graph display how different type of users would use divvy bike in a day. ");
+		d3.select(".col-md-2")
+		  .append("p")
+		  .attr("class", "text")
+		  .text("Sum of Counts for each Hours broken down by Usertype.  Color shows details about Usertype.");	
+	}
+	
+	function text2(){
+		textclean();
+		d3.select(".col-md-2")
+		  .append("b")
+		  .attr("class", "text")
+		  .text("what days in the week would different user ride divvy bike");
+		d3.select(".col-md-2")
+		  .append("p")
+		  .attr("class", "text")
+		  .text("The second row two graph display how different type of users would use divvy bike in a week. ");
+		d3.select(".col-md-2")
+		  .append("p")
+		  .attr("class", "text")
+		  .text("Sum of Counts for each days broken down by Usertype.  Color shows details about Usertype.");	
+	}
+	
+	function text3(){
+		textclean();
+		d3.select(".col-md-2")
+		  .append("b")
+		  .attr("class", "text")
+		  .text("Interact with the crossfilter");
+		d3.select(".col-md-2")
+		  .append("p")
+		  .attr("class", "text")
+		  .text("You can make comperation between day and hours, different users using crossfilter. ");
+		d3.select(".col-md-2")
+		  .append("img")
+		  .attr("class", "text")
+		  .attr("src", "resize.gif");
+	}
+	
+	function labelclean(){
+		d3.selectAll(".label").remove()
+	}
+	
+	
+	function label1(){
+		d3.select("svg")
+			.append("g")
+			.append("text")
+			.attr("class", "label")
+			.attr("transform", "translate(50,120)")
+			.attr("fill", "black")
+			.text("The customer usage still keep a low level");
+		d3.select("svg")
+			.append("g")
+			.append("text")
+			.attr("class", "label")
+			.attr("transform", "translate(550,120)")
+			.attr("fill", "black")
+			.text("The subscriber usage reach the first peak");
+		d3.select(".col-md-2")
+		  .append("b")
+		  .attr("class", "text")
+		  .text("Insight 1:");
+		d3.select(".col-md-2")
+		  .append("p")
+		  .attr("class", "text")
+		  .text("8-9 am is a commonly commutated time in a day. "+
+		  "We can easily find subscribers was more actived than customers at that time");
+			
+	}
+	function label2(){
+		d3.select("svg")
+			.append("g")
+			.append("text")
+			.attr("class", "label")
+			.attr("transform", "translate(230,70)")
+			.attr("fill", "black")
+			.text("The customer usage reach the peak");
+		d3.select("svg")
+			.append("g")
+			.append("text")
+			.attr("class", "label")
+			.attr("transform", "translate(600,70)")
+			.attr("fill", "black")
+			.text("The subscriber usage drop to a low level");
+		d3.select(".col-md-2")
+		  .append("b")
+		  .attr("class", "text")
+		  .text("Insight 2:");
+		d3.select(".col-md-2")
+		  .append("p")
+		  .attr("class", "text")
+		  .text("15-16pm is a usually busy for employee but leisure for tourists. "+
+		  "We can easily find customers was more actived than subscribers at that time");
+	}
+	function label3(){
+		d3.select("svg")
+			.append("g")
+			.append("text")
+			.attr("class", "label")
+			.attr("transform", "translate(250,50)")
+			.attr("fill", "black")
+			.text("The customer usage drop from peak");
+		d3.select("svg")
+			.append("g")
+			.append("text")
+			.attr("class", "label")
+			.attr("transform", "translate(700,50)")
+			.attr("fill", "black")
+			.text("The subscriber usage reach the peak");
+		d3.select(".col-md-2")
+		  .append("b")
+		  .attr("class", "text")
+		  .text("Insight 3:");
+		d3.select(".col-md-2")
+		  .append("p")
+		  .attr("class", "text")
+		  .text("17-18pm is a usually another commuted time in a day. "+
+		  "We can easily find subscribers was more actived than customers at that time");
+	}
+	
+	function label4(){
+		d3.select("svg")
+			.append("g")
+			.append("text")
+			.attr("class", "label")
+			.attr("transform", "translate(100,370)")
+			.attr("fill", "black")
+			.text("The customer use more bike on weekend");
+		d3.select("svg")
+			.append("g")
+			.append("text")
+			.attr("class", "label")
+			.attr("transform", "translate(550,370)")
+			.attr("fill", "black")
+			.text("The subscriber decrease their usage on weekend");
+		d3.select(".col-md-2")
+		  .append("b")
+		  .attr("class", "text")
+		  .text("Insight 4:");
+		d3.select(".col-md-2")
+		  .append("p")
+		  .attr("class", "text")
+		  .text("On weekend, more tourist would take a tour while commuters would stay at home. "+
+		  "We can easily find customers were more actived than subscribers at that days");
+			
+	}
+	function label5(){
+		d3.select("svg")
+			.append("g")
+			.append("text")
+			.attr("class", "label")
+			.attr("transform", "translate(100,370)")
+			.attr("fill", "black")
+			.text("The customer used less bike on weekdays");
+		d3.select("svg")
+			.append("g")
+			.append("text")
+			.attr("class", "label")
+			.attr("transform", "translate(550,370)")
+			.attr("fill", "black")
+			.text("The subscriber increased their usage on weekdays");
+		d3.select(".col-md-2")
+		  .append("b")
+		  .attr("class", "text")
+		  .text("Insight 5:");
+		d3.select(".col-md-2")
+		  .append("p")
+		  .attr("class", "text")
+		  .text("On weekdays, only few tourist would take a tour while commuters would use the bike each day. "+
+		  "We can easily find subscribers were more actived than customers at that days");
+			
+	}
+	function buttonclean(){
+		d3.selectAll(".buttons")
+		  .style("background-color", "rgb(251, 201, 127)")
+		  .style("color", "black");
+	}
+	function buttonactive(id){
+	
+		d3.select(id)
+          .transition()
+          .duration(500)
+          .style("background-color", "lightblue")
+          .style("color", "white");
+	}
+   
+	</script>
+	<style>
+		.buttons{
+			background-color: rgb(251, 201, 127);
+		}
+	</style>
+
+</head>
+<body onload="selectclean();">
+<div class="container">
+	<h3 align="center">When would different type of users use divvy bike?</h3>
+	<div class="relative">
+		<div id="summary">
+		To answer the question, we can divide it into two questions: what types of users in the dataset, and what is a typical period for users' bevavior.
+		<br/>
+		There are two types of users in the data, one is customers, another is subscribers.
+		Divvy bike took those used a one-day pass as "<b style="color:#FF9181">customers</b>", and took those used one-month subscription as "<b style="color:#8AC3DA">subscribers</b>". 
+		The <b style="color:#FF9181">customers</b> are mostly <b>tourists</b> and <b style="color:#8AC3DA">subscribers</b> are mostly <b>commuters</b>. 
+		<br/>
+		A typical period of time could be a day, a week and a month. since we want find the most seasonality patterns, I chose the <b>hours of a day</b> and the <b>day of a week</b> for the comparation.
+		</div>
+		<b>click</b> for next step:
+		<br/> (First 3 button had animation, please wait the animation end before click on next button.)
+		<br/>
+		<input id ="b1" class="buttons" type="button" onclick="animate_time(0,8);buttonclean();buttonactive('#b1')" value="1" height="10">
+		</input>
+		<input id ="b2" class="buttons" type="button" onclick="animate_time(8,7);buttonclean();buttonactive('#b2')" value="2" height="10">
+		</input>
+		<input id ="b3" class="buttons" type="button" onclick="animate_time(15,2);buttonclean();buttonactive('#b3')" value="3" height="10">
+		</input>
+		<input id ="b4" class="buttons" type="button" onclick="animate_day(0);buttonclean();buttonactive('#b4')" value="4" height="10">
+		</input>
+		<input id ="b5" class="buttons" type="button" onclick="animate_day(1);buttonclean();buttonactive('#b5')" value="5" height="10">
+		</input>
+		<input id ="b6" class="buttons" type="button" onclick="labelclean();selectclean();textclean();buttonclean();buttonactive('#b6');text3()" value="play with crossfilter" height="10">
+		</input>
+	</div>
+
+
+	<div class="row">  
+		<div class="col-md-2"></div>
+		<div id="vis1" class="col-md-10"></div>
+	</div>
+</div>
+  <script type="text/javascript">
+	var opt = {
+		mode: "vega-lite",
+		actions: {export: false, source: false, editor: false},
+		renderer: "svg"
+
+	}
+    var yourVlSpec = {
+	  "data": {
+	    "url": "time.json",
+	  },
+	  "facet": {
+	    "column": {
+	      "field": "usertype",
+	      "type": "nominal"
+	    }
+	  },
+	  "spec": {
+	  "repeat": {"row": ["hours", "daysofweek"]},
+	  "spec": {
+	    "layer": [{
+	      "selection": {
+	        "brush": {"type": "interval", "encodings": ["x"]}
+	      },
+		  "width": 360,
+		  "height": 240,
+	      "mark": "bar",
+	      "encoding": {
+		  	"column": {"field": {"repeat": "column"}},
+	        "x": {
+	          "field": {"repeat": "row"},
+			  "bin": {"maxbins": 24},
+	          "type": "quantitative"
+	        },
+	        "y": {
+			  "aggregate": "sum", 
+			  "field" : "n", 
+		      "type": "quantitative"
+			},
+			"tooltip": {"aggregate": "sum", 
+			  "field" : "n", 
+		      "type": "quantitative"},
+		
+			"color": {"field": "usertype", "type": "nominal","scale": {"range": ["#FF9181","#8AC3DA"]} 
+		    }
+		  }
+	      }, {
+	      "transform": [{"filter": {"selection": "brush"}}],
+	      "mark": "bar",
+	      "encoding": {
+	        "x": {
+	          "field": {"repeat": "row"},
+			   "bin": {"maxbins": 24},
+	          "type": "quantitative"
+	        },
+	        "y": {
+			  "aggregate": "sum", 
+			  "field" : "n",  
+			  "type": "quantitative"},
+			"tooltip": {"aggregate": "sum", 
+			  "field" : "n", 
+		      "type": "quantitative"},
+			"color": {"value": "goldenrod"}
+		    }
+	      }]
+		}
+		}
+  	  }
+   
+    vega.embed("#vis1", yourVlSpec, opt);
+	setTimeout(selectclean, 100);
+	setTimeout(adjust_axis, 100);
+	
+	
+  </script>
+  
+  
+</body>
+</html>
