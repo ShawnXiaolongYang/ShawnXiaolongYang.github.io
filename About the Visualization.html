@@ -5,20 +5,26 @@
 </head>
 <body><h1>About the Visualization</h1>
 
-The narrative visualization should follow hybrid structures: interactive slideshow.
+The narrative visualization follow hybrid structures: interactive slideshow.
+<br/>
 <br/>
 It was built with scenes, annotations, parameters, and triggers.
 <br/>
+<br/>
 The scenes follow a template for visual consistency, each scene is a coordinated set of charts, viewers had no need to learn the meaning again, it helped user consistently read the story between different scenes. The scenes follow an order to convey the message. The first 3 buttons tell you the bike usage of different users from morning to night, which follow the order from left to right. The middle 2 buttons tell you the bike usage of different users from weekends to weekdays in the second row’s graphs, which follow the order from up to down. The visual structure of scenes is divided into 3 parts, summary on the top, explain each scene on the left, plot the graph on the right. It also used different color to highlight the key information.
 <br/>
+<br/>
 The annotations use animation to keep the visual consistency. It highlighted the trend that different users had different ride behaviors. You can easily find the annotation since it would be colored when the animation stop and there are addition tooltips to explain the finding of the annotation.
+<br/>
 <br/>
 The scenes were controlled by buttons, the parameters. The button is orange in default, if you click on one of them, the clicked on would be light blue to show you the current state. Once you click on next button, the former would return to orange. The buttons had numbers as label, indicated the slide number. 
 <br/>
 <br/>
 The triggers are click behavior. If you click on one of first 3 buttons, it would start the animation event until it reached to the ending time, and then leave the annotation on the graph and explain on the left. If you click on the middle 2 buttons, it would clear previous annotation, show you the result of weekends or weekdays, and then leave the new annotations and explain.
 <br/>
+<br/>
 One of the user interface event is click the buttons. User would get a response that clear all previous annotation, view the animation, and then find the explain and annotation.
+<br/>
 <br/>
 Another user interface event is the cross filter. User can play with the visualization by selecting a range, creating a brush and drag the brush left and right to see the interaction between different graphs.
 
